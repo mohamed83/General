@@ -1,0 +1,720 @@
+Ebola Outbreak 2014: How Researchers Use Big Data To Help Stop The DiseaseEbola Outbreak 2014: How Researchers Use Big Data To Help Stop The Disease
+
+Jump to Navigation
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+Pulse
+
+
+
+
+
+
+
+
+Start Searching 
+
+
+
+
+
+ 
+
+
+
+Home
+Politics
+Economy
+Markets / Finance
+Companies
+Technology
+Media & Culture
+Sports
+Video
+ 
+Pulse
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Ebola Outbreak 2014: How Researchers Use Big Data To Help Stop The Disease 
+
+    By Kathleen Caulderwood  | Thu, 2014-09-25 11:53  
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+	      Subscribe to IBTimes
+	    
+
+
+
+      Like us on Facebook
+
+
+
+
+
+
+          Subscribe to our Newsletter
+          
+
+Invalid e-mail address.
+
+Email *
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+            A scientist separates blood cells from plasma cells to isolate Ebola RNA to test for the virus at the European Mobile Laboratory in Gueckedou April 3, 2014. Researchers are now turning to big data from social media and mobile phones to help fight the deadliest outbreak ever.          
+
+            Reuters/Misha Hussain           
+
+
+
+The Ebola outbreak in West Africa is the largest ever recorded.To date there have been more than 5,800 cases and 2,800 deaths recorded by the World Health Organization (WHO). The U.S. Centers for Disease Control and Prevention has predicted that it could affect 1.4 million people.  Before this, the largest Ebola outbreak killed 425 people in Uganda more than a decade ago.
+But today, health workers are using a resource they didn’t have back then. 
+“Big data has really changed epidemiology,”  Madhav Marathe, director of Virginia Bioinformatics Institute’s Network Dynamics and Simulation Science Laboratory, said to International Business Times.
+His team has been working with the U.S. Department of Defense for nine years to help track diseases like Ebola and H5N1 and create models to predict how they might spread. Recently, they’ve started using data from cellphones and social media in addition to more traditional methods. 
+“There have been some very interesting new developments that can have a huge impact,” he said, explaining that researchers are now using new sources like cellphone data or social media postings to help them track and fight the deadly virus. “You take all this data and build this virtual city and it allows us to synthesize and fuse multiple data sources to run large-scale simulations.” 
+Caitlin Rivers, one of his Marathe’s team members, has been compiling and analyzing data as part of a new project called “#HackEbola,” in which she digitizes the data put out by local ministries of health and publishes the results online.
+The recent outbreak has only emphasized how weak health systems are in the affected countries. Sub-Saharan Africa is home to 1 percent of the world’s population but bears 24 percent of its global disease burden, according to the WHO. Before the outbreak, Liberia had just one doctor for every 70,000 people, while Sierra Leone one for every 45,000. At the same time, mobile data use has been growing exponentially and is on track to hit 930 million users by the end of 2019, up from 551 million at the end of last year. For doctors fighting Ebola, this is more than an interesting trend -- it’s a valuable resource.
+“If it were happening in the U.S. we’d have a lot of databases for health care and electronic records, but those things don’t exist in the same way over there,” Laura Forsberg White, associate professor of biostatistics at Boston University, told IBtimes. “There is a lot of interest and people feel optimistic that there is a lot we can gain from this that we can’t gain from our traditional data sources.”
+Caroline Buckee, associate director of the Center for Communicable Disease Dynamics at Harvard’s School of Public Health, has spent the last few years using cellphone data to help track diseases. 
+“They are particularly useful sources of data in settings where we don’t have other information,” Caroline Buckee, assistant professor of epidemiology at Harvard School of Public Health, told IBTimes. She and her team have been working with local cellphone providers, who are able to give them data from cellphone users that helps track movement. “This approach could be useful almost anywhere there are people and phones.”
+Basically, whenever a person makes a call, the call is routed through the nearest cellphone tower, which can give an approximate location. 
+
+
+
+
+Flowminder used a random sample of 150,000 anonymous mobile phones to map out average daily movements. This kind of data is being used by researchers to help stem the Ebola outbreak. 
+ Flowminder 
+
+
+“You can build up a picture of where the person is over time, and count the transitions between different towers,” Buckee said, adding that all cellphone providers “anonymize” their data, which means that researchers can analyze how people are moving, without knowing anything else about them, which addresses privacy issues. 
+Buckee recently joined the board of Flowminder, a Stockholm-based organization that uses cellphone data to help NGOs and government agencies tackle large-scale public health problems that come from natural disasters or disease outbreaks. 
+Unlike malaria, Ebola is transmitted by human contact, which means knowing when and how people are moving around can provide incredible insight to researchers trying to stem the outbreak. 
+
+
+
+
+A map created by Flowminder using anonymous cell phone data shows how people move from various urban centers in West Africa. 
+ Flowminder
+
+
+ 
+But it’s not just cellphone movement that’s helping researchers, it’s also what people are using their phones for. 
+HealthMaps is another online platform that combs the Internet to track and predict diseases around the world. Nine days before the WHO announced the outbreak in Guinea on March 23, a team of researchers thousands of miles away already knew about it, because their software had picked up a local news report of “une étrange fièvre,” (a strange fever) in the Guinean town of Macenta on March 14.
+
+
+
+
+HealthMaps has been tracking the Ebola outbreak since March 14. 
+ HealthMaps 
+
+
+“We allow anyone, anywhere in the world to submit a direct report of an outbreak event,” HealthMaps co-founder Clark Freifeld said in a recent interview with Fast Company, adding that the more people become connected, the more possibilities are opened up.
+ 
+
+
+Share on Facebook
+
+
+Share on Twitter
+
+Next
+
+
+
+
+
+ 
+
+
+See The Newest Airbus Make Its First Flight 
+
+
+
+
+
+
+
+
+
+
+
+
+Share on Facebook
+
+
+Share on Twitter
+
+
+Next
+
+
+
+
+ 
+
+
+
+
+
+Join the Discussion
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+Most Shared
+
+
+
+
+
+ 
+
+
+What Horror Movies Are On Netflix? 
+
+
+
+
+
+
+
+
+ 
+
+
+John Oliver Asks Why Are We Still Celebrating Columbus Day 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+Most Read 
+
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+    Latest Stories  
+
+
+ 
+
+
+Mediterranean Diet: Separating Fact From Fiction 
+
+
+0 0 
+
+
+
+ 
+
+
+We'll Tell You What TV Show To Watch 
+
+
+0 0 
+
+
+
+ 
+
+
+What Horror Movies Are On Netflix? 
+
+
+0 0 
+
+Pages1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+next ›
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obama To Hold Cabinet Meeting On Ebola Outbreak 
+
+Hong Kong Activists Surprised By New Police Crackdown 
+
+Egypt Says Its Warplanes Are Bombing Islamist Militias In Libya 
+
+'I Was Assaulted Yet Again In The Police Station' 
+
+
+ 
+ISIS May Have Chemical Weapons, But Can It Use Them?  
+
+
+ 
+Airstrikes Kill Hundreds Of Islamic State Fighters Near Kobani 
+
+
+More Politics 
+
+Africa
+Asia Pacific
+Europe
+
+
+Middle East
+The Americas
+US
+
+
+
+
+
+
+
+
+Four Reasons Why Jean Tirole Won The Nobel Prize In Economics 
+
+Chinese Trade Stronger Than Expected In September  
+
+UK Income Tax Receipts Set To Fall Short Of Target 
+
+Euro Zone Seeks To Soften German Opposition To Stimulus Spending 
+
+
+ 
+Europe Could Save Up To $80B In Energy Imports 
+
+
+ 
+Why Americans Aren't Spending 
+
+
+More Economy 
+
+Africa
+Asia Pacific
+Europe
+
+
+Middle East
+The Americas
+US
+
+
+
+
+
+
+
+
+Toyota Recalls 1.67M Toyota, Lexus Cars 
+
+Big US Banks Post Stronger Profits As Expenses Ease 
+
+Hewlett-Packard And EMC Call Off Merger Talks: Sources 
+
+Probe Of Bergdahl's Capture By Taliban Complete And Under Army Review 
+
+
+ 
+Dow Cuts Losses As Fed Says Economy Seeing Steady Growth 
+
+
+ 
+Dow Dips On Global Economic Fears 
+
+
+More Markets / Finance 
+
+Commodities
+ETF
+Financial Services
+Forex
+
+
+Gold
+Precious Metals
+Market Data
+
+
+
+
+
+
+
+
+Costco Opens Online Store With Alibaba 
+
+Toyota Recalls 1.67 Million Toyota, Lexus Cars 
+
+Citi Pulls Out Of Consumer Banking In 11 Countries 
+
+Hazmat Suit And Face Mask Stocks Surge Amid Ebola Crisis 
+
+
+ 
+How Canada Is Leading The Ebola Fight  
+
+
+ 
+IndiGo To Buy 250 Airbus Aircraft In Largest Order Ever 
+
+
+More Companies 
+
+Autos
+Basic Materials
+Energy
+Manufacturing
+
+
+Real Estate
+Transportation
+Retail/Consumer Goods
+
+
+
+
+
+
+
+
+Google Rolls Out New Nexus Phone, Tablet And, In Surprise, A TV Box 
+
+Skype Qik: Microsoft's Video-Messaging App For A Snapchat Era 
+
+Amazon Out To Prove It's Serious About Games 
+
+How To Avoid Poodle Hack, Step One: Don't Panic 
+
+
+ 
+Google Takes On Apple TV, Amazon Fire TV With Nexus Player 
+
+
+ 
+Apple Set To Unveil New iPads, Macs  
+
+
+More Technology 
+
+Companies
+Mobile
+Computers
+Games
+
+
+Internet
+Social Media
+Science
+
+
+
+
+
+
+
+
+Heeere's Jay Leno -- Again 
+
+LA Galaxy Gay Soccer Player Robbie Rogers Inspires ABC Comedy 'Men In Shorts' 
+
+Bentley The Ebola Dog Will Not Be Euthanized 
+
+Avalanche In Nepal Kills At Least 17 Climbers, Several Missing 
+
+
+ 
+'Friends' Will Be There For You On Netflix — Every Episode 
+
+
+ 
+Neil Young Talks PonoPlayers And David Crosby On 'The Howard Stern Show' 
+
+
+More Media & Culture 
+
+Art
+Books
+Education
+Entertainment
+
+
+Industry News
+People
+Travel
+
+
+
+
+
+
+
+
+Injury Woes Deepen For Arsenal 
+
+Chargers Become Contenders Under Second-Year Coach  
+
+England's National Pastime Could Be Its Latest Export  
+
+
+ 
+2014 Playoffs Help Usher In New Era Of Baseball  
+
+
+ 
+Future Of United Target In Doubt 
+
+
+More Sports 
+
+NFL
+MLB
+NBA
+NHL
+
+
+Tennis
+Golf
+Soccer
+World Cup
+
+
+
+
+
+
+
+
+Miley Cyrus' New Short Film Features Drug Use And NSFW Content 
+
+Honoring The Man Who Helped Develop Kevlar And Saved Countless Lives 
+
+Should We Be Able To Pay For Different Levels Of Quality In Our Medicines? 
+
+Brandeis University Needs To Take Its 'Core Principles' Seriously - Letter 
+
+
+ 
+One More Thing On The Apple Keynote: Why No Diversity? 
+
+
+ 
+'Bang Bang' Video: Sexually Empowering Or Objectifying Women? 
+
+
+More Opinion 
+
+Analysis
+Fighting Words
+
+
+SportsNet
+
+
+
+
+
+
+
+ 
+Resident Evil Revelations 2 Will Break Tradition 
+
+
+ 
+Stocks Gyrate In Volatile Week: Is The Party Over?  
+
+
+ 
+Interbrand Unveils Best Global Brands In 2014 
+
+
+ 
+The Ultimate Naruto Fighting Game 
+
+
+ 
+The Legend Of Zelda Meets Dynasty Warriors 
+
+
+ 
+What Does Siri Think Of Apple’s Tax Shenanigans? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Did You Like This Story?
+
+ 
+
+
+Share on Facebook
+
+
+Share on Twitter
+
+
+No Thanks 
+
+ 
+
+
+
+
+
+About IBTimes
+
+About Us
+Leadership
+Advertise with Us
+Media Kit
+Contact
+Careers
+Terms of Service
+Privacy
+IBT Media
+Press Releases
+Syndication
+ 
+
+
+
+© 2014 IBT Media All Rights Reserved
+
+
+
+
+
+

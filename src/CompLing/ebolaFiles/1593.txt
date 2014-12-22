@@ -1,0 +1,1389 @@
+Ebola Fight Hampered By Poor Analytics - InformationWeekEbola Fight Hampered By Poor Analytics - InformationWeek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Executive Insights & Innovation 
+
+
+
+
+Team Building & Staffing
+
+
+
+
+IT Strategy
+
+
+
+
+Digital Business
+
+
+
+
+Enterprise Agility
+
+
+
+
+
+
+
+
+Enterprise Applications
+
+
+
+
+Information Management
+
+
+
+
+Operating Systems
+
+
+
+
+Productivity/Collaboration Apps
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Attacks & Breaches
+
+
+
+
+Application Security
+
+
+
+
+Cloud Security
+
+
+
+
+Endpoint Security
+
+
+
+
+Mobile Security
+
+
+
+
+Perimeter Security
+
+
+
+
+Risk Management
+
+
+
+
+Operations Security
+
+
+
+
+Analytics
+
+
+
+
+Vulnerabilities & Threats
+
+
+
+
+
+
+
+
+Infrastructure as a Service
+
+
+
+
+Platform as a Service
+
+
+
+
+Software as a Service
+
+
+
+
+Cloud Storage
+
+
+
+
+
+
+
+
+Mobile Applications
+
+
+
+
+Mobile Devices
+
+
+
+
+Mobile Business
+
+
+
+
+
+
+
+
+Big Data Analytics
+
+
+
+
+Hardware/Architectures
+
+
+
+
+Software Platforms
+
+
+
+
+
+
+
+
+Networking
+
+
+
+
+Storage
+
+
+
+
+Wireless Infrastructure
+
+
+
+
+Data Center
+
+
+
+
+Unified Communications
+
+
+
+
+Cloud Infrastructure
+
+
+
+
+Applications
+
+
+
+
+Careers
+
+
+
+
+PCs and Servers
+
+
+
+
+
+
+
+
+Big Data/Analytics
+
+
+
+
+Cloud Computing
+
+
+
+
+Cybersecurity
+
+
+
+
+Enterprise Architecture
+
+
+
+
+Leadership
+
+
+
+
+Mobile & Wireless
+
+
+
+
+Open Government
+
+
+
+
+
+
+
+
+Electronic Health Records
+
+
+
+
+Mobile & Wireless
+
+
+
+
+Analytics
+
+
+
+
+Policy & Regulation
+
+
+
+
+Leadership
+
+
+
+
+Security & Privacy
+
+
+
+
+Clinical Systems
+
+
+
+
+Patient Tools
+
+
+
+
+
+
+
+
+
+
+
+Advertise With Us
+
+About Us
+Contact Us
+Digital Subscription
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+News & Commentary
+Authors
+Slideshows
+Video
+Reports
+White Papers
+Events
+Interop
+Strategic CIO
+Software
+Security
+Cloud
+Mobile
+Big Data
+Infrastructure
+Government
+Healthcare
+IT Life
+
+
+
+
+
+
+
+About Us
+Contact Us
+Digital Subscription
+Advertise with Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+Twitter
+LinkedIn
+Google+
+RSS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow IW:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+News & Commentary
+Authors
+Slideshows
+Video
+Reports
+White Papers
+Events
+Interop
+
+
+
+
+
+
+
+Strategic CIO
+
+Software
+
+Security
+
+Cloud
+
+Mobile
+
+Big Data
+
+Infrastructure
+
+Government
+
+Healthcare
+
+IT Life
+
+
+
+
+
+Government // Big Data Analytics
+
+
+
+
+
+
+
+
+
+
+9/8/201409:06 AMEllis BookerNewsConnect Directly6 commentsComment NowLogin100%0%
+
+
+Tweet
+
+
+
+
+
+Ebola Fight Hampered By Poor AnalyticsResearchers and clinicians need better data to supplement sketchy reports from the field about Ebola's spread.Within six months, there could be as many as 20,000 Ebola cases, the World Health Organization estimated last week. The BBC reported Friday that more than 2,000 people of 3,044 known cases in West Africa have already died in the current outbreak.
+The WHO is just one of the government agencies and groups around the world marshalling advanced data science to monitor the worst-ever epidemic of the virulent hemorrhagic disease, which was first seen nearly 40 years ago.
+While the WHO estimate is in line with other projections, a real worry is that the data feeding these epidemiological models may not reflect the reality on the ground.
+[Tech for field workers: Mobile Health Apps Have Role In Ebola Crisis.]
+Several experts reached by InformationWeek underscored the analytical challenge of extrapolating from data collected in the field, given chaotic conditions, hard-to-reach villages, and weak or nonexistent health infrastructures in the affected regions of Africa, where all the Ebola infections have occurred to date.
+"In this case, the most significant obstacle is that case tracking has to be done on kind of a shoe leather basis," Andrew Schroeder, PhD, told InformationWeek. Schroeder is director of research and analysis at Direct Relief, a California nonprofit founded in 1948 that focuses on bringing critically needed medicines and supplies to local healthcare providers worldwide.
+But case-tracking is not something nonprofits like his are particularly good at, Schroeder said. "It's really not our bailiwick," he said. Compounding this problem, many of the African countries hardest hit hardest hit by Ebola lack functioning vital health and census departments, he added.
+
+
+
+
+A researcher wears a bio-hazard suit while working with the Ebola virus. (Source: United States Army Medical Research Institute of Infectious Diseases)
+
+A separate, ongoing problem is that accurate data collection is being hampered because of under-reporting of cases by individuals, fearing repercussions for themselves or their families.
+To get a handle on case-tracking -- or more precisely, contact-tracking -- the Centers for Disease Control at the end of April announced Epi Info VHF, a software tool to help find people exposed to the deadly virus faster.
+In addition to facilitating contact tracking, the tool assists with the collection and management of epidemiologic, clinical, and laboratory information for every case. This data is crucial for developing outbreak countermeasures.
+Epi Info VHF is specifically designed for outbreaks of viral hemorrhagic fevers such as Ebola, Marburg, Rift Valley, Lassa, and Crimean-Congo. The open source program runs on the Epi Info software platform that CDC has made freely available since the 1990s. It features virus-transmission diagrams that help field workers visualize outbreak spread between people and automated tools that speed contact tracing and data analysis.
+Outside the efforts of international and governmental agencies like WHO and CDC, a slew of data projects have launched to monitor the Ebola outbreak.
+For example, HealthMap's Ebola page, which has been operational since the middle of July, takes data from a variety of places: formal sources like health ministries and the WHO, as well as informal ones like social media and news reports.
+"The system is updated hourly, but with Ebola events, there's so much information and misinformation that we're spending a little more time manually checking," John Brownstein, PhD, told InformationWeek in a phone interview. An associate professor at Harvard Medical School, Brownstein directs the Computational Epidemiology Group at the Children's Hospital Informatics Program in Boston.
+HealthMap's objective is to organize, filter, tag, and make real-time surveillance of emerging public health threats available to clinicians, policy makers, and citizens. HealthMap was founded by Brownstein and a team of researchers, epidemiologists, and software developers at Boston Children's Hospital in 2006.
+Among other uses, the Ebola map can help clinicians make a diagnosis faster. "If a patient has a travel history, this can help inform a diagnosis," Brownstein explained, noting that some of the more traditional sources may not have HealthMap's real-time information.
+The map itself has been getting hundreds of thousands of views, and is closing in on 1 million views, including, recently, a major uptick from countries like Ghana and Nigeria, Brownstein said.
+Like others reached for this story, Brownstein said the Ebola crisis is especially challenging from a data standpoint.
+"It's a massive [data collection] challenge," he said, noting that underfunded public health infrastructures in the affected regions make it hard to get good data.
+To date, there is no internationally accepted epidemiological forecasting algorithm. But the Ebola crisis and other epidemics have made this a priority in academia and government circles.
+For example, last year the CDC hosted a competition around models and methods, and currently DARPA is hosting a competition for models related to Chikungunya, a viral disease transmitted by the bite of infected mosquitoes.
+Other computer simulations may help predict the path of Ebola.
+A computer model from Northeastern University professor Alessandro Vespignani suggests Ebola may be headed next to Gambia, Ghana, and Senegal.
+"There is a tangible risk of spreading in the region to other countries," Vespignani told National Public Radio, "probably in the ballpark of 20% to 30% in the next few weeks."
+InformationWeek's David F. Carr also contributed to this story.
+Apply now for the 2015 InformationWeek Elite 100, which recognizes the most innovative users of technology to advance a company's business goals. Winners will be recognized at the InformationWeek Conference, April 27-28, 2015, at the Mandalay Bay in Las Vegas. Application period ends Jan. 9, 2015.
+Ellis Booker has held senior editorial posts at a number of A-list IT publications, including UBM's InternetWeek, Mecklermedia's Web Week, and IDG's Computerworld. At Computerworld, he led Internet and electronic commerce coverage in the early days of the web and was ... View Full BioComment  | Email This  | Print  | RSSMore InsightsWebcasts
+Simplified IT 105: Making the Most Of the Cloud
+
+eSecurity 102: Protecting Back-End Systems
+More WebcastsWhite Papers
+Case Study: Rhode Island Blood Center
+
+6 Benefits of Upgrading to Modern Operating Systems
+More White PapersReports
+Ponemon Institute Research: How IT security is addressing threats to structured and unstructured data
+
+2014 US IT Salary Survey: Healthcare 2014 US IT Salary Survey: Healthcare
+More Reports
+
+
+Comments
+
+
+
+Newest First  |  Oldest First  |  Threaded View
+
+
+
+
+
+
+
+
+
+[close this box]
+
+
+
+
+
+
+
+
+
+
+
+
+Login50%50%
+nomii,
+User Rank: Ninja9/15/2014 | 3:53:45 AM
+
+
+
+
+
+Re: cell phones penetration 
+You are right technocrati, it would have been reactionary or they might have some data regarding the travel habit of the people living in certain areas where infection was spread like which cities the habitants travel to most frequently. Such data could have helped them tracking infectious movement in early days.
+
+Reply  |  Post Message  |  Messages List  |  Start a Board
+
+
+
+
+
+
+
+
+
+Login50%50%
+Gary_EL,
+User Rank: Ninja9/14/2014 | 4:34:33 PM
+
+
+
+
+
+Re: First things first 
+I think there is even something worse to consider. Say they find a biochemical method to combat this virus, but nothing of significance is done to eliminate the conditions under which it can thrive. The virus will simply mutate, and evolve into something that this particular biochemical method can't combat. So, you're back to square one, AND WORSE - the new augmented virus may be able to propagate itself in a manner that will be a threat to everyone, not just those who are forced to live in squalor. I had a friend who worked in infection control in a hospital, and his favorite quote was "you can't clean dirt."
+
+Reply  |  Post Message  |  Messages List  |  Start a Board
+
+
+
+
+
+
+
+
+
+Login50%50%
+Technocrati,
+User Rank: Ninja9/14/2014 | 4:27:24 PM
+
+
+
+
+
+Re: cell phones penetration 
+@Thomas   I agree. Mobile tracking has to be instituted in this case if there is an opportunity to do so. 
+I just wonder what was being done before mobile phones to track infectious movement in poor countries ?   Probably not much and if there was - it was most likely reactionary at best.
+
+Reply  |  Post Message  |  Messages List  |  Start a Board
+
+
+
+
+
+
+
+
+
+Login50%50%
+Technocrati,
+User Rank: Ninja9/14/2014 | 4:23:08 PM
+
+
+
+
+
+Re: First things first 
+@Gary_EL    You make a good point, improving infrastructure would go along way towards reducing outbreaks like this - it has been an issue for the Africa for centuries, but to your point - it would be the first step towards long-term containment and reduction of these types of deadly viruses.
+
+Reply  |  Post Message  |  Messages List  |  Start a Board
+
+
+
+
+
+
+
+
+
+Login50%50%
+Thomas Claburn,
+User Rank: Author9/8/2014 | 4:03:46 PM
+
+
+
+
+
+cell phones penetration 
+If and when Ebola reaches an area with sufficiently high mobile phone penetration, that would probably be a good time to de-anonymize mobile phone records to health officials so they can track infected individuals for mapping contagion and directing resources.
+
+Reply  |  Post Message  |  Messages List  |  Start a Board
+
+
+
+
+
+
+
+
+
+Login50%50%
+Gary_EL,
+User Rank: Ninja9/8/2014 | 2:56:38 PM
+
+
+
+
+
+First things first 
+Statistical methods require good data, which simply isn't available here due to the reasons well-described in this article. Unfortunately, this isn't a job for computer scientists. It's a job for plumbers, to install running water and toilets. From what I've read about this horror, it'll spread until it reaches the dessert or an area with proper hygiene. I've been reading, with growing horror, about areas HERE IN THE UNITED STATES that are loosing running water, due to drought and the financial breakdown of certain municipal governments.
+
+Reply  |  Post Message  |  Messages List  |  Start a Board
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reports
+
+
+
+
+
+
+Infographics
+
+
+
+
+
+
+
+
+
+
+
+Skirting the Big Data Expertise Shortage
+
+Federal departments and agencies have embraced big data in a big way, despite a shortage of trained and experienced workers, particularly data scientists. What tools and strategies are helping bridge the divide?
+
+
+Download Now!
+
+
+
+
+
+
+More Reports 
+
+
+
+
+
+
+
+
+
+Big Data, Big Challenges
+
+If theres one asset the U.S. government has in abundance, its data. But a fight for expertise is hindering both the public and private sectors when it comes to managing and mining information. Can Uncle Sam compete for talent?
+
+
+
+0 comments
+ | Read | Post a Comment
+
+
+
+
+
+
+
+CIOs Get Smart About BI
+
+
+
+
+0 comments
+
+
+
+
+
+
+
+More Infographics 
+
+
+
+
+
+
+
+
+
+
+Subscribe to Newsletters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Live Events
+
+
+
+
+
+
+Webinars
+
+
+
+
+
+
+
+
+
+
+
+
+
+More UBM TechLive Events
+
+
+
+App Developer Conference @ GDC NextConsumerization of IT?: Worry About the Consumerization of ServiceJoin Security Experts at Black Hat Europe
+
+
+
+
+
+
+
+
+
+Simplified IT 105: Making the Most Of the CloudeSecurity 102: Protecting Back-End SystemseSecurity 101: Protecting the Customer-Facing Website
+
+
+
+
+Webinar Archives 
+
+
+
+
+
+
+
+
+
+
+
+
+White Papers
+
+
+
+
+
+AT&T Synaptic Storage as a Service with Enterprise File Sync and Share
+
+
+HIPAA Violations Incur Multi-Million Dollar Penalties
+
+
+Federate Identities - Key to Seamless SSO
+
+
+Healthcare Information Management: A New Urgency
+
+
+Defense Against the Dark Arts: Finding and Stopping Advanced Threats
+
+
+
+
+
+
+More White Papers
+
+
+
+
+
+
+
+
+
+
+Current Issue
+
+
+
+
+InformationWeek Tech Digest October 13, 2014Windows still dominates the enterprise data center, our new survey shows, but other options are on the rise.
+Download This Issue!
+Subscribe Now!
+
+
+
+
+
+
+Back Issues | Must Reads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SnapLogic CEO Talks About Changing Role Of IT
+
+
+1 Comments
+
+
+
+
+
+
+
+
+
+Changing IT Organizations: Anaplan
+
+
+1 Comments
+
+
+
+
+
+
+
+
+
+Accenture Strategy Talks Digital Strategy ...
+
+
+1 Comments
+
+
+
+
+
+
+
+
+
+Digital Strategy/Disruption: SnapLogic ...
+
+
+3 Comments
+
+
+
+
+
+
+
+
+
+UPMC Tech Dev Center Chief Discusses ...
+
+
+0 Comments
+
+
+
+
+
+
+
+
+
+IT Speed & Agility: Battery Ventures ...
+
+
+0 Comments
+
+
+
+
+
+
+
+
+
+IT Speed & Agility: Battery Ventures ...
+
+
+0 Comments
+
+
+
+
+
+
+
+
+
+GE Power & Water CIO Discusses IT Speed & ...
+
+
+1 Comments
+
+
+
+
+
+
+
+
+
+Coca-Cola Bottling CIO Talks BYOD: Part 1
+
+
+1 Comments
+
+
+
+
+
+
+
+
+
+H.D. Smith CIO On BYOD Challenges
+
+
+0 Comments
+
+
+
+
+
+
+
+
+
+Coca-Cola Bottling CIO Talks BYOD: Part 2
+
+
+0 Comments
+
+
+
+
+
+
+
+
+
+IT For Competitive Advantage Interview: Box
+
+
+1 Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Videos 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slideshows
+
+
+
+
+
+
+
+10 Robots Changing The World
+
+
+
+1 comments
+ | Read | Post a Comment
+
+
+
+
+
+
+
+
+Apple's Next iPads: 13 Things To Expect
+
+
+6
+
+
+
+
+
+
+7 Cool Wearables For Pets
+
+
+21
+
+
+
+
+
+
+More Slideshows
+
+
+
+
+
+
+
+
+
+
+Twitter Feed
+
+
+Tweets about "from:InformationWeek OR #InformationWeek OR @InformationWeek"
+
+
+
+
+
+
+
+
+
+InformationWeek Radio
+
+
+
+
+Archived InformationWeek Radio
+
+This InformationWeek
+A weekly roundup of the top stories and community discussions at InformationWeek.com.
+
+
+
+
+
+FULL SCHEDULE | ARCHIVED SHOWS
+
+
+
+
+
+
+
+
+
+
+
+Sponsored Live Streaming Video
+
+
+
+
+Everything You've Been Told About Mobility Is Wrong Attend this video symposium with Sean Wisdom, Global Director of Mobility Solutions, and learn about how you can harness powerful new products to mobilize your business potential.
+
+464 comments
+ | Read | Post a Comment
+
+
+
+
+
+
+Full schedule | Archived Shows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Us
+Contact Us
+Customer Support
+Reprints
+Editorial Calendar
+
+
+Twitter
+Facebook
+LinkedIn
+Google+
+RSS
+
+
+
+Featured UBM Tech Sites InformationWeek | Network Computing | Dr. Dobbs | Dark ReadingOur Markets: Business Technology | Electronics | Game & App DevelopmentWorking With Us: Advertising Contacts | Event Calendar | Tech Marketing Solutions | Corporate Site | Contact Us / Feedback Terms of Service  | Privacy Statement  | Copyright © 2014 UBM Tech, All rights reserved
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To rate this item, click on a rating below.
+
+
+
+
+
+[close this box]
+
+
+
+
+ 
+To save this item to your list of favorite InformationWeek content so you can find it later in your Profile page, click the "Save It" button next to the item.
+ 
+
+
+
+
+
+If you found this interesting or useful, please use the links to the services below to share it with other readers.  You will need a free account with each service to share an item via that service.
+ Tweet This
+[close this box]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

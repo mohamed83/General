@@ -1,0 +1,443 @@
+This protein may explain why Ebola is so deadly - FuturityThis protein may explain why Ebola is so deadly - Futurity
+
+
+
+Futurity Research news from top universities.
+
+
+
+
+
+
+
+
+
+
+
+shareConnect
+
+
+
+twitterTwitter
+facebookFacebook
+googleplusGoogle+
+
+
+mailSubscribe
+
+
+list
+
+
+
+Sci-Tech
+Health
+Environment
+Culture
+
+University 
+
+Boston University
+Brandeis University
+Brown University
+California Institute of Technology
+Cardiff University
+Carnegie Mellon University
+Case Western Reserve University
+Columbia University
+Cornell University
+Duke University
+Emory University
+ETH Zurich
+Georgia Institute of Technology
+Indiana University
+Iowa State University
+Johns Hopkins University
+McGill University
+Michigan State University
+Monash University
+National University of Singapore
+New York University
+Northwestern University
+Penn State
+Princeton University
+Purdue University
+Rice University
+Rutgers
+Stanford University
+Stony Brook University
+Syracuse University
+Texas A&M University
+Tulane University
+University at Buffalo
+University College London
+University of Arizona
+University of California at Irvine
+University of California, Berkeley
+University of California, Davis
+University of California, Santa Barbara
+University of Chicago
+University of Colorado at Boulder
+University of Florida
+University of Illinois
+University of Iowa
+University of Kansas
+University of Leeds
+University of Maryland
+University of Melbourne
+University of Michigan
+University of Minnesota
+University of Missouri
+University of North Carolina at Chapel Hill
+University of Nottingham
+University of Oregon
+University of Pennsylvania
+University of Pittsburgh
+University of Queensland
+University of Rochester
+University of Sheffield
+University of Southampton
+University of Southern California
+University of Texas at Austin
+University of Toronto
+University of Virginia
+University of Warwick
+University of Washington
+University of York
+Vanderbilt University
+Washington University in St. Louis
+Yale University
+
+
+
+University
+Boston University
+Brandeis University
+Brown University
+California Institute of Technology
+Cardiff University
+Carnegie Mellon University
+Case Western Reserve University
+Columbia University
+Cornell University
+Duke University
+Emory University
+ETH Zurich
+Georgia Institute of Technology
+Indiana University
+Iowa State University
+Johns Hopkins University
+McGill University
+Michigan State University
+Monash University
+National University of Singapore
+New York University
+Northwestern University
+Penn State
+Princeton University
+Purdue University
+Rice University
+Rutgers
+Stanford University
+Stony Brook University
+Syracuse University
+Texas A&M University
+Tulane University
+University at Buffalo
+University College London
+University of Arizona
+University of California at Irvine
+University of California, Berkeley
+University of California, Davis
+University of California, Santa Barbara
+University of Chicago
+University of Colorado at Boulder
+University of Florida
+University of Illinois
+University of Iowa
+University of Kansas
+University of Leeds
+University of Maryland
+University of Melbourne
+University of Michigan
+University of Minnesota
+University of Missouri
+University of North Carolina at Chapel Hill
+University of Nottingham
+University of Oregon
+University of Pennsylvania
+University of Pittsburgh
+University of Queensland
+University of Rochester
+University of Sheffield
+University of Southampton
+University of Southern California
+University of Texas at Austin
+University of Toronto
+University of Virginia
+University of Warwick
+University of Washington
+University of York
+Vanderbilt University
+Washington University in St. Louis
+Yale University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Health and Medicine
+
+
+
+Related Articles
+
+
+ 
+
+Sleeping babies respond to angry voices
+
+
+
+
+ 
+
+Activity, not just calories, key to kids’ weight
+
+
+
+
+ 
+
+Gut microbes mix with toxins to make us fat?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Share This Article
+facebook
+twitter
+Action
+
+googleplusGoogle+
+linkedinLinkedIn
+pinterestPinterest
+redditReddit
+Stumbleupon
+mailEmail
+
+
+
+
+
+"We've known for a long time that infection with Ebola obstructs an important arm in our immune system that is activated by molecules called interferons," says Gaya Amarasinghe. "Now that our map of the combined structure of these two proteins has revealed one critical way Ebola does this, the information it provides will guide the development of new treatments." (Credit: Global Panorama/Flickr)  
+This protein may explain why Ebola is so deadly
+
+Washington University in St. Louis rightOriginal Study
+Posted by Michael Purdy-WUSTL on August 14, 2014 
+
+Discovery of a protein that makes the Ebola virus so effective at evading the immune system—and so deadly—may lead to more effective treatments, researchers say.
+The Ebola virus, in the midst of its biggest outbreak on record, has infected about 1,800 people since March in four West African nations and killed more than half of them, according to the World Health Organization.
+Related Articles On FuturityCalifornia Institute of TechnologyStudy upends view that bone marrow cells are bystandersUniversity of California, DavisMouse mom’s immune response alters baby’s brainUniversity of PennsylvaniaExtra sleep may help us feel better faster
+Researchers have developed a detailed map of how the protein, VP24, binds to a host protein that takes signaling molecules in and out of the cell nucleus. The map reveals that the viral protein takes away the host protein’s ability to carry an important immune signal into the nucleus.
+This signal helps activate the immune system’s antiviral defenses, and blocking it is believed to contribute significantly to the virus’s deadliness.
+“We’ve known for a long time that infection with Ebola obstructs an important arm in our immune system that is activated by molecules called interferons,” says senior author Gaya Amarasinghe, assistant professor of pathology and immunology at University of Washington in St. Louis.
+“Now that our map of the combined structure of these two proteins has revealed one critical way Ebola does this, the information it provides will guide the development of new treatments.”
+Protein blocker
+Coauthor Christopher Basler, professor of microbiology at Mount Sinai Hospital was the first to show that VP24 and VP35 were important to the virus’s ability to keep the immune system at bay.
+In an earlier paper, Amarasinghe, Basler, and others revealed that VP35 blocks production of interferon, one of the main regulators of the innate immune system. This branch of the immune system specializes in fighting viruses.
+“Interferon is critical to our ability to defend ourselves against viruses,” Basler says. “It makes a variety of responses to viral infection possible, including the self-destruction of infected cells and the blockage of supplies necessary for viral reproduction.”
+In the new study, published in Cell Host & Microbe, Amarasinghe and Daisy Leung, assistant professor of pathology and immunology, show that VP24 tightly binds to a nuclear transporter, a protein that takes molecules into and out of the cell nucleus. Among the molecules these transporters take into the nucleus is STAT1, an important component of the interferon signaling pathway.
+“Normally STAT1 is transported into the nucleus and activates the genes for hundreds of proteins involved in antiviral responses,” Leung says. “But when VP24 is attached to some of these transporters, STAT1 can’t get into the nucleus.”
+The study shows that VP24’s action specifically prevents STAT1 transport. Other proteins that travel in and out of the cell nucleus and are important to viral replication likely are unaffected. The scientists already have initiated efforts to look for small molecules that block VP35 and now are applying those same approaches to VP24.
+A National Institutes of Health grant is helping Amarasinghe and other researchers look for drugs to block VP24 and another Ebola protein, VP35. The group includes researchers at the Icahn School of Medicine at Mount Sinai, Washington University, the University of Texas Southwestern Medical Center, Howard University, and Microbiotix Inc., a Massachussetts biopharmaceutical company.
+Source: Washington University in St. Louis
+
+chat1 Comment
+
+actionShare 
+
+Facebook
+Twitter
+Google+
+LinkedIn
+Pinterest
+Reddit
+Stumbleupon
+Email
+
+
+You are free to share this article under the Creative Commons Attribution-NoDerivs 3.0 Unported license.
+
+
+
+DOI: 10.1016/j.chom.2014.07.008  rightOriginal Study
+										Related Topics: Ebola, immune systems, infectious diseases 
+
+
+NEXT UP
+Sleep loss burns calories at both ends
+University of Colorado at Boulder 
+
+
+
+1 Comment
+
+
+pencilAdd A Comment
+
+
+
+
+
+
+
+		Sam Kneller		September 4, 2014
+
+
+The article indicates, ‘hundreds of proteins involved in antiviral responses’. Does one protein fight one virus? or is it a combination of various proteins that combat a virus? With ‘hundreds’ of proteins the combinations can be enormous. When there’s talk about strengthening the immune system is it referring to building up these proteins?
+ 
+
+
+
+delete Cancel Reply
+
+
+
+Your Name*
+
+
+
+
+
+
+
+Your Email Address*
+
+
+
+
+
+					We respect your privacy.				
+
+
+
+Your URL
+
+
+
+
+
+
+
+Your Comment
+
+
+
+
+Submit Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+SHARE ARTICLE
+
+
+
+
+Your Name*Your Email*Their Email*
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		    This protein may explain why Ebola is so deadly		  
+
+
+
+
+
+
+
+
+
+
+
+
+© 2014 Futurity. All Rights Reserved.
+
+
+Sci-Tech
+Health
+Environment
+Culture
+Contact
+Archives
+About Futurity
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

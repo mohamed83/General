@@ -1,0 +1,1028 @@
+Pathogen Perspectives: Ebola Convalescent Serum: It's No Magic BulletPathogen Perspectives: Ebola Convalescent Serum: It's No Magic Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pathogen Perspectives
+
+
+
+exploring the world of emerging infectious disease
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About Me
+2014 Ebola Epidemic Relief Effort Resources
+Photojournalist Mariella Furrer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wednesday, September 17, 2014
+
+
+
+
+
+
+
+
+Ebola Convalescent Serum: It's No Magic Bullet
+
+
+
+
+
+Hello Dear Friends,
+
+
+
+
+
+There have been many questions since Dr. C.J. Peters was quoted here (9/8/14) saying that convalescent serum from Ebola survivors was unlikely to help treat patients. In this post I go into detail about the data we have that supports this statement. In a future post I will discuss the why of it.
+
+OK. Much of what's been said in the media and by scientists gives the illusion that the effectiveness of Ebola convalescent blood as a treatment for Ebola virus disease is an established and recognized fact. WHO's endorsement and the New York Times article on it has, I think, given people some false hope. Don't get me wrong. West Africa is in a tough spot and I understand why it's being tried. Why not? What else do we have to offer these people? But that doesn't mean it will work. And while I strongly encourage doing everything we can think of to help people, in a situation with limited resources we should focus on those options with the most data to support them and avoid things that might make the situation worse. Since the WHO's announcement, survivor blood has become a hot commodity and now there's a black market for it. How many will suffer a second time because others will surely go to great lengths to get their blood? Blood that will most likely turn out to be unhelpful. But unfortunately, most looking at this situation (like me before I researched it) only know that convalescent serum can work really well for some viruses so they assume it's worth trying. Unfortunately all viruses are not created equal and if those considering this treatment actually looked at the data for Ebola they would see that it tells us this new treatment strategy will almost certainly fail. So let's take a look at this data.
+
+(By the way, if you're confused about names and abbreviations for Ebola viruses you're not alone. For clarification check out Ian Mackay's explanation at Virology Down Under.)
+
+First let's clarify something: what in the heck is "convalescent serum"? To understand what "serum" is, we need to know what blood plasma is, so let me quickly explain. Blood plasma is that light yellow liquid part of the blood that keeps whole blood cells in suspension (keeps them from settling). Plasma contains a lot of important things including, but not limited to, dissolved proteins, glucose, hormones and clotting factors. Blood plasma without the clotting factors is called "serum". Convalescent serum is then serum from the blood of a person who has recovered (convalesced) from an infection, such as a viral infection. This serum may or may not contain those dissolved proteins that could be helpful to fight an infection such as antibodies. Antibodies are proteins made in response to "foreign" bodies, such as viruses, and can help get rid of them. For more details about how antibodies are made and work read this post. You should also know that giving serum that is thought to confer immunity from one organism to another, is called "passive immunization" or "passive transfer". It's important to note here that convalescent serum can also contain drugs or microorganisms so it must be tested both for safety and effectiveness before giving it as a treatment.
+
+As was mentioned in my Q&A with Dr. Peters, for some viruses such as Junin, the virus that causes Argentine hemorrhagic fever, we know that convalescent serum is very effective and is used on a regular basis(1-3). But what do we really know about the use of convalescent plasma or serum for Ebola patients?
+
+Well what's been touted as hard evidence in the media lately are two specific instances in which Ebola patients were given convalescent serum and survived. Well OK then. We're done here right? Not so fast. Let's take a closer look at these cases.
+
+
+
+
+A huge thank you to Mariella Furrer for allowing me to use this photo. Ms. Furrer is an award winning freelance photojournalist based between Kenya and South Africa who has spent her remarkable career documenting some of the most egregious human rights issues. She also documented the 1995 Kikwit Ebola outbreak. Read more about Mariella on my page dedicated to her and her work.
+
+The first is the 1999 paper by Mupapa et al (4) that describes the treatment of 8 Ebola patients from the 1995 Kikwit outbreak. These patients received blood transfusions of whole blood donated by 5 convalescent patients. The blood was tested and found to have ELISA antibodies against Ebola and no viral antigen was detected. So in this case the patients received whole blood, not just serum, but the principle is the same and 7 of the 8 patients lived. WOW! So that blood really worked!! Well, not necessarily. You see, there's more at work here than just the blood transfusion. The authors of the paper  indicated that those 8 patients not only received blood transfusions, they got better supportive care, and with Ebola supportive care may keep you alive just enough for your body to fight the virus on it's own. In fact, another paper published in 1999, by Sadek et al (5), found that with Ebola, the longer you live the better your chances of survival. Sound obtuse? Well, they made a timeline for patients that included time of symptom onset and time of death or survival and it revealed a striking correlation between length of disease and survival: "In general, patients who survived the disease for at least 1 week had a probability of survival of 30%. The rate increased to ~70% for those who survived the first 2 weeks beyond the onset of symptoms." So when were the blood transfusions done? Well, they were done on day 10 post symptom onset. So those patients already had an increased probability of survival. And after adjusting the data for age, sex, and days after onset of symptoms, there was no statistical evidence of a survival benefit from the blood transfusions. Read the paper. Their methods and stats were robust. Furthermore, another paper discussing the same outbreak (6) had this to say, "Oral or intravenous rehydration, provision of adequate calories through oral food intake, and possibly treatment with antibiotics and antimalarial drugs to prevent infections are probably the most important measures to improve survival among EBO patients."
+
+The second case that's been making the media rounds is that of lone virologist Geoff Platt who in 1976, while working with an unidentified virus that was similar to Marburg, accidentally stuck himself with a needle. You can read the paper about his case here (7), and there's a recent article that includes him here. According to the paper, within 24 hours of the first onset of symptoms he began receiving intramuscular injections of human interferon, a protein made by cells to fight viruses. His course of interferon treatment included 3 million units every 12 hours for 14 days. About 24 hours later he was given his first infusion of convalescent serum taken from patients who'd recovered from the 1976 Yambuku Zaire (now DRC) Ebola Zaire outbreak. It was learned later that the virus he'd been infected with was Ebola Sudan. Geoff recovered and in fact after the first infusion of serum the numbers of Ebola particles in his blood dropped significantly. Wow! That serum really worked!! Well, not so fast. You see, they were determining the amount of virus in his blood (viremia) using a guinea pig assay (2 guinea pigs per point). Because taking blood from an Ebola patient and sticking it into a guinea pig can be a bit scary, they didn't take many samples so the actual data from the viremia assay isn't reliable. So it's possible it didn't have as much of an effect as was deduced. This, combined with the fact that this man received interferon and excellent supportive care, makes it impossible to say definitively that it was the serum from the Zaire survivor that was responsible for his recovery (not to mention we have no evidence that different Ebola species provide cross protection).
+
+So those are the cases being touted as proof that convalescent serum from Ebola patients is exactly what these suffering people need and yet, they don't really tell us that. But there is a lot more evidence that this strategy won't work including:
+
+
+During Kikwit outbreak, convalescent serum from Ebola survivors was given to cyncynomolgus macaques and it failed to protect any of the monkeys from challenge with EBOV. (unpublished data C.J.Peters., 1995)
+
+
+During Ebola vaccine study in guinea pigs, animals that were protected from lethal challenge were bled and their serum was given to naive animals. The vaccinated guinea pig donors all survived. Their serum failed to protect other guinea pigs; all died after Ebola challenge. (8)
+
+
+Passive
+immunization of cynomolgus macaques with high-titer equine
+immunoglobulin against Ebola Zaire failed to protect animals from lethal ZEBOV challenge (9,10)
+
+
+Passive immunization of rhesus macaques
+with high-titer anti-EBOV equine immunoglobulin failed to protect any of the
+animals from a lethal challenge and did not even delay death (P.B.J.,
+unpublished data.)
+
+
+Passive transfer of a neutralizing human monoclonal
+antibody that completely protected guinea pigs against EBOV infection (11) failed to protect rhesus macaques against a
+lethal EBOV challenge (12).
+
+
+Transfusion of convalescent blood from EBOV-immune monkeys did not protect naive animals from challenge with EBOV, even though the transfused monkeys had as much antibody as those with effective vaccination. (13). This experiment was done on the off chance that the Kikwit donors had activated lymphocytes or some other substance in their whole blood that provided protection.
+
+
+So when Dr. Peters said that there wasn't much evidence to support that Ebola convalescent serum would be effective, but that there was quite a bit of evidence to support that it would not, what I've outlined above is what he meant. And Tom Geisbert's group summed it up very nicely in their 2007 paper (13):
+
+"However, the results of the present study, which used immune primate blood, joins the preponderance of published study results suggesting that immunotherapy will not be a shortcut to the solution. Given these discouraging results and the risks of transmitting infection, whole blood transfusions, even under desperate epidemic conditions, seem unwarranted."
+As desperate as we are for a way to help these patients, we simply have no solid platform from which to proclaim Ebola survivor blood as effective therapy. With a black market for blood, my fear is that already stigmatized survivors will be further targeted. We have a responsibility to make sure people are informed. 
+
+Cheers,
+
+
+Heather
+
+
+C.J. Peters Take on This Post:
+
+"I
+agree with Heather. During the Kikwit
+episode we were harangued to give plasma or have intravenous IgG prepared and I
+resisted because it diluted our other efforts in a time of scarce resources.  One should also consider that the oldest
+strain of HIV1 was isolated by Joe McCormick from Ebola convalescent plasma
+drawn for potential therapy before we knew anything about that virus.  There are also the usual considerations for
+problems with transfused plasma: antibodies against recipient blood cell
+antigens, aggregation of IgG activating complement, bacterial contamination,
+etc.  If plasma is harvested and returned
+to the developed world for testing and processing into pooled IgG there is the
+delay and also the problem of recipients reacting to aggregates in the
+plasma. 
+            It seems much more valuable to look
+down another avenue for therapeutic modalities. 
+Pooling 3 human monoclonal antibodies to the Ebola glycoprotein with
+each reacting with a different epitope (14) has been tested in macaques.   When
+the recombinant vectors are grown in their tobacco leaf substrate and the
+immunoglobulins purified, this cocktail (ZMapp ) protects macaques (15) and would have a chance with infected
+humans.  There is also an antisense RNA
+and several antivirals which might be effective.  And don’t forget the use of anticoagulants
+such as activated protein C and nematode anticoagulant protein c2 that have had
+a sparing effect in non-human primates, suggesting that they or other
+substances working on the coagulation cascade and/or vascular  endothelium have potential (16, 17)."
+
+Another HUGE thank you to C.J. for his incomparable insight and expertise!!
+
+
+References
+
+
+
+1.) D.A. Enria, A.M. Briggiler, N.J. Fernández, S.C. Levis, J.I.Maiztegui Importance of dose of neutralizing antibodies in treatment ofArgentine hemorrhagic fever with immune plasma. Lancet, ii (8397) (1984), pp.255–256.
+
+2.) DeliaA. Enria, Julio I. Maiztegui. Antiviral treatment of argentine hemorrhagic fever.Antiviral Research Volume 23, Issue 1, January 1994, Pages 23–31.
+
+
+
+3.) Delia A. Enria,  AnaM. Briggiler, Zaida Sánchez. Treatment of Argentine hemorrhagic fever. AntiviralResearch Volume 78, Issue 1, April 2008, Pages 132–139.
+
+4.) K. Mupapa, M. Massamba, K. Kibadi, K. Kuvula, A.Bwaka, M. Kipasa, R. Colebunders and J. J. Muyembe-Tamfum on behalf of the International Scientific and Technical Committee. Treatment of Ebola Hemorrhagic Fever with Blood Transfusions from Convalescent Patients. J Infect Dis. (1999) 179 (Supplement 1): S18-S23.
+
+5.) Ramses F. Sadek, Ali S. Khan, Gary Stevens, C. J. Peters and Thomas G. Ksiazek Ebola Hemorrhagic Fever, Democratic Republic of the Congo,1995: Determinants of Survival. J Infect Dis. (1999) 179 (Supplement 1):S24-S27.
+
+6.) Guimard Y, Bwaka MA, Colebunders R, Calain P, MassambaM, De Roo A, Mupapa KD, Kibadi K, Kuvula KJ, Ndaberey DE, Katwiki KR, MapandaBB, Nkuku OB, Fleerackers Y, Van den Enden E, Kipasa MA. Organization ofpatient care during the Ebola hemorrhagic fever epidemic in Kikwit, DemocraticRepublic of the Congo, 1995. J Infect Dis. 1999 Feb;179 Suppl 1:S268-73.
+
+7.) R.T Emond, B Evans, ET Bowen, and G Lloyd. Br Med J. Aug 27, 1977; 2(6086): 541-544. A case of Ebola virus infection.
+
+8.) Xu L, Sanchez A, Yang Z, Zaki SR, Nabel EG, Nichol ST,
+Nabel GJ. Immunization for Ebola virus infection. Nat Med. 1998 Jan;4(1):37-42.
+
+
+
+9.) Jahrling PB, Geisbert J, Swearengen JR, et al. Passive immunization of Ebola virus-infected cynomolgus monkeys with immunoglobulin from hyperimmune horses. Arch Virol Suppl 1996;11:135-40.
+
+
+
+
+10.) Jahrling PB, Geisbert TW, Geisbert JB, et al. Evaluation of immune globulin and recombinant interferon-α2b for treatment of experimental Ebola virus infections. J Infect Dis 1999;179((Suppl 1)):S224-34.
+
+
+
+11.) Parren PWHI, Geisbert TW, Maruyama T, Jahrling PB, Burton DR. Pre- and postexposure prophylaxis of Ebola virus infection in an animal model by passive transfer of a neutralizing human antibody. J Virol 2002;76:6408-12.
+
+
+
+12.) Oswald WB, Geisbert TW, Davis KJ, Geisbert JB,Sullivan NJ, et al. (2007) Neutralizing Antibody Fails to Impact the Course of Ebola Virus Infection in Monkeys. PLoS Pathog 3(1): e9. 
+13.) Peter B. Jahrling, Joan B. Geisbert, James R.Swearengen, Thomas Larsen and Thomas W. Geisbert. Ebola Hemorrhagic Fever: Evaluation of Passive  Immunotherapy in Nonhuman Primates J Infect Dis. (2007) 196 (Supplement 2): S400-S403.
+
+
+14.) Bale S1, Dias JM, Fusco ML, Hashiguchi T, Wong AC, Liu T,Keuhne AI, Li S, Woods VL Jr, Chandran K, Dye JM, Saphire EO. Structural basisfor differential neutralization of ebolaviruses. Viruses. 2012 Apr;4(4):447-70.doi: 10.3390/v4040447. Epub 2012 Apr 5
+
+
+15.) Xiangguo Qiu, Gary Wong, Jonathan Audet, AlexanderBello, Lisa Fernando, Judie B. Alimonti, Hugues Fausther-Bovendo, Haiyan Wei, Jenna Aviles, Ernie Hiatt, AshleyJohnson, Josh Morton, Kelsi Swope, Ognian Bohorov, Natasha Bohorova, CharlesGoodman, Do Kim, Michael H. Pauly, Jesus Velasco, James Pettitt,    Gene G. Olinger, Kevin Whaley, Bianli Xu, James E. Strong, LarryZeitlin & Gary P. Kobinger. Reversionof advanced Ebola virus disease in nonhuman primates with ZMapp. Nature (2014) Publishedonline 29 August 2014.
+
+
+
+16.) Hensley LE1, Stevens EL, Yan SB, Geisbert JB, Macias WL,Larsen T, Daddario-DiCaprio KM, Cassell GH, Jahrling PB, Geisbert TW. Recombinanthuman activated protein C for the postexposure treatment of Ebola hemorrhagicfever. J Infect Dis. 2007 Nov 15;196 Suppl 2:S390-9.
+
+
+
+17.) Geisbert TW1, Hensley LE, Jahrling PB, Larsen T, GeisbertJB, Paragas J, Young HA, Fredeking TM, Rote WE, Vlasuk GP. Treatment of Ebolavirus infection with a recombinant inhibitor of factor VIIa/tissue factor: astudy in rhesus monkeys. Lancet. 2003 Dec 13;362(9400):1953-8.
+
+
+
+
+Posted by
+
+
+
+Heather Lander
+
+
+
+
+at
+
+2:48 PM
+
+
+
+
+
+
+
+
+
+
+
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12 comments:
+
+
+
+
+Patrick NewmanSeptember 18, 2014 at 6:36 AMYour blogs are gonna make some graduate student happy. You've done all the lit searches for them. I agree that once any little nugget appears in the mainstream media, it's taken as fact. "Hey, the New York Times said it'll work, so it must be true." Sigh...ReplyDeleteRepliesHeather LanderSeptember 18, 2014 at 1:00 PMThank you so much Patrick. Yeah, it's frustrating. DeleteReplyJJacksonSeptember 19, 2014 at 7:15 AMThanks for taking the time. If I may ask a question.Why would anticoagulants be helpful in a haemoragic illness? I would have thought Vitamin K or something to aid clotting would have been needed.ReplyDeleteRepliesHeather LanderSeptember 19, 2014 at 7:39 AMHi! Thank you for reading and for asking this question. One of the more prominent features of Ebola virus infection is something called acute Disseminated Intravascular Coagulation (DIC) which includes systemic intravascular activation of coagulation that leads to extensive deposition of fibrin in the circulation. This description by eMedicine might be even more helpful for answering your question: "Acute DIC develops when sudden exposure of blood to procoagulants (eg, tissue factor [TF], or tissue thromboplastin) generates intravascular coagulation. Compensatory hemostatic mechanisms are quickly overwhelmed, and, as a consequence, a severe consumptive coagulopathy leading to hemorrhage develops. Abnormalities of blood coagulation parameters are readily identified, and organ failure frequently results." Based on this description, I imagine you can see why anticoagulants might help. If not, let me know and I will try to better break it down for you.DeleteJJacksonSeptember 19, 2014 at 9:43 AMThanks for the very quick reply. I have been off reading about DIC and TF and now understand, or at least sort of understand.DeleteHeather LanderSeptember 19, 2014 at 9:59 AMYou are very welcome. It's complex so I hope this helps. Let me know if you have any other questions.DeleteReplyAnonymousSeptember 19, 2014 at 12:41 PMHeather,This is an off-topic question so I apologize and understand if you cannot take the time to answer.  I read that contact with blood, vomit or feces can infect.  Do you know -- or is it known-- if it is just direct contact with bare skin and the virus somehow works its way through the skin cells to target the blood vessels? Or does the virus need some break in the skin with direct access to blood and blood vessels.   I have read accounts where journalists are warned not to touch walls in hospitals as they are considered contaminated, personal effects of patients are incinerated (passport etc.).  So I wonder what viral load is needed to infect: would a smear of blood/vomit/feces on a wall do it if someone placed a bare hand with no unbroken skin on it? I don't know how much is known about transmission routes. ReplyDeleteRepliesHeather LanderSeptember 19, 2014 at 1:18 PMHi and thanks for the question. Direct contact with those bodily fluids from a sick Ebola patient is a very serious risk for Ebola infection, but the consensus is that it has to get into a mucus membrane or broken/abraded skin. Because it can be hard to know if skin is abraded, skin covering is the wise choice for protection. The biggest problem with touching a contaminated object is that you usually end up touching your face and you aren't even aware of it: itchy nose, itchy eyes, got a hair in your mouth...we touch our faces a lot and don't even realize it. As far as viral load is concerned, it takes very little Ebola virus to cause an infection and those fluids from a sick Ebola patient have very high viral titers. Keep in mind I say "sick Ebola patient" because people with no symptoms aren't infectious, with the exception of semen in men who've recovered (up to 3 months post recovery), and in breast milk of lactating women who've recovered (up to 40 days post recovery) but those have not been found to be epidemiologically significant sources of infection. I hope this helps.DeleteAnonymousSeptember 19, 2014 at 3:38 PMYes, thanks very much! I lived as a child in then Upper Volta, now Burkina Faso.  Back in the 60s in Ouagadougou several members of the American Embassy staff came down with a hemorrhagic fever disease and were airlifted to Paris; none survived. It made quite an impact on the small Embassy community.  I have often wondered what it was.DeleteHeather LanderSeptember 19, 2014 at 7:52 PMWow, I bet it did. I'll have to see if I can find out anything about it. DeleteReplyMariella FurrerSeptember 20, 2014 at 8:22 PMHi Heather... Amazing blog... and fascinating!! I am curious as to what the difference is between the strain of Ebola in 1995 and the current one in West Africa... Is this latest one much stronger? When I covered it in 1995 I was in Kikwit for about 10 days - I think - and my fellow colleagues and I only wore paper masks and surgical gloves... The medical teams and scientists all wore full body cover... anyway, thankfully we all survived :)ReplyDeleteRepliesHeather LanderSeptember 20, 2014 at 8:50 PMHi Mariella! And thank you again so much for the photo and for stopping by to check out my blog! This is the same species of Ebola and genetic analysis so far indicates only minor changes...nothing to support the idea that it's more virulent now. It's still being studied but it looks like the circumstances are really to blame for this getting out of control. The gloves and mask you wore would have protected you, especially if there was little risk of a patient vomiting on you etc. And yes, I am thrilled you all survived. It must have been terrifying. Thank you so much for documenting it. :)DeleteReplyAdd commentLoad more...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working at BSL4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Am I Here?
+
+The recent media propaganda regarding the 2014 Ebola outbreak in West Africa, has compelled me to start this blog and help bridge the dangerous gap between the science of infectious diseases and public misperception.**And just so you know, there are no affiliate links on this blog. If you see a link to purchase a book anywhere, it's to provide a convenience to my readers, they are not affiliate links. Thanks for stopping by!
+
+
+
+
+
+
+
+
+
+
+
+Follow by Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe To
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+                Atom
+              
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+                Atom
+              
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow @pathogenphd
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+▼ 
+
+2014
+(14)
+
+
+
+
+
+          ► 
+        
+
+
+October
+(2)
+
+
+
+
+
+▼ 
+
+September
+(3)
+
+Not Tonight Dear, I Had Ebola
+Ebola Convalescent Serum: It's No Magic Bullet
+Ebola Q & A with Dr. C.J. Peters: What My Tweeps W...
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disease Outbreak News
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+
+
+Emerging Infectious Diseases Journal
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+
+
+CDC Zoonotic Diseases
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+
+
+Great Relevant Blogs
+
+
+
+
+
+
+
+
+
+
+Aetiology
+
+
+
+
+Ebola diagnosed in Texas: don’t panic
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+
+
+
+Caitlin Rivers - Blog
+
+
+
+
+#Hackebola Guest Post: Healthcare worker infections
+
+
+5 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+H5N1
+
+
+
+
+Ebola in the US: Nurses treated victim 'without proper protective gear' in hospital where hazardous waste was 'piled to ceiling'
+
+
+1 hour ago
+
+
+
+
+
+
+
+
+
+
+
+
+Musings on Infection
+
+
+
+
+
+
+
+
+
+Ebola versus influenza and some thoughts on screening
+
+
+4 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+Operational Biosurveillance
+
+
+
+
+US Health Security As It Pertains To Ebola
+
+
+1 day ago
+
+
+
+
+
+
+
+
+
+
+
+
+Pharmaceutical Microbiology
+
+
+
+
+
+
+
+6 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+The Febrile Muse
+
+
+
+
+
+
+
+
+
+Glimpse of Smallpox
+
+
+2 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+VDU's blog
+
+
+
+
+
+
+
+
+
+Ebola double vision....
+
+
+3 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+virology blog
+
+
+
+
+Enterovirus D68 infections in North America
+
+
+3 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Watermark template. Powered by Blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

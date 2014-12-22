@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+Using a Mobile Device?
+	Please choose between theMobile and the Normal site:
+To get to the Mobile site at any time,go to http://nextbillion.net/m
+
+
+
+python-requests/2.2.1 CPython/2.7.3 Linux/3.5.0-23-generic
+
+
+

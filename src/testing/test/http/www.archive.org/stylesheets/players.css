@@ -1,0 +1,48 @@
+/* this is kept out of the main archive.css so that
+   people may embed our flash audio WITH our playlisting
+   and not get all our CSS which would override theirs
+*/
+
+/* ----------------- FLOWPLAYER AUDIO --------------- */
+div#fplaylist {
+	font-size:   10pt;
+	font-family: Arial;
+}
+
+div#fplaylist table.sleek {
+  font-size: 8pt;
+  margin:0px; 
+  border-collapse: collapse; 
+  border: 2px solid #666666;
+}
+
+div#fplaylist table.sleek td {
+  padding-left:2px; padding-right:2px;
+}
+
+
+div#fplaylist table tr td,
+div#fplaylist table tr td a {
+   padding:2px 5px 1px 5px;
+   color:white !important;
+   text-decoration: none !important;
+   font-weight: bold;
+}
+div#fplaylist table tr.odd {
+   background-color:#000000;
+}
+div#fplaylist table tr.eve {
+   background-color:#202020;
+}
+div#fplaylist table tr:hover { 
+  background-color: #555555 !important; 
+}
+div#fplaylist table tr td img {
+  position:relative;
+  top:1px;
+  margin-left:3px;
+  visibility:hidden;
+}
+div#fplaylist table td.c1, div#fplaylist table td.c3 {
+  width:50px; text-align:right;
+}

@@ -1,0 +1,582 @@
+Rhiza Labs FluTracker Forum • View topic - WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJMRhiza Labs FluTracker Forum • View topic - WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJM
+
+
+
+
+
+
+Rhiza Labs FluTracker ForumThe place to discuss the flu
+
+
+
+
+
+
+
+ Login    Register
+
+
+ FAQ
+				    Search
+
+
+
+
+
+
+
+
+It is currently Wed Oct 15, 2014 3:56 pm
+
+
+
+
+
+
+View unanswered posts | View active topics
+
+
+
+
+
+Board index » Discussion » General Discussion
+All times are UTC - 5 hours [ DST ]
+
+
+
+
+
+WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJM
+
+
+
+
+
+
+ 
+
+ Page 2 of 3
+ [ 25 posts ] 
+Go to page Previous  1, 2, 3  Next
+
+
+
+
+
+
+
+ 
+				Print view
+
+Previous topic | Next topic 
+
+
+
+
+
+
+
+Author
+Message
+
+
+
+
+niman
+
+
+
+
+ Post subject: Re: WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJPosted: Tue Sep 23, 2014 9:30 pm 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+WHO, CDC sketch varying Ebola projectionsFiled Under: EbolaLisa Schnirring | Staff Writer | CIDRAP News  | Sep 23, 2014In an effort to gauge how bad West Africa's Ebola epidemic could get without immediate and massive intervention, two agencies released estimates, one suggesting up to 20,000 infections by early November and another projecting as many as 500,000 to 1.4 million cases in Liberia and Sierra Leone by the middle of January.Experts who put together the estimates used different types of data and produced their findings for different reasons. The more conservative estimate comes from the World Health Organization (WHO) Ebola Response Team, which used epidemiologic and clinical data from a subset of patients in the first 9 months of the outbreak to provide a snapshot of the outbreak.The second estimate is from a team at the US Centers for Disease Control and Prevention (CDC) who used a modeling tool to help outbreak responders gauge the possible effectiveness of different interventions and timetables.The WHO team published its findings today in an early-release report in the New England Journal of Medicine (NEJM), and the CDC group's report appears in an early edition of Morbidity and Morality Weekly Report (MMWR).First comprehensive epidemiologic reportIn the first report, researchers from the WHO and Imperial College London gathered clinical and demographic data from Ebola virus disease (EVD) patients who received care in Guinea, Liberia, Nigeria, and Sierra Leone, fleshing out the information with informal case reports, lab reports, and burial records. They identified clinical and transmission patterns, risk factors, and disease outcomes.Though anecdotal reports have suggested that the burden of EVD might be higher in women because they are more likely to care for the sick, the team learned that there was no significant difference in incidence for men and women in any of the countries. Christopher Dye, PhD, study coauthor and director of strategy for the WHO, said in a statement, "There may be differences in some communities, but when we actually looked at all the data combined, we saw it was really almost split 50-50."The overall case-fatality rate (CFR) they found for the three hardest-hit countries was 70.8%, higher than the 50% that some sources have suggested. However, the rate was lower (64.3%) in hospitalized patients, which the WHO team said shows that getting timely supportive care can make a difference.Their reproductive-number estimates of disease transmission have fluctuated some over the course of the epidemic so far, especially in Guinea and Sierra Leone, but the WHO authors wrote that the growing number of cases in August and early September shows a still-expanding epidemic. Given the increased rate, they estimated that with no stepped-up control efforts, cases would soar past 20,000 by Nov 2.Though the scope of West Africa's epidemic is unprecedented, the WHO team said its analysis suggests that the clinical course and virus transmissibility are similar to patterns seen with earlier EVD outbreaks. Also, they noted that the incubation period, illness duration, CFR, and reproductive numbers are all within ranges found for other Ebola events.The extremely large scale of the region's outbreak, the authors said, is probably the result of certain characteristics of the population—such as brisk cross-border activity in the main disease hot spot and already-fragile health systems—and of inadequate control efforts. They estimated that cutting transmission by a little more than half could eliminate the disease, as would a new vaccine, if the coverage level exceeded 50%.They concluded that the outlook for the region is "bleak," and without quick improvements in control measures such as contact tracing and adequate case isolation, the three countries will soon be reporting thousands of cases and deaths each week, projections that are similar to the CDC's.Experts warn of endemic EVD in West AfricaIn an NEJM editorial that accompanied the WHO team's report, two London-based infectious disease experts wrote that the epidemic, with its profound effect on the countries' health systems, could help trigger a breakdown in civil society as people lose faith in their governments. The authors are Jeremy Farrar, MD, PhD, director of the Wellcome Trust, and Peter Piot, MD, PhD, director of the London School of Hygiene and Tropical Medicine, who is known for helping to identify the Ebola virus in 1976.They called today's NEJM report the first comprehensive analysis of surveillance so far in West Africa's epidemic. Acknowledging the difficulty of data collection in such difficult conditions, they said the team provides a convincing case that the outbreak is still expanding."Without a more effective, all-out effort, Ebola could become endemic in West Africa, which could, in turn, become a reservoir for the virus's spread to other parts of Africa and beyond," Farrar and Piot wrote, adding that a highly inadequate and late response has contributed to that worrisome prospect.The outbreak offers three lessons for addressing rapidly evolving public health emergencies, they said: Factors such as poor health infrastructure and local customs can transform a limited outbreak into a massive one; classic outbreak control efforts aren't enough for an event of this size; and developing diagnostic tests, drugs, and vaccines should be prioritized between epidemic periods. "We believe that in this epidemic, we are reaching the limit of what classic containment can achieve," they wrote.Modeling tool shows intervention benefits, cost of inactionIn the MMWR report, the projection of possible EVD cases for Liberia and Sierra Leone comes from a modeling tool constructed by CDC experts. Based on previous EVD models and data from August in the countries, the tool is designed to help outbreak response planners make decisions about response steps such as isolation and safer burials; it will be freely available in a Microsoft Excel spreadsheet. CDC officials said multiple separate waves of EVD activity in Guinea made it impossible to include that country in the modeling tool.By the end of September, cases could reach a range between 8,000 and 21,000, according to the CDC model. It calculates that by the middle of January, the total in the two countries could reach a range of 500,000 to 1.4 million cases.The CDC team included several caveats with its estimate: that the estimate reflects only what was known in August, it doesn't consider ongoing US response efforts, and the upper number assumes underreporting of cases by a factor of 2.5.Modeling calculations suggest that cases in Liberia are doubling every 15 to 20 days and that in Guinea and Sierra Leone, cases are doubling every 30 to 40 days, the CDC said.At a media briefing today, CDC Director Tom Frieden, MD, MPH, downplayed the estimate's use as a projection, because it is based on already outdated numbers and doesn't consider response efforts, which he said have started to improve over the past few weeks. Rather, the model and estimates are designed to illustrate that the interventions are likely to have an important impact and send the message that the human cost of delaying the response would be very high."The bottom line is that the model shows a surge now can break the back of the epidemic," he said.Gayle Smith, special assistant to President Barack Obama and senior director with the National Security Council, told reporters that the data suggest how to bend the epidemic curve but don't take into account the response surge over the past few weeks. The United States and other key groups that are leading the response need to keep the pressure on the international community to do more, and she added that with 700 treatment unit beds being added by the United Kingdom and significant contributions from Asian countries, the African Union, and other groups, "We are starting to see a significant (response) surge."Model show 70% isolation 'sweet spot'The CDC team that published the modeling report said stopping the epidemic requires isolating up to 70% of patients in treatment centers or other settings that reduce transmission, assuming that burials are handled safely. Frieden said one encouraging message from the modeling report is that once isolation levels reach that target, cases plummet rapidly—almost as fast as they rose.Frieden said that because treatment centers are overwhelmed, outbreak responders are looking at other ways to isolate sick people, such as locations in the community where they can receive food, rehydration therapy, and pain medicine. WHO Ebola Response Team. Ebola virus disease in West Africa—the first 9 months of the epidemic and forward projections. N Engl J Med 2014 Sep 23 [Full text]Farrar JJ, Piot P. The Ebola emergency—immediate action, ongoing strategy, editorial. N Engl J Med 2014 Sep 23 [Full text]Meltzer MI, Atkins CY, Santibanez S, et al. Estimating the future number of cases in the Ebola epidemic—Liberia and Sierra Leone 2014-2015. MMWR 2014 Sep 23;63(1-14): [Full text]See also:Sep 22 WHO statementSep 23 CDC press releaseSep 23 CDC Q and A on Ebola modeling toolhttp://www.cidrap.umn.edu/news-perspect ... rojections
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+
+
+niman
+
+
+
+
+ Post subject: Re: WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJPosted: Tue Sep 23, 2014 9:31 pm 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+WHO offers profile of Ebola epidemic and its lessonsFiled Under: EbolaRobert Roos | News Editor | CIDRAP News  | Sep 23, 2014A set of nine reports published by the World Health Organization (WHO) today profiles West Africa's Ebola epidemic and draws lessons from it, including that when a deadly virus spreads out of control in a poverty-stricken region, it can threaten the entire world.The reports trace the evolution of the epidemic in Guinea, Liberia, and Sierra Leone, the three hardest-hit countries. They paint a mostly bleak picture of those outbreaks but find glimmers of hope in recent moves to step up the international response. In addition, one report says Nigeria's success in controlling Ebola so far has "astonished" WHO experts.Poverty and disparitiesBut the overall tone of the reports—released exactly 6 months after the epidemic was recognized as Ebola—is bleak. In a piece titled "What this—the largest Ebola outbreak in history—tells the world," WHO director-General Margaret Chan, MD, emphasizes what the crisis says about poverty and global economic disparities."The outbreak spotlights the dangers of the world's growing social and economic inequalities," she writes. "The rich get the best care. The poor are left to die."She adds, "When a deadly and dreaded virus hits the destitute and spirals out of control, the whole world is put at risk. Our 21st century societies are interconnected, interdependent and electronically wired together as never before."The reason no Ebola vaccines or drugs are available is that the disease has previously been confined to poor African nations, providing little incentive for pharmaceutical companies to invest in such interventions, Chan observes.Another lesion, she writes, is that "the world is ill-prepared to respond to any severe, sustained and threatening public health emergency."Missed chances in GuineaAn essay on the outbreak in Guinea, where it all began, recounts how the virus probably jumped to humans from wild animals killed by hunters in December and how it went unidentified for months, since it had never been seen in West Africa before.At least three times in the early months, the prospect for controlling Ebola virus disease (EVD) in Guinea looked good, but each time it flared up again. Some drew the conclusion that the Zaire species of Ebola in the outbreak had become harder to control, but the more likely explanation is that the renewed cases represented reintroductions of the virus from Liberia and Sierra Leone, the report says."This more realistic explanation strongly suggests that control in Guinea will not be feasible until the Ebola caseload in its neighbours goes down," it states. "On current trends, the prospects that this will happen anytime in the near future are distinctly not good at all."The report adds that mob violence against public health workers remains one of the biggest barriers to controlling EVD in Guinea.Liberia is most worrisomeA report on Liberia's epidemic calls it by far the most worrisome, with exponential growth, as exemplified by 113 new cases recorded in 1 day last week. The situation is summed up in the report's title: "Liberia: misery and despair tempered by some good reasons for hope.""The true number of deaths will likely never be known, as bodies in the notoriously poor, filthy and overcrowded West Point slum, in the capital, Monrovia, have simply been thrown into the two nearby rivers," the WHO says.It says basic health services have been disrupted, and with the high-risk malaria season under way, supplies of medicines and bed nets have been depleted. Before the Ebola crisis, Liberia was making solid gains in reducing maternal and child mortality, but that trend has now been reversed.On the positive side, the report notes that a 120-bed treatment center, the Island Clinic, opened yesterday, with support from the WHO, the UN Children's Fund (UNICEF), and the United States. And later this week, the US Centers for Disease Control and Prevention will set up a new lab that can diagnose Ebola cases in 4 hours.The report also praises the "monumental" increase in support pledged by the United States last week, adding, "Many believe this announcement heralds the kind of transformational change that can let all partners in the Ebola response get a grip on the outbreak and turn it around." It says that construction of 17 planned new treatment facilities began almost immediately after the US announcement.In addition, the report hails last week's move by the UN Security Council to establish a special UN-wide Ebola mission. It says this will free the WHO from such burdens as establishing air bridges and transporting medical supplies and personnel. And contributions by Cuba and China are also praised."Gradual, then likely dramatic, improvements [in Liberia] can now be anticipated," the WHO states.Sierra Leone's epidemic is discussed in another report, which notes the "seminal role" played by a well-known traditional healer who died of Ebola and was honored with a large funeral. That event led to as many as 365 more cases, which fueled explosive growth of the outbreak by mid June, the WHO says.Nigeria's surprising success so farAnother report says the stable Ebola situation in Nigeria has come as a major surprise, after an airline passenger sick with EVD flew into Lagos in July and touched off a chain of cases. Nigeria has confined the outbreak to 15 confirmed cases in Lagos and another 4 in Port Harcourt, with 7 deaths, including 5 in health workers."Nigeria's stable situation—with cases confirmed in Lagos, Africa's most populous city, characterized by a vastly inadequate and fragile infrastructure, and in Port Harcourt, the country's restive oil and energy hub—astonished experts at WHO and probably everywhere else in the world as well. No one expected an outcome as good as this one," the WHO observes.It says the outcome shows that conventional Ebola control tools can work if cases are detected early and managed as recommended by the WHO, and that any country in the world can do it.Still another report ticks off the many precedents set by West Africa's Ebola crisis. Titled "A fast-moving epidemic full of tragic surprises," the piece lists the following as firsts:The first Ebola outbreak in a large slum (West Point in Monrovia)The first importation of a case by air (in Nigeria)Surprise flare-ups (in Guinea) after the disease was believed to be under control"Hidden caseloads," revealed when new treatment centers open and are overwhelmed by previously unrecognized casesThe high toll on health workers, who make up close to 8% of all patientsExponential growth in casesDuration (9 months so far)Major economic damageIn other Ebola developments:More than 160 members of the United Kingdom's National Health Service have volunteered to help with the nation's efforts to battle Ebola in West Africa, the BBC reported today. Also, the WHO today said it welcomed UK actions to help scale up the EVD response in the outbreak region. On Sep 19 UK Foreign Secretary Philip Hammond announced that the country would provide 700 hospital beds to Sierra Leone. The WHO said 200 are being delivered, with the rest coming in the months ahead, along with trained medical workers to work in treatment units.The Wellcome Trust today announced a $5.2 million grant to allow multiple international partners to speed clinical trials of experimental EVD treatments. In a statement, the group said the funding will establish a clinical trial platform allowing a consortium to evaluate the safety and efficacy of the drugs at a number of sites in West Africa. In late August, the Wellcome Trust announced a similar grant as part of a consortium to do clinical trials on an experimental Ebola vaccine.Doctors treating American Rick Sacra, MD, who was infected in West Africa while working with the missionary group SIM, said yesterday that he is being treated with TKM-Ebola, an experimental antiviral, according to a statement from Nebraska Medical Center in Omaha. The drug, developed by Vancouver-based Tekmira Pharmaceuticals, was recently authorized for expanded Ebola treatment protocols by the US Food and Drug Administration. Sacra started the medication the day he arrived at the hospital and received a 7-day course. He also received convalescent serum from a doctor who recovered from EVD after working in West Africa.Staff writer Lisa Schnirring contributed to this story.See also:WHO page with links to all nine WHO reportsSep 23 BBC storySep 23 WHO statement on UK supportSep 23 Wellcome Trust press releaseSep 22 Nebraska Medical Center statement http://www.cidrap.umn.edu/news-perspect ... ts-lessons
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+
+
+niman
+
+
+
+
+ Post subject: Re: WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJPosted: Wed Sep 24, 2014 12:23 am 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Rages In West Africa.Comment Now Follow Comments New CDC and WHO data suggest that Africa’s Ebola outbreak is worse than expected — and in a worst-case scenario, the current Ebola epidemic could become endemic.And those gloomy projections have experts worried that Ebola will inevitably arrive in the United States.According to CDC modeling released on Tuesday, Liberia and Sierra Leone are on track to have 21,000 cases of Ebola by September 30, unless the situation rapidly improves. (The CDC’s estimate is based on an assumption that more than half of all Ebola cases will not be reported or detected.)CDC also estimates that as many as 1.4 million people in Liberia and Sierra Leone could contract Ebola by January 20.Given that about 10 million people live in Liberia and Sierra Leone, that estimate suggests that about one in seven residents would contract Ebola.The current outbreak has a mortality rate of more than 70%.(For a sense of perspective on CDC’s worst-case scenario for West Africa: If a similarly sized outbreak happened in the United States, more than 45 million Americans would contract Ebola.)Also See: Nearly 40% Of Americans Fear An Ebola OutbreakIn separate projections released on Monday, the World Health Organization offered up a dire warning: There might not be an easy solution for the current Ebola epidemic, given the outbreak’s rate and pace.Instead, Ebola could become a lasting problem for Africa.“We must therefore face the possibility that [Ebola] will become endemic among the human population of West Africa, a prospect that has never previously been contemplated,” the WHO Ebola Response Team wrote in the New England Journal of Medicine.“The risk of continued epidemic expansion and the prospect of endemic EVD in West Africa call for the most forceful implementation of present control measures and for the rapid development and deployment of new drugs and vaccines.”However, in a best-case scenario, CDC says that the new mobilization of public health efforts and U.S. military support will be able to contain Ebola and end the current epidemic by January 20.“My gut feeling is, the actions we’re taking now are going to make that worst-case scenario not come to pass,” Dr. Thomas R. Frieden, who runs the CDC, told the New York Times. “But it’s important to understand that it could happen.”Bad News In Africa Only Bodes Poorly For WorldThe continued persistence of the Ebola epidemic has experts increasingly pessimistic about a quick solution.Ebola cases in West Africa are rising faster than hospital beds are available. And the outbreak’s spread is seemingly accelerating. (Chart via virologist Ian Mackay.)The longer the Ebola outbreak rages, the more likely it is that the disease will mutate into an even more dangerous form. Scott Gottlieb, who served as a top FDA official under President George W. Bush, believes that at least several cases of Ebola will come to America, and has warned that there’s even a chance that the disease could go airborne.But there are signs of hope, even in West Africa. As David Kroll — who has so ably tracked the Ebola outbreak for Forbes — reported yesterday, nearby Nigeria has been able to remain free from Ebola. At Vox, Brad Plumer has reviewed the evidence of Ebola going airborne, and finds that the odds are “very unlikely.”Government officials also continue to stress that there’s little chance of a mass Ebola outbreak in the United States, a point that the NIH’s Anthony Fauci reiterated to Congress last week. And even if a few Ebola patients arrive in the U.S., the nation’s hospitals would be well-equipped to handle them.“Controlling Ebola is not a very sophisticated task,” Dr. Amesh Adalja, a biosecurity specialist at the University of Pittsburgh Medical Center, told The Hill last week. “Ebola outbreaks are stopped in their tracks when basic public health measures are in place … and the United States would not be a hospitable environment for something that spreads exclusively through blood and body fluids.”Writing in the Advisory Board Daily Briefing, we’ve tracked the Ebola epidemic’s spread pretty closely, from covering the early outbreak in Guinea to creating a timeline of how the deadliest Ebola epidemic in history has spread.Earlier this month, researchers estimated that there was up to an 18% chance that at least one case of Ebola would arrive in the United States by September 22. (Not counting the four health workers intentionally brought to the U.S. for treatment.)As of press time on September 23, the number of Ebola cases in the United States remained at zero.http://www.forbes.com/sites/dandiamond/ ... o-america/
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+
+
+niman
+
+
+
+
+ Post subject: Re: WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJPosted: Wed Sep 24, 2014 12:32 am 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+CDC: Ebola could infect 1.4 million in Liberia and Sierra Leone by end of JanuaryBy Lena H. Sun, ,Brady Dennis and Joel Achenbach September 23 at 5:09 PM   The Ebola epidemic in West Africa, already ghastly, could get worse by orders of magnitude, killing hundreds of thousands of people and embedding itself in the human population for years to come, according to two worst-case scenarios from scientists studying the historic outbreak.The virus could potentially infect 1.4 million people in Liberia and Sierra Leone by the end of January, according to a statistical forecast by the U.S. Centers for Disease Control and Prevention published Tuesday. That number came just hours after a report in the New England Journal of Medicine warned that the epidemic might never be fully controlled and that the virus could become endemic, crippling civic life in the affected countries and presenting an ongoing threat of spreading elsewhere.These dire scenarios from highly respected medical sources were framed, however, by optimism from U.S. officials that an accelerated response can and will contain the outbreak in the weeks and months ahead.CDC Director Tom Frieden cautioned that the estimates in the new report from his agency do not take into account the actions taken, or planned, since August by the United States and the international community. Help is on the way, and it will make a difference, he said — but time is of the essence.“A surge now can break the back of the epidemic, but delay is extremely costly,” Frieden said. The situation in West Africa is bleak, with people dying of Ebola in the streets outside clinics that have no available beds, and other victims remaining at home where they are infecting their caregivers. No Ebola outbreak has ever approached the scale of the present epidemic. The previous worst outbreak, in Central Africa, involved only 425 infections in Uganda from October 2000 to January 2001, and was brought under control by local responders aided by international organizations, according to the New England Journal of Medicine.The World Health Organization has reported more than 5,800 cases, including more than 2,800 deaths in the current outbreak. The CDC assumes the actual number of cases is 2.5 times higher than what is officially known.On graphs showing the rising number of infections and deaths, the lines continue to curve upward. Infections are doubling every 20 days in the coastal nations of Liberia and Sierra Leone, the CDC said. Each infected person is infecting roughly two additional people. The epidemic will begin to subside when the reinfection rate of 2.0 becomes lower than 1.0.The CDC estimates that in Liberia and Sierra Leone, including unreported cases, there will be about 21,000 total infections by Sept. 30.“Extrapolating trends to January 20, 2015, without additional interventions or changes in community behavior (e.g., notable reductions in unsafe burial practices), the model also estimates that Liberia and Sierra Leone will have approximately 550,000 Ebola cases (1.4 million when corrected for underreporting),” the CDC wrote.The CDC report did not include any modeling for Guinea because the disease has struck “in three separate waves,” Frieden said, making it difficult to come up with a valid model to predict what can happen next. The biggest area of uncertainty centers on the heavily forested region where Guinea, Sierra Leone and Liberia intersect, which has been the center of the outbreak.Paul Duprex, an associate professor of microbiology at Boston University, cautioned against doomsday thinking, such as wild speculation that the virus could have mutated to become transmissible through the air — something for which there is no credible evidence.Projections for new Ebola cases: Read the CDC reportEbola“We need to be careful not to scare people with unrealistic numbers — it’s like this airborne suggestion — where’s the evidence, what’s the precedent, what are such scaremongering suggestions based on?” he said.Frieden of the CDC said the tool developed by the CDC to make projections about the spread of the disease is an effort to help inform Ebola response planners’ decisions. This presents a what-if case — the nightmare scenario if nothing is done.“It is still possible to reverse the epidemic, and we believe this can be done if a sufficient number of all patients are effectively isolated, either in Ebola treatment units or in other settings, such as community-based or home care,” Frieden said. “Once a sufficient number of Ebola patients are isolated, cases will decline very rapidly — almost as rapidly as they rose.”Paul Farmer, a Harvard professor of global health and a co-founder of the nonprofit Partners In Health, visited Liberia in recent days and said in a telephone interview from Monrovia that, dire as the situation is, the epidemic is not unstoppable.“It will be brought under control even as we apply these basic interventions. It’s going to work,” Farmer said.The key is getting sick patients into medical facilities or Ebola treatment units or in other settings where there is reduced risk of transmission. But many hospitals are closed, and treatment centers are so stretched that they must turn patients away.The CDC report offered a hypothetical scenario for slowing and eventually stopping the epidemic. For that to happen, about 70 percent of infected patients would need to be properly isolated and treated. Frieden said Guinea has available beds in its treatment centers, except for in the heavily forested region. In Sierra Leone, treatment centers are full and patients are waiting outside, but not in large numbers. In Liberia, there are “significant numbers” of patients unable to get into treatment units, Frieden said.After Sierra Leone instituted a national three-day lockdown that ended Sunday, when nearly 30,000 health workers, volunteers and teachers aimed to visit every household in the country of 6 million to educate residents and isolate the sick, officials confirmed 130 Ebola cases and are awaiting tests on 70 more.The United States recently launched a $750 million effort that includes treatment facilities in Liberia, and the U.N. Security Council voted unanimously last week to create an emergency medical mission to respond to the outbreak. In addition, the WHO is working on moving infected people out of their homes and into small centers that would provide at least rudimentary levels of care, in hopes of increasing survival rates and slowing the transmission of the disease.Although the United States plans to build 17 treatment centers, each with 100 beds, in Liberia, U.S. personnel will not staff those facilities, officials have said. Instead, the U.S. plans to train volunteers and others from aid organizations or nonprofits. Some global health experts have said this could slow the response because there aren’t enough volunteers stepping forward.The virus is extraordinarily lethal, killing about half the people infected, though in some regions it has killed close to 70 percent. The virus is spread by bodily fluids; corpses are viral bombs, and the traditional practice of washing the dead for burial has been implicated in the explosion of the disease.There is no evidence yet that this strain of the Ebola virus is significantly different from previous strains. Scientists say it is possible that it is slightly less lethal, or replicates slightly more slowly in the human host, and has allowed more sick people to survive the infection and move around with the virus.“If you have a whole lot more survivors than you normally have, that’s a whole lot more people who are potentially shedding the virus than you would have in a normal Ebola outbreak,” said Tom Geisbert, professor of microbiology and immunology at the University of Texas Medical Branch at Galveston. But so far, scientists have had limited ability to study this particular strain of the virus.The most likely explanations for the scale of the epidemic involve geography, poverty and inadequate health-care systems. West Africa had never been known to have an Ebola outbreak. No one recognized the disease when it appeared late last year in Guinea near the borders with Sierra Leone and Liberia. They are among the world’s poorest countries.Staff writer Lenny Bernstein in Monrovia, Liberia, contributed to this report.http://www.washingtonpost.com/national/ ... story.html
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+
+
+niman
+
+
+
+
+ Post subject: Re: WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJPosted: Wed Sep 24, 2014 12:48 am 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+How prepared is U.S. for Ebola?A woman wears protective clothing during a tour  of one of the Ebola Centers in Zimbabwe. | AP PhotoPublic health experts, border control and customs are all on heightened alert. | AP PhotoBy JOANNE KENEN and SUSAN LEVINE | 9/24/14 12:12 AM EDTWhat if Ebola shows up here?Viruses cross borders. In today’s hyperconnected world, there’s no guarantee that this one will stay in Africa.The longer and more widespread the epidemic in West Africa, the greater the possibility that the disease will spread. And given all the travel between that continent and the United States, Ebola’s arrival becomes increasingly likely.Just last week, during testimony before a Senate panel, a top federal health official called the virus’s appearance here an “eventuality.”That followed a recent scientific study of international air traffic patterns, which named the United States as one of the top 16 countries at risk of “importing” a case of Ebola. The United Kingdom, Belgium and France also were on the list.Across the country, hospitals and public health experts, border control and customs are all on heightened alert. With mortality rates exceeding 70 percent in the current outbreak, “It’s nothing to take lightly,” said Stephan Monroe of the Centers for Disease Control and Prevention.How and where a U.S. case first presents itself could make a big difference. If someone arrives in an emergency room with symptoms after recent travel to West Africa, the staff should know what to do immediately. Monroe, an expert in emerging diseases, said all hospitals have the basic resources and training to respond. Plus, since Aug. 1, CDC has offered nearly two dozen fact sheets, recommendations and other details to ensure that — as well as to reassure doctors and nurses that they are indeed prepared.“Most hospitals are ready and have been since the start,” he said.Health facilities are following CDC guidance closely; in early August, the agency counted more than 5,300 phone lines on a telebriefing for hospitals held just days after two stricken American aid workers had been flown back from Liberia for treatment at Emory University Hospital in Atlanta.Since then, federal officials have tracked about a dozen suspected cases at U.S. hospitals. Testing showed each to be negative for the virus.But the first sign of Ebola could be a person who starts vomiting while riding the bus or while shopping at the grocery store, a scenario that could greatly increase exposure and the risk of transmission within a community. Or the initial case could appear at a neighborhood doctor’s office or even a rural health clinic, which might not be quite so alert.“It’s really about identification and triage,” noted David Kuhar, a CDC infectious disease specialist. “These settings need to be ready as well.”There’s little chance that a single infection could trigger an out-of-control chain of contagion across this continent, like in some terrifying Hollywood movie. As health experts have stressed repeatedly, the U.S. health care system is infinitely more developed than that in West Africa’s urban centers and rural villages. If someone does fall ill, treatment is better. And most Americans’ funeral and burial customs are nothing like traditional practices that have contributed to Ebola’s exponential spread in West Africa.Still, the prospect of even one case is a serious one; there’s little margin for error.The most recent World Health Organization estimates are that 7 in 10 people infected with Ebola in West Africa will die, a rate that the international community hopes to cut by boosting health worker training and flying in mobile hospital units and supplies to help keep people alive as their bodies fight the virus.Should a case be identified in the United States, the public health system’s job would be to limit any spread through contact tracing, surveillance and, if necessary, isolation. It’s a well-established approach that seems to have contained the disease in two of the affected African countries, Nigeria and Senegal, where no new infections have been reported since Sept. 5.Yet tracking down all possible contacts of a sick person is extremely time and labor intensive, which is part of the reason Ebola continues to spiral out of control in Liberia, Guinea and Sierra Leone. By early November, WHO just warned, the worst outbreak in history could exceed 20,000 cases. CDC suggested a far grimmer worst-case scenario of 1.4 million by January — though that projection assumed severe underreporting and is based on trends seen before the international community started to significantly step up relief efforts. Author: Joanne Kenen (jkenen@politico.com | @JoanneKenen)Read more: http://www.politico.com/story/2014/09/a ... z3ECn3gwaF
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+
+
+niman
+
+
+
+
+ Post subject: Re: WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJPosted: Wed Sep 24, 2014 12:54 am 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+Aid groups urge faster, grassroots Ebola response as world leaders meetBY STELLA DAWSONTue Sep 23, 2014 11:57pm EDTWASHINGTON (Thomson Reuters Foundation) - Every 30-day delay in isolating Ebola patients will cause a tripling in daily cases of the deadly epidemic sweeping West Africa, according to new forecasts released on Tuesday.As world leaders gather in New York this week for the United Nations’ annual meeting, U.N. Secretary General Ban Ki-Moon has called a special Ebola session to scale up international efforts to fight the deadly virus that has infected at least 5,500 people and claimed more than 2,700 lives in five countries.Aid agencies and nonprofit groups working on the Ebola frontlines in worst-hit Liberia, Sierra Leone and Guinea said they urgently need world leaders at the session to deliver on three fronts: more isolation centers, both for intensive medical care and for basic care in the communities; more healthcare workers; and more equipment, protective gear, disinfectant and other supplies.“This is the time for action,” said Margaret Aguirre, head of global initiatives at the nonprofit International Medical Corps, which provides healthcare training worldwide.“We hope the U.N. is able to mobilize additional financial and technical support, and increase pressure on member states to step up their direct and multilateral contributions to fight this global health disaster.”Without significantly faster steps to control the spread of the highly contagious hemorrhagic fever, which is transmitted via body fluids, the case load in Liberia and Sierra Leone could top half a million by late January and possibly reach 1.4 million people, the U.S. Centers for Disease Control and Prevention (CDC) said in releasing a forecasting tool for calculating the trajectory of the disease and the impact of interventions.“For each day we are not effectively isolating people, not only are people dying, not only are they infecting others but also the job of getting it under control is much, much more difficult,” CDC Director Tom Frieden said in a media teleconference.If approximately 70 percent of patients are hospitalized or in controlled settings, and public health measures such as safe burial are used, the disease can be brought under control. Otherwise cases will triple every 30 days, the tool showed.COMMUNITY CAREWhile international efforts so far have focused on specialized Ebola treatment units, nonprofit groups say they are not enough. They will take at least one month to build and to staff. Moreover, they will be located in regional centers requiring people in rural areas to travel long distances to reach them, which increases the risks of transmission.Over the past week, government officials have started discussing less intensive community-based care, where the sick are isolated in their homes or a local school building, and one family member is designated as their sole caretaker. Daily deliveries of food and water, oral rehydration, painkillers, gloves, disinfectant and clean water are brought to the door and contaminated items are removed.“There are not going to be enough beds fast enough in treatment centers and not enough staff to run them. If we don't want these scary numbers to come true, we have to find ways to step up the response and this is one way," said Carolyn Miles, president of Save the Children Fund US, who is attending U.N. Ebola meetings in New York.Gayle Smith, the White House’s senior director for global development on the National Security Council, said community care will be part of the response. Officials have identified 400,000 of the most vulnerable households and are working with community leaders to deliver healthcare kits, she said.Enlisting the help of respected local leaders who can lead local efforts and spread the prevention message within their communities is critically important to breaking the arc of the disease, said Emmanuel D’Harcourt, senior health director at the International Rescue Committee aid organization.Fear is widespread, distrust of governments high and anger over foreigners arriving in layers of protective gear leading away their loved ones to medical units they cannot enter is undermining global efforts to control the disease, he said.IRC has more than 300 emergency relief and health workers in the region, and D'Harcourt has just returned from Liberia. World leaders at the U.N. urgently need to consider ways to fund local outreach alongside the complex logistics and medical assistance."Days matter here,” he said.(Reporting by Stella Dawson, Editing by Alisa Tang)http://www.reuters.com/article/2014/09/ ... 7H20140924
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+
+
+niman
+
+
+
+
+ Post subject: Re: WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJPosted: Wed Sep 24, 2014 1:10 am 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+Why This Ebola Epidemic Won’t Become the ‘Black Death’ of the 21st CenturyA new CDC report warns that, without intervention, Ebola cases in West Africa could double every 20 days. But basic improvements in medical infrastructure can — and will — be able to stop the bleeding.Written by Brian Krans | Published on September 23, 2014  The ongoing outbreak of Ebola in a three-country region of West Africa is the worst that mankind has ever seen.The latest assessment estimated that more than 5,800 people have been infected and 2,803 people have died, but many health officials warn the toll could be much higher.At its current infection rate, the World Health Organization (WHO) estimates 20,000 Ebola cases by November in a study published in the New England Journal of Medicine today. Now that the infections have moved from largely rural areas to densely populated cities, some projections show many more infections by the end of September.The U.S. Centers for Disease Control and Prevention (CDC) revealed a new report Tuesday that states that without additional intervention, Ebola infections in Nigeria and Sierra Leone could reach 21,000 cases by the end of the month. That rate is expected to double every 20 days.“If conditions continue without scale-up of interventions, cases will continue to double approximately every 20 days, and the number of cases in West Africa will rapidly reach extraordinary levels. However, the findings also indicate that the epidemic can be controlled,” the report concludes.In the beginning, people thought this outbreak would be the same way it has been in the last 40 years. It became painfully evident that this outbreak wasn’t going to be controlled quickly.Dr. Amesh AdaljaA large hurdle in determining the virus’ true impact is overcoming many people’s resistance to reporting infected patients. There have been numerous reports of people hiding the bodies of the infected because of fear and distrust of authorities there.That distrust and several other factors have created a perfect storm for a disease epidemic in Liberia, Guinea, and Sierra Leone, an area also affected by other diseases fueled by a lack of basic medical care and resources. Dr. Amesh Adalja, an infectious diseases expert and member of the Infectious Diseases Society of America’s public health committee, told Healthline that the epidemic festered early due to a lack of medical infrastructure and other problems. “In the beginning, people thought this outbreak would be the same way it has been in the last 40 years,” he said. “It became painfully evident that this outbreak wasn’t going to be controlled quickly.” In response, the WHO, the U.S. military, and other organizations have mobilized for the largest outbreak response in history.“This unprecedented outbreak requires an unprecedented response,” Dr. David Nabarro, the U.N. Secretary General’s Senior Coordinator for the Ebola Response, said in a statement. “The number of cases have doubled in these countries in the last three weeks. To get in front of this, the response must be increased 20-fold from where it is today.”Poverty and Distrust Fuel EpidemicYears of civil war in Sierra Leone and Liberia, which only ended a little over a decade ago, destroyed much of the area’s infrastructure and crippled their economies. This left many of their citizens living in dire poverty.Coupled with a history of extensive political and government corruption, a large portion of the citizens in West Africa have a distrust of authority, whether government or relief workers. A large contributor to the spread of the disease, experts say, is fear. People fear going to the hospital as they are centers of outbreaks, and they fear workers in protective suits spraying disinfectants in their communities.“People don’t trust the government there,” Adalja said.Last week, the bodies of eight people — health workers and journalists — were found days after they were attacked in a small village in Guinea. The group was attacked by “angry and fearful” residents while they were trying to disinfect the area and educate people about Ebola, The Washington Post reported. Previously, quarantine camps in Monrovia, Liberia’s capital city, were attacked by civilians, leading to the infected fleeing and exposing others to blood and bodily fluids.Those attacks are anything but isolated, however. Reports of violence have been widely reported across West Africa. Many residents believe the people doing the disinfecting are actually poisoning the population. An alarming subset of the population doesn’t believe the Ebola virus is real.Villagers in Gueckedou, the town at the heart of the Guinean Ebola epidemic. Photo courtesy of the European Commission's Humanitarian Aid and Civil Protection Department/ECHO.The violence, unrest, and distrust are only making efforts to treat the infected and prevent the spread of disease that much more challenging.Dr. Kent Brantly, an American medical missionary infected with Ebola while in Liberia and treated in Atlanta, recently testified before Congress, calling the medical capabilities of the region “woefully inadequate.” His was the only facility in southern Liberia that had set up an Ebola treatment center.“The disease was spiraling out of control and it was clear we were not equipped effectively on our own,” he told Congress. “We began to call for more international assistance, but our pleas appeared to fall on deaf ears.”Brantly described the fear of being isolated, unaware if he’d ever see his family again, and fearing vomiting blood, a sure sign of the internal bleeding that could have lead to his imminent death. Others who have been infected have taken it upon themselves to be treated at home, which spreads the disease to caregivers and others.“It is a fire. It is a fire from the pit of hell,” Brantly said.Within days, President Barack Obama deployed 3,000 U.S. military personnel to West Africa. Their goal is to build 17 medical facilities with 100 beds each, train 500 healthcare workers, and coordinate international relief efforts.The international intervention, spearheaded by U.S. forces, is tasked with expanding the three nations’ medical infrastructure to provide at least basic medical technology.“We know that Ebola is stopped with very low-tech interventions.” Adalja said.  “But they really don’t have the space or capacity to take care of infected people.”For example, the civil unrest left Liberia with only one doctor and 27 nurses per 100,000 people as of 2008, according to the WHO. Learn About the Experimental Ebola Drug Grown Inside Plants »Basic Interventions Have Large ImpactUnlike other strains of Ebola in which infection is fatal in 90 percent of cases, the strain currently spreading through West Africa is fatal in just over half of the cases. Relief workers are finding that basic medical interventions — quarantine zones, disinfectants, and protective clothing — are the best defense in controlling the spread of the virus.The CDC worst-case assessment suggests that if 70 percent of known infected patients were isolated in either quarantine or in a community setting with reduced risk for disease transmission — including safely burying the dead — the epidemic would be nearly over by Jan. 20.Ebola won’t be a threat to Americans. It will not find the U.S. to be a hospitable place.Dr. Amesh AdaljaDuring a three-day border lockdown in Sierra Leone last week, 130 new cases were discovered. Isolation practices have slowed the outbreak in Nigeria and appear to have stopped it entirely in Senegal. As Ebola is spread through direct contact with bodily fluids, it is easy to prevent a severe outbreak, if safety standards are met. In West Africa, people at hospitals where Ebola-infected patients were present routinely shared oral thermometers without disinfectant between patients.“That’s not something that would ever really happen in the U.S.” Adalja said. “Ebola won’t be a threat to Americans. It will not find the U.S. to be a hospitable place.”There has yet to be an Ebola-related death on U.S. soil. Should Americans Be Afraid of Ebola? Q&A with Dr. Lee Norman »With screening, contamination, and basic safety practices, other countries have been able to keep passengers traveling from West Africa from potentially spreading to other countries. On Monday, Canadian drugmaker Tekmira Pharmaceuticals announced that it received emergency approval to use its experimental treatment, TKM-Ebola, to treat infected patients.Why Ebola Won’t Become the Next PlagueEbola doesn’t have the capacity to spread like measles or tuberculosis, which can be transmitted by breathing the same air as an infected patient. It also doesn’t have the ability to infect a global population like the “Black Death” that killed up to half of Europe’s population in the 14th century.Red Cross workers in Guinea. Photo courtesy of the European Commission's Humanitarian Aid and Civil Protection Department/ECHO.“Ebola hasn’t reached those heights yet, and plagues can be contracted through drops of fluid,” Adalja said. “This is the worst Ebola outbreak, but it’s not going to be something that could spread in the manner of a black death. It may be deadly, but it’s not highly contagious.”However, Africa and other parts of the world continue to battle other deadly diseases besides Ebola. The largest health threats facing low-income countries are fed by unprotected sex, lack of sanitation, and lack of food.Malaria continues to be a far bigger threat to Africa and to other parts of the world than Ebola. As about 90 percent of the 627,000 malaria deaths in 2012 occurred in Africa, efforts to protect vulnerable people against malaria-infected mosquitos continues to be a major health priority.HIV continues to be a thriving epidemic across sub-Saharan Africa. While West Africa has the lowest infection rate in the region, the main driver is the prominence of sex workers, unsafe blood transfusions, and mother-to-child transmissions, according to AVERT, an international HIV and AIDS nonprofit. In Nigeria alone, 210,000 people died from AIDS in 2011.HIV Vaccine: How Close Are We? »Western interventions targeting these endemic diseases have helped, but there is still much to be done. Upgrading the medical infrastructure, training doctors and nurses, and educating the public about how disease spreads will not only stop Ebola, but also leave the affected nations better equipped to handle other diseases in the future.http://www.healthline.com/health-news/w ... h-092314#5
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+
+
+niman
+
+
+
+
+ Post subject: Re: WHO - 9 Mo of Ebola Epidemic & Forward Projections - NEJPosted: Wed Sep 24, 2014 1:18 am 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+Countries need tools to treat patients in their homes and communitiesBy Paul Farmer and Joia Mukherjee  |    SEPTEMBER 24, 2014 The Martha Tubman Hospital in the town of Zwedru, Liberia, is operational, though it is understaffed, underresourced, and understocked. Zwedru’s county has seen several suspected Ebola cases and is immediately adjacent to Nimba County, where the number of cases and deaths is rising rapidly.REBECCA E. ROLLINS/PARTNERS IN HEALTHThe Martha Tubman Hospital in the town of Zwedru, Liberia, is operational, although it is understaffed, underresourced, and understocked.AS DOCTORS with long experience in fighting epidemic diseases, we have just returned from the front lines of the Ebola crisis in Liberia and are dismayed over the scale of the outbreak. But we are also optimistic. After months in which Ebola seemed to be winning a battle against the citizens and health care providers in Liberia, Sierra Leone, and Guinea, the world’s leaders are unleashing the first ambitious efforts to fight back.Last week, the United Nations declared an all-out war against Ebola, saying that “we cannot afford delays; the penalty for inaction is high.” It passed a resolution calling for every member state to accelerate its response to the outbreak and to lift travel restrictions on the most affected countries; with 134 votes, the resolution garnered more support than any previous one. Meanwhile, the United States is dispatching 3,000 soldiers as well as medical and public health troops to Liberia with an unprecedented mission: Wage war on Ebola by helping the battered Liberian public-health and medical community, including setting up treatment units in each of Liberia’s 15 counties. President Obama called for a “campaign for community care.”Community care could, when coupled with infection control, stop the epidemic. Of course, the region needs more treatment units for the sort of care that can only be provided in an in-patient setting. And hospital care can be improved long-term only by training and equipping Sierra Leoneans and Liberians: the staff and the “stuff” required to save lives. But it also needs to provide the tools that smaller clinics and front line health workers need to fight the virus in their neighborhoods and villages.The health systems in West Africa, which were already weak before the outbreak, are now decimated by it. A group of physicians from Partners in Health, a Boston-based medical nonprofit affiliated with Harvard Medical School and its teaching hospitals, along with Last Mile Health and the Wellbody Alliance, two community-based health care delivery organizations in rural Liberia and Sierra Leone, saw these weakened systems first-hand in both countries. It is clear that the region lacks the “staff, stuff, space, and systems” required to stop Ebola.Meanwhile, the outbreak is spreading. More than half of the reported 5,843 cases were logged in the past three weeks alone. In addition, many other cases are either not diagnosed or reported. On Tuesday, the Centers for Disease Control and Prevention reported that Liberia and Sierra Leone could register up to 550,000 cases by Jan. 20 unless there are significant and immediate efforts to accelerate the delivery of services across the region. These services include efforts to stop the transmission of Ebola within households, clinics, and hospitals.The irony of Ebola is that it is those who provide care who are most at risk of falling ill: not only nurses and doctors, but mothers and sisters and caregivers in general. It’s no accident that up to 75 percent of those afflicted with Ebola are women.This is why strict levels of infection control need to include what’s called PPE — personal protective equipment, which includes clothing, gloves, and goggles. PPE and other protective tools have been largely absent from not only homes and villages but also public clinics and hospitals. This is one of the reasons why so many facilities were shuttered; they became sites of transmission and death rather than of care that might have stopped an epidemic. Some hospitals have already lost a majority of their nurses and doctors to Ebola — in a region with far too few of them to begin with. This means that patients who are sick with more common afflictions, including malaria, typhoid, and pneumonia, are dying in greater numbers than prior to the explosion of Ebola. More women are dying in childbirth. Ebola worsens old problems as it causes new ones, including a burgeoning epidemic of fear.So is this tension between prevention and care unresolvable? Must all patients thought to have Ebola be shut up in their homes or removed to isolation units without the requisite staff, stuff, space, and systems? Absolutely not.Years ago, when Partners in Health first engaged in fighting another deadly epidemic — drug-resistant tuberculosis — our colleague Jim Yong Kim (now president of the World Bank) and others referred to it as “Ebola with wings.” We learned then, in settings from the slums of Lima to the mountains of Lesotho, that community-based care, delivered in large part by community health workers, was not only safer than facility-based care, it was also more effective. This was true when caregivers had the staff, stuff, space, and systems required to prevent, diagnose, and treat tuberculosis with the tools of the trade. “Community-based care” does not mean “community-based no care”: that, we’re providing already, and at large scale.The countries fighting Ebola need to have the tools to treat patients closer to their homes and communities. They also need more Ebola treatment units, and we were encouraged last week to see our Liberian colleagues put the finishing touches on a large and well-laid out unit in Monrovia. On Sunday, there was a large crowd in front of the visitors’ entrance; a Liberian priest was about to bless the building, as a Ugandan doctor working with the World Health Organization looked out over the crowd. “They’re volunteers from across the country,” she explained to us. “They’re being trained to help.”Some were nurses, but most were not medical professionals. They will be before this war on Ebola is over. They are at the front line of building stronger community-based health systems to stop this epidemic.Paul Farmer is a professor at Harvard University, special adviser to the UN secretary general on community-based medicine, and co-founder of Partners in Health. Joia Mukherjee is chief medical officer of Partners in Health and associate professor at Harvard Medical School. Both are infectious disease physicians at Brigham and Women’s Hospital.http://www.bostonglobe.com/opinion/2014 ... story.html
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+Display posts from previous: All posts1 day7 days2 weeks1 month3 months6 months1 year Sort by AuthorPost timeSubject AscendingDescending 
+
+
+
+
+
+ 
+
+ Page 2 of 3
+ [ 25 posts ] 
+Go to page Previous  1, 2, 3  Next
+
+
+
+
+
+
+
+
+Board index » Discussion » General Discussion
+All times are UTC - 5 hours [ DST ]
+
+
+
+
+
+
+Who is online
+
+
+Users browsing this forum: alforddm, Exabot [Bot], franzpick, gjs0708, morning, niman, rml, tinker2, Yahoo [Bot] and 850 guests
+
+
+
+
+
+
+You cannot post new topics in this forumYou cannot reply to topics in this forumYou cannot edit your posts in this forumYou cannot delete your posts in this forumYou cannot post attachments in this forum
+
+
+
+
+
+Search for:  
+
+
+
+
+
+
+
+Jump to: 
+Select a forum
+------------------
+H1N1 Reports
+   School-Specific Reports
+   Africa
+   Asia
+   Australia, New Zealand & Oceania
+   Europe
+   North America
+   South America
+Discussion
+   General Discussion
+   News Stories
+   Influenza Genetics Discussion
+   Vaccine News/Discussion
+   Preparation
+   News Commentaries from Dr. Niman
+   Conspiracy Theories
+   Natural / Alternative Medicine
+FluTracker Forum Support
+   FluTracker Announcements
+   FluTracker Feedback
+Links
+   FluTracker Map
+   FluTracker Comment Archives
+   FluTracker Store
+   FluTracker Chat Room
+   Recombinomics - Dr. Niman's Company
+ 
+
+
+
+
+
+
+
+
+Powered by phpBB® Forum Software © phpBB Group
+	
+

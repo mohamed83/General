@@ -1,0 +1,479 @@
+CDC vs Médecins Sans Frontières on Ebola: Is the Perfect the Enemy of the Good? | Center For Global DevelopmentCDC vs Médecins Sans Frontières on Ebola: Is the Perfect the Enemy of the Good? | Center For Global Development
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+Set Homepage:
+U.S.
+International
+
+
+ 
+
+
+
+
+
+
+In Europe
+On the Hill
+Educators
+Press
+About 
+Contribute
+Social
+Search
+
+
+
+ 
+ 
+
+
+
+
+
+Center for Global Development
+
+Ideas to Action:
+Independent research for global prosperity
+
+
+
+
+
+
+Enter your keywords 
+
+
+
+
+
+ 
+
+
+
+
+
+
+ Facebook
+
+ Twitter
+
+ YouTube
+
+ RSS
+
+ Multimedia
+
+
+
+ 
+
+
+
+
+
+
+
+
+TopicsAid Effectiveness
+Financial Crises
+Climate Change
+Debt Relief
+Economic Growth
+Education
+Finance
+Food and Agriculture
+Fragile States
+Global Health Policy
+Globalization
+Governance/Democracy
+Illicit Financial Flows
+Inequality
+International Financial Institutions
+Migration and Development
+Population and Development
+Poverty
+Private Investment
+Regions
+Technology
+Trade
+Transparency
+
+InitiativesCash on Delivery (COD) Aid
+Combating Drug Resistance
+Commitment to Development Index (CDI)
+Development Impact Bonds
+Europe Beyond Aid
+Latin America Initiative
+Migration as a Tool for Disaster Recovery
+Oil-to-Cash: Fighting the Resource Curse through Cash Transfers
+Pakistan: US Development Strategy in Pakistan
+Preemptive Contract Sanctions
+Reforming Trade Preferences
+Rethinking US Development Policy
+The Future of the World Bank
+Tropical Forests for Climate and Development
+Value for Money: An Agenda for Global Health Funding Agencies
+Completed Initiatives
+
+PublicationsAll
+Books
+Briefs
+CGD Notes
+Essays
+Policy Papers
+Reports
+Speeches and Testimony
+Working Papers
+
+BlogsAll
+Views from the Center
+Global Health Policy
+Global Prosperity Wonkcast
+Rethinking US Development Policy
+
+Experts
+Events
+Impact
+
+
+
+
+
+XStay ahead of the curve with CGD Development Updates
+email address *
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+employer *
+
+(if not affiliated type "individuals")
+
+
+View all Subscriptions
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+You are hereHome
+
+
+
+
+
+
+
+
+
+
+
+
+CDC vs Médecins Sans Frontières on Ebola:  Is the Perfect the Enemy of the Good?9/25/14Mead OverGlobal Health Policy BlogHealth Systems, ebola, Global HealthLeave a comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+ 
+
+
+
+
+ Share
+
+
+
+
+
+
+Print 
+
+
+
+
+
+
+Kate Winslet explaining the concept of R0 to government officials in the movie Contagion. (Source).
+
+On September 23, the Washington Post aired a disagreement between the US Center for Disease Control Ebola experts and the Médecins Sans Frontieres Ebola doctors regarding the value of community Ebola treatment centers staffed with community volunteers for Liberia, Guinea, and Sierra Leone. 
+Frank Mahoney, who is leading the CDC team in Monrovia, is quoted as saying that “this outbreak isn’t going to turn around until we get people out of their homes and into safe places.”  His statement reflects the thinking behind the “Community Care Campaign” announced by President Obama and detailed by Nancy Lindborg, the US assistant administrator for democracy, conflict, and humanitarian assistance.  (Also see her blog post here.)
+
+Related
+
+Aversion Behavior Exacerbates the Economic Impact of Ebola (Blog)
+
+Unpacking WHO’s Shocking Ebola Maps–Mead Over (Wonkcast)
+
+Five Steps to Reduce the Economic Impact of Ebola (Blog)
+Understanding the World Bank’s Estimate of the Economic Damage of Ebola to West Africa (Blog)
+Finding a Cure for Ebola (Blog)
+Obama’s Ebola Response and a Plea from Liberia (Blog)
+"We Are Running Out of Time" – A Letter from the Front Lines of Ebola (Blog)
+
+Contagion: Help Congress Protect the CDC’s Outbreak Investigation Budget (Blog)
+
+However, according to the WaPo, Brice de le Vigne, the MSF’s director of operations, “warned that the proposed community care centers could worsen the situation. ‘This is not going to work,’ he said. `To move people in an epidemic is a big responsibility, and it requires huge logistical capabilities’ that the affected countries simply don’t have.”
+These individuals and their organizations are hugely competent and are working from the same facts about Ebola.  How could they disagree on such a major question of strategy?
+One possible explanation for their different perspectives is that MSF is fundamentally an organization of doctors, whose instinct, training, and professional ethics prepare them to treat each patient as an individual, offering each one the best possible chance for survival.  If I had Ebola in Monrovia, I would want an MSF doctor.
+On the other hand, the CDC is fundamentally an organization of epidemiologists and public health specialists, whose instinct, training, and professional ethics prepare them to protect populations.  If I were the Minister of Health of Liberia, I would turn to the CDC for advice on how to reverse the exponential spread of the epidemic.
+MSF has established a truly remarkable record of success in treating Ebola patients. Although no drugs yet exist that are specific to Ebola, the MSF doctors have reportedly reduced the case fatality rate among Ebola patients from close to 90 percent among the untreated to 50 percent or even, rumor says, as low as 20 percent among the patients who report early to treatment.  Furthermore, in contrast to the large numbers of African health workers who have been infected, MSF has managed to restrict the number of infections in its Ebola Treatment Units to only eight of its staff.  When Brice de le Vigne advocates high-quality treatment and infection control for Ebola patients, he undoubtedly has in mind something like MSF’s own treatment facilities or like the design in the WaPo article. He knows that in simple, community treatment centers like those proposed by the CDC, health staff infections could not be held so low and volunteer community health workers would infect others.
+But all epidemiologists are trained to focus not on the individual patient or even the individual new infection, but rather on the value of R0 (R-nought). The symbol refers to the number of secondary cases of a disease that are infected from any single primary case.*  The classic (and perhaps the only) theatrical exposition of the meaning and importance of R0 is delivered by Kate Winslet in the movie Contagion to some Minnesota government officials.
+For the current Ebola outbreak, the latest estimates suggest that in Liberia, Guinea, and Sierra Leone, R0 is in the neighborhood of 1.75.  The epidemiologist’s ambition is to reduce that rate to less than 1.0, which would mean that each case is infecting less than one additional case — and the epidemic would get easier to handle with every passing day.
+My conjecture is that Frank Mahoney and the other CDC epidemiologists are hoping that community based treatment centers could reduce the value of R0 for their communities below 1.0, even if they are not able to match the MSF in reducing the value within their walls to virtually zero.  Reducing to a value as low as, say, 0.5, would be massively beneficial, potentially saving thousands of lives. 
+Assuming that the CDC and MSF could agree that the likely value of R0 in a community with one of the proposed community treatment centers would be less than 1.0, I can imagine that they would still disagree on whether such centers should be encouraged.  MSF, because it is led by doctors, might lean toward the Western-oriented, absolutist ethical approach typified by US Institutional Review Boards which for research settings advocate that Western aid workers abstain from cooperating in any way with medical care that is less effective than the care that would be prescribed for the same condition in rich countries.  A strict application of such principles would lead to rejection of support for any treatment facility with either a case fatality rate or an R0 value greater than the lowest that Western medical intervention can achieve.
+But this absolutist approach ignores that no amount of foreign aid can possibly provide MSF quality treatment to the entire populations of Liberia, Sierra Leone, and Guinea in the next few weeks.  It’s not physically possible.  So the MSF approach that insists on the highest standards of care means that for weeks and possibly months to come most of the people with Ebola will not be quarantined or have any care at all, while the epidemci continues to grow at exponential rates.  The perfect is the enemy of the good.
+The CDC’s approach does not deny the value and the urgency of setting up MSF-style high quality treatment centers as fast as possible.  However, adopting a public health perspecitve, it argues that until enough high-quality treatment units are built, community treatment centers can help to reduce the R0 value for the population as a whole. 
+The challenge for the CDC will be to demonstrate that a community treatment center can actually achieve a value below 1.0, while improving patient survival compared to home treatment.  If the CDC can provide that “proof of concept,” I would support their approach for rollout right now, while donors and governments scale up over the ensuing weeks the number of high-quality treatment centers to support the community facilities and increasingly bring standards up to those that MSF accepts. 
+ 
+*Strictly speaking, R0 is defined for a population in which everyone is susceptible to infection except one infectious person known as the “index case.”  When people who survive the epidemic become immune, as we hope is happening now in West Africa, the immune people mix with the susceptible population, so that each infected person has less chance to contact and infect a susceptible person.  As this occurs, the effective reproductive rate, Re, drops below R0 and then below 1.0, eventually stabilizing the epidemic.  This natural brake on the epidemic might have happened already in geographically isolated villages in Africa, but will take longer and be more difficult in urban centers.
+ 
+Related Posts: 
+
+
+ Hiring Reform at WHO  
+
+ Understanding the World Bank’s Estimate of the Economic Damage of Ebola to West Africa  
+
+ Finding a Cure for Ebola  
+
+ Unpacking WHO’s Shocking Ebola Maps–Mead Over  
+
+ Aversion Behavior Exacerbates the Economic Impact of Ebola  
+
+Authors: 
+
+
+
+Mead Over
+View Profile
+
+
+
+
+
+
+Comments
+
+View the discussion thread. 
+
+
+
+
+
+ 
+
+	CGD blog posts reflect the views of the authors drawing on prior research and experience in their areas of expertise. CGD does not take institutional positions.
+
+
+
+
+
+All
+Views from the Center
+Global Health Policy
+Global Prosperity Wonkcast
+Rethinking US Development Policy
+
+
+
+
+
+XGlobal Health Policy Blog Feed  
+
+
+CGD Experts
+
+
+
+
+  
+ Mead Over  
+
+ 
+
+
+Related Posts
+
+
+
+
+ Hiring Reform at WHO  
+
+ Understanding the World Bank’s Estimate of the Economic Damage of Ebola to West Africa  
+
+ Finding a Cure for Ebola  
+
+ Unpacking WHO’s Shocking Ebola Maps–Mead Over  
+
+ Aversion Behavior Exacerbates the Economic Impact of Ebola  
+
+ 
+
+
+Related Topics
+
+
+
+
+ Global Health Policy  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact CGD *
+
+ Copyright and Publications 
+
+
+ Events 
+
+
+ General Inquiries 
+
+
+ Government, NGO & public outreach 
+
+
+ Human Resources 
+
+
+ Partners Council, Foundation Relations and Donation Inquiries 
+
+
+ Press 
+
+
+ Website, Blogs & Newsletters 
+
+
+
+
+Your name *
+
+
+
+Your e-mail address *
+
+
+
+
+
+
+Message *
+
+
+
+
+Washington DC
+  2055 L Street NW
+  Fifth Floor
+  Washington DC 20036
+  Phone: (202) 416-4000
+  Fax: (202) 416-4050
+
+
+Europe
+  Exchange at Somerset House,
+  South Wing, Strand, London, WC2R 1LA
+Postal Address
+
+
+ Facebook
+ Twitter
+ YouTube
+ RSS
+ Multimedia
+
+
+
+Leave this field blank 
+
+
+ 
+
+
+
+
+
+Contact Us
+On the Hill
+Educators
+Press
+About 
+Invest
+RSS
+Credits
+
+
+
+ 
+ 
+
+  
+

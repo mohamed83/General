@@ -1,0 +1,53 @@
+
+.box {
+  padding:0px; 
+  border-left: solid 2px #999966;
+  border-right: solid 2px #999966;
+  margin-left: 0px; 
+  margin-right: 0px;
+}
+
+.boxTop {
+  border-top: solid 2px #999966;
+
+  -moz-border-radius-topleft: 10px;       /* firefox */
+  -webkit-border-top-left-radius:10px;    /* safari */
+  -khtml-border-top-left-radius:10px;     /* safari */
+  border-radius-topleft: 10px;            /* opera, CSS3 */
+
+  -moz-border-radius-topright: 10px;      /* firefox */
+  -webkit-border-top-right-radius:10px;   /* safari */
+  -khtml-border-top-right-radius:10px;    /* safari */
+  border-radius-topright: 10px;           /* opera, CSS3 */
+}
+
+.boxBottom {
+  border-bottom: solid 2px #999966;
+
+  -moz-border-radius-bottomleft: 10px;    /* firefox */
+  -webkit-border-bottom-left-radius:10px; /* safari */
+  -khtml-border-bottom-left-radius:10px;  /* safari */
+  border-radius-bottomleft: 10px;         /* opera, CSS3 */
+
+  -moz-border-radius-bottomright: 10px;   /* firefox */
+  -webkit-border-bottom-right-radius:10px;/* safari */
+  -khtml-border-bottom-right-radius:10px; /* safari */
+  border-radius-bottomright: 10px;        /* opera, CSS3 */
+}  
+
+
+.spacer { 
+  background-color:#ffffee; 
+}
+.header { 
+  padding:5px; color: #ffffff; font-weight: bold; font-size: 10pt;
+  font-family: Arial; background-color:#999966; 
+}
+.subheader { 
+  text-align:center; padding:5px; color: #ffffff;
+  font-weight: bold; font-size: 10pt; font-family: Arial;
+  background-color:#CCCC99; 
+}
+.vertical_group { 
+  background-color:#ffffff;
+}

@@ -1,0 +1,270 @@
+Small Things Considered: Five Questions about FilovirusesSmall Things Considered: Five Questions about Filoviruses
+
+
+
+
+
+Small Things Considered
+A blog for sharing appreciation of the width and depth of microbes and microbial activities on this planet. 
+
+
+
+
+
+
+
+Small Things Considered
+
+
+
+About
+Archives
+Podcast
+RSS/Subscribe
+FAQ
+ASM
+
+
+
+
+
+
+
+
+
+
+
+
+« A Friend Turns 95 and Keeps Working in the Lab |
+	Main
+	| Of Terms in Biology: Metagenomic Binning »
+
+
+
+
+
+
+
+
+Five Questions about Filoviruses
+
+
+by Jamie Henzy
+Figure 1. An electron microscope image of filamentous particles of Ebola virus. Source
+The virus family Filoviridae is home to Ebola virus, as well as several other viruses that can cause severe hemorrhagic fever in humans and other primates. Ebola virus is in the news because of the outbreak in Guinea that has spread to several neighboring African countries. The fatality rate of Ebola virus is as high as 90%, and an unprecedented number of health care workers have died during the recent outbreak. This blog piece focuses on the biology of these horrific human pathogens.
+1. Why are filoviruses shaped like that?
+Filovirus particles have a creepy, snake-like appearance that seems disturbingly fitting, given their deadliness to humans (Fig. 1). The "filo" in the name denotes "thread" in Latin, and an EM micrograph of an Ebola virus shows how they got this name. Upon first viewing the particles, some researchers thought they were looking not at a virus but at a type of bacteria known as Leptospira, that forms helical structures. Filovirus particles are actually pleomorphic, meaning that various shapes are seen during an infection — filamentous, spherical, hooked, or shaped like the number six. The filamentous particles average 1,000 nm in length, but can reach up to an astounding 14,000 nm, while the diameter is constant at ~80 nm.
+Figure 2. Structure of a Filovirus particle. Source
+Inside the particle is a helical-shaped nucleocapsid, consisting of RNA bound by structural proteins. The RNA length determines the particle length. As you might have guessed, these long rope-like particles can contain multiple copies — one to twenty — of the viral genome. One theory for their unusual shape is that the larger surface area of a filamentous particle allows for better attachment than a spherical particle. In any case, the filamentous particles need to be flexible so that the RNA strands do not break. To this end, the nucleocapsid maintains flexible contacts with the surrounding proteins, which in turn have flexible contacts with the inner part of the viral membrane. This flexibility allows the nucleocapsid to sort of float inside the particle, avoiding getting damaged from bending.
+2. What exactly are filoviruses, and who are their relatives?
+The Filiviridae family belongs to the order Mononegavirales, characterized by a negative sense, non-segmented RNA genome. Filoviruses include the genera Ebolavirus and Marburgvirus. Marburg virus is the sole "species" in the Marburgvirus genus. The Ebolavirus genus (one word, capitalized) includes five species of ebolaviruses (one word, lowercase): Zaire, Reston, Sudan, Tai Forest, and (don’t snicker) Bundibugyo. The Zaire ebolavirus is known simply as "Ebola virus" (EBOV), and is the culprit in the current African outbreak.
+The RNA genome of filoviruses is ~19-kb long and consists of seven genes, encoding the proteins NP, VP35, VP40, GP, VP30, Vp24, and L, in that order. The virus particle is surrounded by a lipid bilayer derived from the host cell from which the virus budded (Fig. 2). Within the virus particle, NP, VP30, VP35, and L associate with the genomic RNA, forming the nucleocapsid; VP24 and VP40 line the inner surface, forming the viral matrix; GP is the viral envelope protein that studs the surface of the particle and interacts with target cells to mediate entry.
+Reston ebolavirus is so-named because it was responsible for an outbreak at a primate facility in Reston, Virginia (described in the nonfiction thriller, The Hot Zone). Fortunately, Reston ebolavirus does not cause disease in humans, even though it has very high sequence similarity to the other members of its genus, which do. By contrast, Marburg virus, which occupies a different genus and varies greatly in sequence from ebolaviruses, does cause Ebola-like hemorrhagic fever in both humans and other primates. Other families of the Mononegavirales order that include pathogenic viruses are rhabdoviruses (e.g. rabies virus), paramyxoviruses (e.g. measles virus, mumps virus), and bornaviruses, which infect mammals and birds.
+3. How do filoviruses replicate?
+Figure 3. The Ebola virus replication cycle. Source
+Many aspects of the replication cycle of filoviruses remain unclear, due in large part to the difficulties of working with such a deadly pathogen. But here is what is known (Fig. 3): filoviruses attach either to a specific host protein or a nonspecific attachment factor on the host cell surface. In a process known as macropinocytosis the cell membrane then buckles inward, internalizing the virus in a membrane-bound vesicle within the cell. The virus is now in a vulnerable position, as this vesicle is meant to deliver its contents to an acidified compartment (the lysosome) for degradation. In order to survive, the virus must escape the compartment and enter the cell’s cytoplasm, or else face destruction.
+The virus turns this otherwise bleak state of affairs to its advantage. Within the endosome, host degradation enzymes chew off parts of the viral glycoprotein, exposing a binding domain that recognizes a host protein that is attached to the endosome wall. Acidification of the endosome, meant to degrade the contents of the endosome, triggers the fusion mechanism of the viral envelope protein. This leads to fusion of the viral and endosomal membranes, allowing entry of the viral nucleocapsid into the cytoplasm.
+Replication, transcription, and translation of the viral genome and genes are then initiated by the viral polymerase which, as in all negative RNA viruses, is carried in the virion. This polymerase recognizes a sequence at the 3’ terminus and begins transcribing across the genome, stopping and restarting between each of the seven genes at conserved sites, and producing seven capped and polyadenylated mRNAs. However, the polymerase molecule sometimes falls off the strand before finishing transcription of all the genes. The result is that many more copies of the first gene, NP, are made, than the last gene, L (polymerase). Lucky for the virus, this transcription gradient produces the optimal ratio of each component necessary for virus assembly as well as immune evasion.
+4. How do filoviruses cause disease?
+The reason EBOV is so deadly to humans is that neither we nor the viruses have adapted to one another. Many aspects of the pathogenicity of filoviruses remain a mystery, but in general they evade, subvert, and antagonize components of the host immune system. Let’s start with the envelope glycoproteins that stud the surface of the virions. The receptor binding portion of GP (known as GP1) is exposed and targeted by neutralizing antibodies, but it evades these by means of a shield of glycans, or sugary groups, which make it unrecognizable by antibodies. Beyond that, EBOV subverts the immune system by also producing a soluble form of GP1 (sGP1) that floats about freely. Without its partner GP2, sGP1 is useless for mediating virus entry, yet it is targeted by most of the neutralizing antibodies.Thus it appears that sGP1 acts as an immune decoy, creating a distraction to lure away antibodies so that at least some functional GP1 is unimpeded and can enter the cells.
+Other EBOV proteins antagonize key elements of the host immune response. When induced by a viral invader, type I interferons (IFNs) induce the expression of multiple genes involved in fighting infection. Collectively these genes are called ISGs, for "interferon-stimulated genes". VP35 and VP24 both target ISGs but from different angles, VP35 by blocking the RIG-I pathway leading to Type I IFN activation, and VP24 by blocking immune system transcription factors. The hampering of Type I IFNs in turn hobbles the adaptive immune response, so that an effective antibody response is thwarted. Now, dendritic cells — which process and present antigens to T cells — cannot mature.
+EBOV impacts the immune system in ways that are destructive for virus and host alike. Early targets of EBOV are macrophages, monocytes, and dendritic cells. These immune cells release a storm of proinflammatory cytokines, eventually damaging the vascular system of the host. Destabilization of the vascular system is also due to the hindrance of cell attachment factors by protein GP, causing cells to come loose from their neighbors. GP also interferes with the host’s coagulation pathway. This pathway is activated in this and other viral infections and prevents excessive bleeding, probably as a measure to limit the spread of the virus. However, EBOV’s interference in the pathway results in disseminated intravascular coagulation — inappropriate clotting that can destroy organs. These conditions result in the horrific bleeding and organ damage associated with the disease, leading to death of the host and virus alike.
+5. Where do filoviruses come from?
+A reservoir species for a virus is a nonhuman host that has adapted such that it maintains a persistent level of infection. The presence of the virus in the reservoir species allows the virus to occasionally jump to humans. A recent study that analyzed sequences from viruses isolated from patients indicated that the three most recent Ebola outbreaks originated from the same natural reservoir. For this current outbreak, after the initial jump to humans, the virus began spreading human-to-human, acquiring mutations at twice the rate it did while circulating in its reservoir species. Though this rate is alarming, it is not unexpected for a virus circulating in a host to which it is not adapted.
+On rare occasions, sequences from replicating viruses become integrated into the genomic DNA of the host and are fixed in the population, so that copies exist in all descendants. Filovirus-like gene sequences have been found in the genomes of bats, rodents, shrews, shrew-like tenrecs, and marsupials. Some of these sequences appear in the same chromosomal locations (i.e. they are orthologs) in rats and mice, indicating that the infection occurred in a rat-mouse common ancestor, 12 to 24 million years ago (mya). Likewise, orthologous filovirus-like sequences in bats indicate an ancestral infection some 13 mya. In addition to expanding the list of possible reservoir species, these studies indicate that mammals have dealt with filoviruses for well over ten million years.
+
+Jamie is a postdoctoral researcher in the lab of Welkin Johnson at Boston College, and an Associate Blogger for STC.
+    
+ Mühlberger, E. (2007). Filovirus replication and transcription Future Virology, 2 (2), 205-215 DOI: 10.2217/17460794.2.2.205 
+Ramanan P, Shabman RS, Brown CS, Amarasinghe GK, Basler CF, & Leung DW (2011). Filoviral immune evasion mechanisms. Viruses, 3 (9), 1634-49 PMID: 21994800 
+Taylor DJ, Leach RW, & Bruenn J (2010). Filoviruses are ancient and integrated into mammalian genomes. BMC evolutionary biology, 10 PMID: 20569424 
+White JM, & Schornberg KL (2012). A new player in the puzzle of filovirus entry. Nature reviews. Microbiology, 10 (5), 317-22 PMID: 22491356 
+
+
+
+
+
+September 07, 2014 at 06:30 PM in Pathogens, Teachers Corner: Pathogenesis, Teachers Corner: Viruses and Prions, Viruses  | Permalink
+
+
+
+
+
+
+ | 
+
+ | 
+
+
+
+
+
+
+
+
+Please enable JavaScript to view the comments powered by Disqus.
+comments powered by Disqus
+
+
+
+
+
+
+Search
+
+
+Submit
+
+
+
+
+
+Moselio Schaechter
+
+
+The purpose of this blog is to share my appreciation for the width and depth of the microbial activities on this planet. I will emphasize the unusual and the unexpected phenomena for which I have a special fascination... (more) For the memoirs of my first 21 years of life, click here.
+
+
+
+
+Associate Bloggers
+
+
+ (Click photo for more information.)
+
+
+
+
+Bloggers Emeriti
+
+
+ (Click photo for more information.)
+
+
+
+
+Subscribe via email
+
+
+ Click here to sign up
+
+
+
+
+Categories
+
+
+Behavior
+Ecology
+Evolution
+Fungi
+Housekeeping
+Methodology
+Odds & Ends
+Pathogens
+Physiology & Genetics
+Pictures Considered
+Protists
+Retrospectives
+Symbioses
+Talmudic Questions
+The View From Here
+This Week in Microbiology
+Viruses
+
+
+
+
+Teachers Corner
+
+
+
+Click here for teacher-relevant blog material.
+
+
+
+
+ASM Links
+
+
+About ASM
+American Society for Microbiology
+ASM Science
+Join ASM
+MicrobeWorld
+
+
+
+
+Our Books
+
+
+   Eukaryotic Microbes Topics in Ecological and Environmental Microbiology Microbe In the Company of Mushrooms Desk Encyclopedia of Microbiology   
+
+
+
+
+Photo Albums
+
+
+
+
+
+
+ASM's Archival Photos
+
+
+
+
+
+
+Mushrooms
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+American Society For Microbiology © 2014   |   Privacy Policy   |   Terms of Use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

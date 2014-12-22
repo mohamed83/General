@@ -1,0 +1,138 @@
+Tracking the Ebola Outbreak - World Health OrganizationTracking the Ebola Outbreak - World Health Organization
+
+
+
+
+
+Toggle navigation 
+
+
+
+Ebola Portal
+
+
+
+
+
+Response Roadmap
+
+
+Maps
+
+
+
+
+
+
+
+
+Explore 
+                    
+
+
+Cases
+District Response
+Global Response
+
+Reset Map
+
+
+Data
+
+
+
+
+
+
+
+
+Reported Ebola cases by week
+
+  Confirmed
+  Probable
+  Suspected
+
+
+
+Country-level response
+
+
+ 
+ 
+ 
+ 
+No Ebola cases/rumours
+Land bordering countries
+Initial Cases or localized transmission
+Widespread & intense transmission
+
+
+ 
+ 
+ 
+ 
+No Ebola cases
+Not Active - No cases in previous 21 days
+Active - New Cases in previous 21 days
+Newly Infected - New cases in previous 7 days
+
+
+
+
+ Ebola cases
+                                    Cases in past 21 days
+
+
+ Major Ebola Treatment Centre HUBS
+                                
+
+
+
+
+
+
+
+0 cases 
+
+Some text about case count
+
+
+
+
+
+
+
+×Close
+Our Data
+
+
+Ebola Virus Disease (EVD) Case Data
+EVD case data contains deidentified data about each case reported to the WHO. This data is updated daily and contains information about date reported, 2nd admin level location, category, and outcome. This data is a complied list from all WHO partners.
+WHO Facilities List
+WHO Facilities List data is an itemized list of treatment centers and triage locations. This data contains facility location information as well as status, bed capacity, and status.
+WHO Response Level Categorization
+WHO response level classifies countries and administrative areas according to level of response. Data is categorized at the country globally, and at the province/district level in countries with confirmed cases. Countries and administrative areas are classified with a level between 1 to 5. Level corresponds to an evaluation criteria and is updated on a daily basis.
+Data Availability
+Data will be made available for open access in the coming days. All data will be made available via open format downloads as well as through an open access API.
+
+
+
+
+
+
+
+© WHO 2013
+·
+Privacy
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,804 @@
+Ebola: Fast-tracking treatments | The EconomistEbola: Fast-tracking treatments | The Economist
+
+ Our cookie policy has changed.  Review our cookies policy for more details and to change your cookie preference.By continuing to browse this site you are agreeing to our use of cookies. 
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+More from The EconomistThe Economist digital editions
+Newsletters
+Events
+Jobs.Economist.com
+The Economist Store
+Timekeeper saved articles
+
+My SubscriptionSubscribe to The Economist
+Manage my subscription
+Renew
+
+Log in or register
+Subscribe
+
+
+
+
+
+Search this site:
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+World politicsPolitics this week
+United States
+Britain
+Europe
+China
+Asia
+Americas
+Middle East & Africa
+International
+
+Business & financeAll Business & finance
+Which MBA?
+
+EconomicsAll Economics
+Economics by invitation
+Economics A-Z
+Markets & data
+Indicators
+
+Science & technologyAll Science & technology
+Technology Quarterly
+
+CultureAll Culture
+More Intelligent Life
+Style guide
+The Economist Quiz
+Book reviews
+
+BlogsLatest updates
+Americas view
+Analects
+Banyan
+Blighty
+Buttonwood's notebook
+Charlemagne
+Democracy in America
+Eastern approaches
+Erasmus
+Free exchange
+Game theory
+Graphic detail
+Gulliver
+Newsbook
+Prospero
+The Economist explains
+
+DebateEconomist debates
+What the world thinks
+Economics by invitation
+Letters to the editor
+
+MultimediaMultimedia library
+World
+Business & economics
+Science & technology
+Culture
+Events
+The Economist in audio
+
+Print editionCurrent issue
+Previous issues
+Special reports
+Politics this week
+Business this week
+Leaders
+KAL's cartoon
+Obituaries
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+Ebola
+Fast-tracking treatments
+The hunt for Ebola medicines is being accelerated
+
+
+
+      Sep 13th 2014    
+          | CHICAGO
+                      | From the print edition
+
+
+
+
+
+
+
+Close
+Save this article
+Click this to add articles to your Timekeeper reading list. Learn more »
+
+
+
+
+Tweet
+ 
+
+
+
+
+
+THE lucky ones are admitted to a health centre. They arrive bleeding, in taxis, on foot, in wheelbarrows and sometimes in ambulances. Mostly there is little help available and patients are dying alone, lying on the ground and lucky to receive even palliative care. Médecins Sans Frontières, a medical charity that has treated more than two-thirds of the known patients, says its centres are overwhelmed.
+The death toll from the Ebola virus is continuing to grow alarmingly. On September 9th the World Health Organisation (WHO) said it had recorded 4,293 cases in five west African countries, of which at least 2,296 people had died (see map below). But even the WHO’s experts believe that is an underestimate as many people are suspected to be dying at home. By some estimates 12,000 people have been infected with Ebola so far.
+
+In this sectionFast-tracking treatments
+Caging the Li-ion
+Assume the position
+ReprintsRelated topicsLiberia
+Science
+Viruses
+Life sciences
+Microbiology
+ 
+
+In Liberia the disease is spreading quickly. The country’s existence is now “seriously threatened” as the functions of state are disrupted, Brownie Samukai, Liberia’s minister of national defence, said this week. The health system, already weak, is breaking down. At least 160 Liberian health-care workers have contracted the disease and half of them have died. Ebola is also spreading in Guinea, Sierra Leone and Nigeria, and a case has been reported in Senegal. This is the worst-ever outbreak. Yet even though the disease was discovered almost 40 years ago, there are no licensed treatments or vaccines.
+That is largely because Ebola has been an intermittent disease in some of the world’s least-developed places. Previous outbreaks flared up but then died back. The virus is transmitted to people from wild animals (fruit bats are a natural host) and then spread by contact with body fluids. As Ebola was confined to poor countries and largely containable with strict infection controls, there was little commercial reason for drug companies to embark on years of costly clinical trials to bring Ebola medicines to market.
+
+
+
+Stepping up the pace
+The scale of the present outbreak, together with the fear and suffering it is causing, has resulted in a burst of scientific activity to find new treatments and vaccines. Some of these medicines look promising. But to contain the spread of Ebola, scientists and health officials will have to bypass many of the existing rules that govern the delivery of new drugs, and develop potential remedies with unprecedented speed.
+This strategy is being endorsed widely. In August experts from the WHO concluded that, provided certain conditions are met, it would be ethical to offer unproven, experimental treatments or methods to prevent infection. Ebola experts gathered by the WHO in Geneva on September 4th-5th repeated this, and said the delivery of new medicines was now essential.
+A number of groups are pushing ahead with human trials of vaccines that have shown promise in animal tests. Last week the first phase 1 clinical trials started in America for a vaccine developed by the US National Institutes of Health (NIH) and GlaxoSmithKline (GSK). In parallel, a British group is planning tests using volunteers in the UK, the Gambia and Mali.
+Phase 1 trials are used to test whether a drug is safe in healthy individuals, after which a series of further trials establish whether it works. But in this case, vaccines are expected to be offered directly to health-care workers in infected areas once the initial tests are complete. The effects of the vaccine would then be monitored in the field.
+The NIH/GSK vaccine is based on a benign virus which causes a cold in chimpanzees (an adenovirus). It is able to infect cells and deliver fragments of genetic material from two variations of Ebola (one of which is the Zaire strain responsible for the current outbreak). When Ebola proteins are expressed by infected cells, an immune response is triggered. A version using a single strain of Ebola is also being tested.
+On September 7th, Nature Medicine reported that immediate and lasting immunity to Ebola could be stimulated in monkeys if a dual jab is used. The first jab primes the immune system with an adenovirus-based vaccine; the second boosts it with a modified vaccinia virus (the active component of the vaccine that eradicated smallpox). Johnson & Johnson, a big American health-care company, has accelerated laboratory testing of a combined vaccine, which could begin clinical trials next year.
+Another candidate vaccine was developed many years ago by the Public Health Agency of Canada. It was recently licensed by NewLink Genetics of Ames, Iowa, which has approval to start phase 1 trials. This jab is based on a vesicular stomatitis virus (VSV), a livestock infection that resembles foot-and-mouth disease. VSV has been used previously to develop vaccines. The new vaccine, VSV-EBOV, is a live, replicating virus that infects cells and carries Ebola viral proteins into the host. Again, this stimulates an immune response.
+Importantly, VSV-EBOV also works in monkeys after they have been infected. The reason Ebola is so deadly is that the virus is good at tamping down the innate immune response to viral infection, says Jonathan Ball, a professor of molecular virology at the University of Nottingham in Britain. Thus Ebola replicates unchecked before the immune system can adapt and mount a tailored response. Some people recover naturally. They are able to summon defences more speedily, and before their bodies are overcome with symptoms such as organ failure and haemorrhaging.
+Production under way
+The results of the safety trials will start to arrive in November, and vaccines may be provided immediately to health-care workers who agree to be injected—some vaccine production is already under way. Experts hope they will be safe, as the viral “platforms” on which they are based have already been tested in humans. But these vaccines will not be available to restrain the epidemic over the next few months—a time that many think will be critical in containing the disease.
+The experts at the WHO’s Geneva meeting were most optimistic about two related methods of treatment: whole blood transfusion and purified blood plasma, known as convalescent serum. The idea is to take blood containing Ebola antibodies from survivors and give this to existing patients where, according to theory, the antibodies will then fight the virus. There are no data yet on the efficacy of this treatment on a large scale, but transfusions were used in previous Ebola outbreaks, and have been used for over 100 years on a small scale to combat other infectious diseases. Jeremy Farrar, director of the Wellcome Trust, a large British health charity, agrees with this approach. He adds that such blood products can be safely provided, and are accepted widely in the affected countries.
+There are other possibilities, too. Mapp Biopharmaceutical, a San Diego drug company, is developing a cocktail of monoclonal antibodies, made by genetic engineering. These appear to protect against the Ebola virus. In tests, all 18 monkeys given ZMapp, as the treatment is called, were protected even five days after infection. Four infected people have received it, and two have recovered. But doctors do not know if ZMapp helped. Because the drug is difficult to make, supplies are exhausted for now.
+Another approach to fighting Ebola is to constrain viral replication. Tekmira Pharmaceuticals, a Canadian firm, is working on TKM-EBOLA, a drug that silences the cellular messages that allow viral proteins to be made. Human trials were halted earlier this year because the drug caused flu-like symptoms—but America’s Food and Drug Administration has recently agreed that it can now be tried on Ebola patients. Other antivirals, such as Favipiravir, an influenza treatment, might also help. But more data from animal tests are needed.
+Some researchers propose going “off-label” with the unapproved use of existing drugs for other purposes. Interferon drugs have an antiviral effect and statins might help treat the complications of Ebola, such as organ failure. Experts at the WHO worry about the potential for harm with statins. But it is possible that some doctors, lacking alternatives, might try them.
+The arrival of new medicines will encourage health-care workers who have given up their posts to return to attend the sick. It would also help address the fear and panic that is proving so disastrous in the infected countries. But there are other difficulties. One is highlighted in a forthcoming working paper for the National Bureau of Economic Research, which finds that some Indian drugmakers are taking advantage of the lack of regulatory oversight to send their lowest-quality antibiotics to Africa.
+The biggest problem remains containment, especially in the months before new medicines arrive. Virologists, such as Dr Ball at Nottingham, worry that increasing human-to-human transmission is giving Ebola the opportunity to become more transmissible. Each time the virus replicates, new mutations appear. It has accumulated and hung on to some mutations, like “cherries on a one-armed bandit”, he says. Nobody knows what would happen if Ebola hit the jackpot with a strain that is even better-adapted to humans. But the outcome could be grim, for Africa and the rest of the world.
+
+
+From the print edition: Science and technology 
+ 
+
+
+
+
+Tweet
+Submit to reddit
+
+
+ 
+
+
+
+View all comments (26) 
+
+
+
+ 
+
+
+
+Want more? Subscribe to The Economist and get the week's most relevant news and analysis. 
+
+
+Print editionXSep 13th 2014Sep 6th 2014Aug 30th 2014Aug 23rd 2014
+Next in The world this weekXPolitics this week
+Next in The world this weekXBusiness this week
+Next in The world this weekXKAL's cartoon
+Next in LeadersXScottish independenceUK RIP?Ditching the union would be a mistake for Scotland and a tragedy for the country it leaves behind
+Next in LeadersXFighting Islamic StateThe long haulAmerica’s plan is a decent one—but it will take a worryingly long time to bear fruit
+Next in LeadersXShare buy-backsCorporate cocaineCompanies are spending record amounts on buying back their own shares. Investors should be worried
+Next in LeadersXEmerging economiesHold the catch-upIncomes in the developing world are no longer speeding toward those in the rich
+Next in LeadersXAdvertising and technologyStalkers, Inc.Surveillance is the advertising industry’s new business model. Privacy needs better protections
+Next in LeadersXForeign funding of NGOsUncivil societiesIlliberal governments are blocking activists from receiving foreign cash. Liberal ones should not...
+Next in LettersXOn American business, Chinese, population, Los Angeles, Nigeria, tropical forests, Europe, internsLetters to the editor
+Next in BriefingXEconomic convergenceThe headwinds returnTen years ago, developing economies were catching up with developed ones remarkably quickly. It was...
+Next in United StatesXBarack Obama and Islamic StateBack to IraqBarack Obama vows to step up military action in Iraq and Syria
+Next in United StatesXImmigration policyReady, steady, do nothingBarack Obama defers his promise to help out illegal immigrants
+Next in United StatesXPrimary electionsVoters do the mathsA big win for pension reform in Rhode Island—and a lesson for other states?
+Next in United StatesXNeel Kashkari v Jerry BrownRebranding Republicans in CaliforniaNeel Kashkari will not unseat California’s Democratic governor, but he may help his party in the...
+Next in United StatesXGunshot detectorsCalling the shotsHow gunshot-detecting microphones help police curb crime
+Next in United StatesXWho gets murdered
+Next in United StatesXBuyPartisanVoting with your walletAn app that brings partisan rage to the grocery store
+Next in United StatesXThe richest members of CongressMoney and powerIt is not their wealth that makes them out of touch. It is their lack of diversity
+Next in United StatesXLexingtonStormin’ OrmanGreg Orman, the man from Kansas who wants to reshape Washington
+Next in The AmericasXStephen HarperThe political predatorCanada’s prime minister is a formidable operator, but he has a fight on his hands
+Next in The AmericasXBelloMemory is not history“Dirty war” memorials should not be used to rewrite the past
+Next in The AmericasXThe Petrobras affairA charged campaignAnother twist in Brazil’s election
+Next in The AmericasXSuicideDesperate measuresWhen it comes to people taking their own lives, Guyana leads the world
+Next in AsiaXThailand after the coupUniform reactionThe generals introduce “true democracy”, Thai-style
+Next in AsiaXThe Andaman IslandsFrom outpost to springboardIndia eyes a strategic opportunity in the Bay of Bengal
+Next in AsiaXFloods in India and PakistanDown the river
+Next in AsiaXNew Zealand’s politicsKey assetThe prime minister looks to be heading for a third term
+Next in AsiaXBanyanToo much onMyanmar has a daunting to-do list between now and the end of next year
+Next in ChinaXSoft powerConfucius saysA decade ago China began opening centres abroad to promote its culture. Some people are pushing back
+Next in ChinaXNoxious tablewareSticks in the gulletThe dangers of disposable chopsticks
+Next in ChinaXOnline entertainmentA craze too foreignChina tries to restrict foreign entertainment online
+Next in Middle East and AfricaXConfronting Islamic StateThe next war against global jihadismAmerica is gathering allies for a long campaign against extremists in Iraq and Syria
+Next in Middle East and AfricaXSomaliaShabab decapitationDespite the death of its leader, the Shabab is as dangerous as ever
+Next in Middle East and AfricaXYemenWho’s Houthi?An insurgent Shia militia threatens the country’s fragile peace deal
+Next in Middle East and AfricaXSocial media in Saudi ArabiaA virtual revolutionWhy social media have a greater impact in the kingdom than elsewhere
+Next in Middle East and AfricaXSouth AfricaSpy v spyA scandal of corruption, secret tapes and Machiavellian spooks
+Next in Middle East and AfricaXKenya and the international courtOff the hook?The indicted Kenyan leaders’ battle against the court seems to be succeeding
+Next in EuropeXSweden’s electionThe eight-year itchThe centre-right government of Fredrik Reinfeldt has been a great success, yet voters may well eject...
+Next in EuropeXFrench public financesRétropédalageAs France wins the economics job in Brussels, it busts the euro’s deficit rules
+Next in EuropeXGermany and the euroYou Kant do thatMany Germans fear that the European Central Bank is not on their side
+Next in EuropeXPoland’s governmentAfter TuskDonald Tusk’s replacement has a chance to revive his party
+Next in EuropeXTurkey’s presidentSecularists at bayRecep Tayyip Erdogan seems bent on strengthening the influence of Islam
+Next in EuropeXRussia and UkraineA brief intermissionThe ceasefire holds uneasily, but tension in eastern Ukraine will still trouble the governments in...
+Next in EuropeXCharlemagneA Teutonic unionBehind the scenes, Germany quietly asserts its influence in Brussels
+Next in BritainXScottish independenceRise of the ayesA sundering of the United Kingdom has come to look much more likely
+Next in BritainXStone rosesStone roses
+Next in BritainXBritain’s constitutional futureThe Unitedish KingdomEven if Scots reject independence, the union will grow looser and messier
+Next in BritainXMarkets and independenceMore questions than answersInvestors hate uncertainty. Scotland is supplying plenty of it
+Next in BritainXPsephologyPolls taxedReferendums are hard to predict
+Next in BritainXPoliticsA UKIP of the leftThe Green Party embraces left-wing populism
+Next in BritainXStudying ChinaRe-orientationBritain’s universities are finally growing interested in modern China
+Next in BritainXJaguar Land RoverBaby on boardA new small car foreshadows a complete overhaul at Jaguar
+Next in BritainXBagehotHow a nation went madScotland’s separatist campaign is exhilarating. It is also nonsense
+Next in InternationalXForeign funding of NGOsDonors: keep outMore and more autocrats are stifling criticism by barring non-governmental organisations from taking...
+Next in InternationalXEfficiency in educationNew school valuesHigher teacher pay and smaller classes are not the best education policies
+Next in Special reportXLittle BrotherTechnology is radically changing the advertising business, with profound consequences for both...
+Next in Special reportXDataGetting to know youEverything people do online is avidly followed by advertisers and third-party trackers
+Next in Special reportXSmartphones and tabletsMoving targetsWhat advertisers love, and what they hate, about mobile devices
+Next in Special reportXProgrammatic biddingBuy, buy, babyThe rise of an electronic marketplace for online ads is reshaping the media business
+Next in Special reportXAdvertising agenciesLeaner and meanerTechnology has made life harder for admen, but they will not disappear
+Next in Special reportXPublishersVirtual beauty paradeTechnology has put the squeeze on publishers in online advertising
+Next in Special reportXOnline videoCracking the screenOnline video is flourishing, but it is not about to kill television
+Next in Special reportXThe futureThe world wild webTechnology has transformed advertising, but consumers need to be kept on board
+Next in BusinessXShare buy-backsThe repurchase revolutionCompanies have been gobbling up their own shares at an exceptional rate. There are good reasons to...
+Next in BusinessXApple’s futureReluctant reformationApple is becoming a very different company, and not just because of its newly unveiled products
+Next in BusinessXSwiss watches and the Apple WatchIt’s not about timeTraditional watchmakers are confident they can see off Apple’s new bauble
+Next in BusinessXCar rentalsHire purposeHertz’s departing boss may have foreseen the future of car rentals
+Next in BusinessXNetflix expands in EuropeAn American in ParisThe video-streaming firm enters some crowded new markets
+Next in BusinessXSchumpeterThe China waveChinese management ideas are beginning to get the attention they deserve
+Next in Finance and economicsXIslamic financeBig interest, no interestThe market for Islamic financial products is growing fast
+Next in Finance and economicsXButtonwoodDouble agentsThe way investors choose fund managers may cause anomalies in the markets
+Next in Finance and economicsXJapan’s economySlings and arrowsA harmful tax hike and reticent employers take their toll
+Next in Finance and economicsX“Coco” bondsMass conversionInvestors are panting for a risky new form of bonds issued by banks
+Next in Finance and economicsXThe bank that Botín builtA banking giant and a giant bank
+Next in Finance and economicsXThe euro-zone economyAsset-backed indolenceThe European Central Bank’s plan for economic revival is underwhelming
+Next in Finance and economicsXFree exchangeNo country for old moneyIf Scotland gains independence it will need a new currency and a new central bank
+Next in Science and technologyXBattery technologyCaging the Li-ionAn advance that could make batteries last a lot longer
+Next in Science and technologyXSex and back painAssume the positionCopulating in comfort
+Next in Books and artsXThe South China SeaWaves of troubleA new book dips into toxic waters around Asia
+Next in Books and artsX20th-century SpainBetrayal and atonementA truly ruthless man
+Next in Books and artsXIstanbulCity lightsThe hotel at the centre of it all
+Next in Books and artsXThomas CromwellHenry’s hoorayThe hero of “Wolf Hall”
+Next in Books and artsXThe making of ChinaMighty MingA new exhibition shows how much is being learned about the formation of China
+Next in Books and artsXApology: Slavery review
+Next in ObituaryXObituaryJoan RiversJoan Rivers, America’s most abrasive comedienne, died on September 4th, aged 81
+Next in Economic and financial indicatorsXInteractive indicators
+Next in Economic and financial indicatorsXOutput, prices and jobs
+Next in Economic and financial indicatorsXTrade, exchange rates, budget balances and interest rates
+Next in Economic and financial indicatorsXThe Economist commodity-price index
+Next in Economic and financial indicatorsXSlowing down
+Next in Economic and financial indicatorsXMarkets
+Print editionXSep 13th 2014Sep 20th 2014Sep 27th 2014Oct 4th 2014
+From the print edition Sep 13th 2014
+ 
+
+
+
+Comment (26)
+Print
+E-mail
+Reprints & permissions
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+Advertisement 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+  
+
+
+
+
+Follow The Economist
+
+
+
+Facebook
+
+
+
+
+
+Twitter
+
+Follow @TheEconomist
+
+
+
+Linked in
+
+
+
+ 
+
+
+
+Google plus
+
+
+
+
+
+Tumblr
+
+
+
+ 
+
+
+
+Pinterest
+
+
+
+ 
+
+
+
+YouTube
+
+
+
+ 
+
+
+
+RSS
+
+RSS feeds by section & topicExcerpts from the print edition & blogs » 
+
+
+Mail
+
+Free e-mail newslettersEditor's Highlights, The World This Week, and more  » 
+
+
+
+ 
+
+
+
+
+Latest updates »
+
+ Rules that govern behaviour: Francis Fukuyama on political order
+
+Prospero
+ 1 hrs 1 mins ago
+
+
+
+ Rude travellers: Irritable scowl syndrome
+
+Gulliver
+ 3 hrs 16 mins ago
+
+
+
+ Letter from Syria: The road to Aleppo
+
+Middle East and Africa
+ 3 hrs 23 mins ago
+
+
+
+ Markets: Deflation fears or toddler tantrum?
+
+Buttonwood's notebook
+ October 15th, 15:13
+
+
+
+ Lunar volcanoes: The rough with the smooth
+
+Science and Technology
+ October 15th, 15:02
+
+
+
+ Islam in America: Do unto others
+
+Democracy in America
+ October 15th, 14:39
+
+
+
+ NHS strikes: The dog that didn't bark
+
+Blighty
+ October 15th, 14:20
+
+
+More latest updates » 
+
+
+
+
+Most popular
+
+Commented
+
+
+Commented
+
+1Human rightsThe gay divide2Ukraine at war: Fight club3Germany’s army: Chinks in the armour4Palestine: A state of things to come5Vladimir Putin's birthday: The Twelve Labours of Putin 
+
+
+
+
+
+
+Advertisement 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+Products and events
+
+Have you listened to The Economist Radio on Facebook?
+The Economist Radio is an on-demand social listening platform that allows you to listen, share and recommend The Economist audio content
+
+
+Test your EQ
+Take our weekly news quiz to stay on top of the headlines
+
+
+
+In Other Words
+Try our new audio app and website, providing reporting and analysis from our correspondents around the world every weekday
+
+
+
+Want more from The Economist?
+Visit The Economist e-store and you’ll find a range of carefully selected products for business and pleasure, Economist books and diaries, and much more
+
+
+
+
+
+
+ 
+
+
+
+Advertisement 
+
+
+
+ 
+
+
+
+ 
+
+ 
+ 
+
+Classified ads
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+Contact us
+Help
+My account
+Subscribe
+Print edition
+Digital editions
+Events
+Jobs.Economist.com
+Timekeeper saved articles
+
+
+
+Sections
+
+United States
+Britain
+Europe
+China
+Asia
+Americas
+Middle East & Africa
+International
+Business & finance
+Economics
+Markets & data
+Science & technology
+Culture
+Multimedia library
+
+Debate and discussion
+
+The Economist debates
+What the world thinks
+Letters to the editor
+The Economist Quiz
+
+
+
+Blogs
+
+Americas view
+Analects
+Banyan
+Blighty
+Buttonwood's notebook
+Charlemagne
+Democracy in America
+Eastern approaches
+Erasmus
+Free exchange
+Game theory
+Graphic detail
+Gulliver
+Newsbook
+Prospero
+The Economist explains
+
+
+
+Research and insights
+
+Topics
+Economics A-Z
+Special reports
+Style guide
+The World in 2014
+Which MBA?
+The Economist GMAT Tutor
+Reprints and permissions
+
+The Economist Group »
+
+The Economist Intelligence Unit
+The Economist Intelligence Unit Store
+The Economist Corporate Network
+Ideas People Media
+Intelligent Life
+Roll Call
+CQ
+EuroFinance
+The Economist Store
+
+View complete site index »
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+Contact us
+Help
+About us
+Advertise with us
+Editorial Staff
+Staff Books
+Careers
+Site index
+
+
+
+
+Copyright © The Economist Newspaper Limited 2014. All rights reserved.
+Accessibility
+Privacy policy
+Cookies info
+Terms of use
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+  

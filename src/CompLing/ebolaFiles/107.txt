@@ -1,0 +1,997 @@
+Google Flu Trends may have failed but computers show travel helps Ebola spread | Sci-Tech | DW.DE | 03.09.2014Google Flu Trends may have failed but computers show travel helps Ebola spread | Sci-Tech | DW.DE | 03.09.2014
+
+
+
+
+
+
+
+
+
+
+Inhalt
+Navigation
+Weitere Inhalte
+Metanavigation
+Suche
+Choose from 30 Languages
+
+
+
+
+
+
+
+
+
+Albanian Shqip
+Amharic አማርኛ
+Arabic العربية
+Bengali বাংলা
+Bosnian B/H/S
+Bulgarian Български
+Chinese 中文
+Croatian Hrvatski
+
+
+Dari دری 
+English English
+French Français
+German Deutsch
+Greek Ελληνικά
+Hausa Hausa
+Hindi हिन्दी
+Indonesian Bahasa Indonesia
+
+
+Kiswahili Kiswahili
+Macedonian Македонски
+Pashto پښتو
+Persian فارسی
+Polish Polski
+Portuguese Português do Brasil
+Portuguese Português para África
+Romanian Română
+
+
+Russian на русском
+Serbian Српски/Srpski
+Spanish Español
+Turkish Türkçe
+Ukrainian Українська
+Urdu اردو
+
+
+
+
+
+
+
+
+
+
+
+Wrong language? Change it here
+
+DW.DE has chosen English as your language setting. 
+
+
+
+
+
+
+
+
+DW.DE in 30 languages
+
+DW AKADEMIE
+ABOUT DW
+
+
+
+
+
+
+
+
+
+Deutsche Welle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TOP STORIES
+
+
+Germany
+
+Visit Germany
+
+Cultural Heritage Sites
+
+
+
+
+World
+
+Europe
+
+
+
+Africa
+
+South Africa: 20 years after Apartheid
+
+
+Asia
+
+
+
+Americas
+
+
+
+Middle East
+
+
+
+Business
+
+
+
+Sci-Tech
+
+Digital Life
+
+
+
+
+
+Environment
+
+
+
+Culture
+
+Music
+
+
+
+
+
+Sports
+
+
+
+
+
+SPECIAL
+
+Afghanistan 2014
+Game of Thrones – DW celebrates 20 years online
+Global Ideas
+Learning by Ear
+Life Links
+When we were 17: Youth at the crossroads
+World War I
+
+
+
+
+
+
+Germany
+For refugees, psychological trauma doesn't end in Germany  15.10.2014
+
+
+
+
+
+Middle East
+Amnesty: 'Blind revenge' against Sunnis in Iraq  14.10.2014
+
+
+
+
+
+Business
+Airbus, IndiGo sign mega A320neo deal  15.10.2014
+
+
+
+
+
+
+Media Center
+
+
+
+Live TV
+
+
+All media content
+
+
+Latest Programs
+
+
+Podcasts
+
+
+
+
+
+PROGRAM
+
+
+What's on TV?
+
+
+
+TV Program Guide
+
+
+
+TV Programs
+
+Video on Demand
+
+
+
+
+
+TV programs
+
+Agenda
+Arts.21
+Business Brief
+Close up
+Discover Germany
+Documentaries and Reports
+Drive it!
+Euromaxx
+Europe in Concert
+Faith Matters
+
+
+Focus on Europe
+Germany Today
+Global 3000
+In Good Shape
+Insight Germany
+Journal
+Kick off!
+Kino
+Life Links
+Made in Germany
+
+
+PopXport
+Quadriga
+Sarah's Music
+Shift
+Talking Germany
+The New Arab Debates
+Tomorrow Today
+Treasures of the World
+World Stories
+
+
+
+Radio programs
+
+AfricaLink
+Concert Hour
+Inside Europe
+Living Planet
+Pulse
+Spectrum
+WorldLink
+World in Progress
+
+
+
+
+
+LEARN GERMAN
+
+
+
+German Courses
+
+German Courses
+Quick start
+
+
+
+Deutsch Interaktiv
+
+Radio D
+
+
+
+Mission Europe
+
+
+
+Deutsch - warum nicht?
+
+
+
+Wieso nicht?
+
+
+
+Marktplatz
+
+
+
+Audiotrainer
+
+
+
+
+
+
+German XXL
+
+German XXL
+Deutsch Aktuell
+
+Deutsch im Fokus
+
+Telenovela
+
+Bandtagebuch
+
+Landeskunde
+
+
+
+
+Community D
+
+Community D
+Das Porträt
+
+Facebook & Co.
+
+Podcasts & Newsletter
+
+Service
+
+
+
+
+Teaching German
+
+Teaching German
+DW im Unterricht
+
+Unterrichtsreihen
+
+Deutschlehrer-Info
+
+
+
+
+
+
+
+
+Germany
+World
+Business
+Sci-Tech
+Environment
+Culture
+Sports
+
+
+
+
+TOP STORIES
+
+/
+
+Sci-Tech
+
+
+
+
+
+
+
+
+
+Infectious Diseases
+Google Flu Trends may have failed but computers show travel helps Ebola spread
+
+It's hard to say for sure whether the Ebola epidemic in West Africa will spill over into other parts of the world. But computer modeling can predict a lot - for example, which cities are most at risk.
+
+
+
+
+
+
+
+
+
+Modern travel has no doubt made it easier for diseases to spread - and spread farther.
+
+This is nothing new in that diseases have always traveled with us, even back in the day when our best modes of transport were our feet, or a horse and cart. 
+
+Over the ages, various forms of the plague have spread with us over whole continents.
+
+It just happens a lot faster these days.
+
+With planes flying from one side of the world to the other in a mere 24 hours, germs are having a field day.
+
+For now, the Ebola virus seems to be contained in western Africa.
+
+But it has spread from Guinea - where some of the first cases drew international attention in March - to neighboring countries. In fact, since December 2013, the virus has spread to Sierra Leone, Liberia, Nigeria and Senegal.
+
+Plotting a virus
+
+Tools like Google Maps have enabled almost anyone to map cases of Ebola and plot the epidemic's chronology, showing the spreading of the virus in real-time.
+
+The technology is also used by the professionals. Take 
+HealthMap for example.
+
+Developed by a team of researchers, epidemiologists and software developers at Boston Children's Hospital, the healthmap on Ebola provides a clickable timeline that allows you to follow the development of the epidemic.
+
+It's interesting up to a point. But looking at the past doesn't necessary let you see the future.
+
+
+
+
+Global travel is easy - for people as well as viruses
+
+
+Germs travel by plane
+
+To understand how a virus spreads to the rest of the world, it is crucial to look at airports and at the flights going from one country to another, researchers say.
+
+Flight connections can indicate how fast a germ will travel. For a virus starting in London, New York may be closer and easier to reach than a remote village in Scotland - simply because of direct air travel.
+
+Dirk Brockmann of Humboldt University in Berlin, and Dirk Helbing of the Federal Institute of Technology in Zurich, have created a computer model that calculates how a germ will spread geographically, and which city it will probably reach first.
+
+In the past, they have simulated the spread of the H1N1 swine flu, E. coli (EHEC), and Severe acute respiratory syndrome (SARS).
+
+They have now 
+adjusted their model for the Ebola outbreak in West Africa.
+
+Brockmann, who also works for the World Health Organization, says our travel behavior is the key to determining the pattern by which a virus will spread. It's more important than the specifics of the virus.
+
+And, says Brockmann, "when the number of cases is high, the disease can spread faster."
+
+
+
+
+Monitoring travelers for fever is one method used to slow the spread of Ebola
+
+
+Ebola may reach Paris and London first
+
+The researchers' simulation shows a network of airports, and gives the relative probability with which Ebola would reach a city in comparison to others.
+
+Starting from an airport at Conakry in Guinea, Paris has the highest risk of becoming an entry point for Ebola: its "relative import probability" is about 8 percent.
+
+But from Freetown in Sierra Leone, London's Gatwick and Heathrow airports face a greater risk at a combined 8.5 percent, followed by Brussels.
+
+"In this network, we show historical factors," says Brockmann. "You could name them 'colonial fingerprints.' Several European countries still have much air traffic to their former colonies - France to Guinea, for example."
+
+Germany, with its main international airport at Frankfurt, has a lower risk than England and France.
+
+The probability of an Ebola patient reach another African country, such as Ghana, is higher.
+
+But Brockmann stresses these are only relative risks.
+
+The model can estimate that the relative risk of importing Ebola is higher for France than for Germany, but "at the moment, we cannot calculate how high the absolute probability is that there will be an Ebola case, for example, in England in the next three weeks," he says, adding that the team is working on including factors such as these into the model.
+
+
+
+
+Flu is more contagious than Ebola, and spreads faster - both can travel by air
+
+
+Googling symptoms
+
+Other tools have attempted to calculate the outbreak of an epidemic, some with unconventional means.
+
+The Internet firm Google has long said it could predict the location of flu outbreaks.
+
+Its "
+Flu Trends" tool analyzes search terms and links them to IP addresses, which gives them a location. The idea being that influenza starts to spread in a city, people are more likely to search for terms such as "flu symptoms."
+
+Google Flu Trends allows you to check the risk of flu in your area, virtually in real-time.
+
+The company has launched a similar tool for dengue fever.
+
+But according to a 
+paper in the journal "Science", Google's big data technology fails to make realistic prognoses.
+
+For instance, it missed a flu epidemic in 2009, and despite a software update, it is said to have exaggerated the risk.
+
+As the researchers write in "Science," the tool "was predicting more than double the proportion of doctor visits for influenza-like illness than the (US) Centers for Disease Control and Prevention."
+
+Some see this as sufficient proof that Google's approach to big data have yet to mature.
+
+
+
+
+A warning may change people's behavior - at least that is how it should be
+
+
+Future challenges
+
+"Our computer simulations are already quite good," Brockmann says, "but there is one thing missing: feedback."
+
+In addition, we often change or adapt our behavior when we perceive a threat to our lives. We might change our travel plans and stay at home based on media reports about an epidemic.
+
+"We would like to include this feedback into our models, too," says Brockmann.
+
+But that will take time.
+
+
+
+
+DW recommends
+
+
+
+
+
+
+ Frankfurt authorities prepare for Ebola
+Are we ready for Ebola? It's a question the German media have been asking for weeks. Frankfurt Airport has come under particular scrutiny due to its size. But could Frankfurt really be an entry point for the disease? (29.08.2014)
+  
+
+
+
+
+
+ Senegalese Ebola patient evacuated to Germany for treatment
+A WHO staffer who has contracted Ebola has arrived in Hamburg for treatment. The Senegalese epidemiologist is just one of many health workers who have contracted the deadly disease in West Africa. (27.08.2014)
+  
+
+
+
+
+
+ Senegal confirms first Ebola case
+Senegal has recorded its first case of Ebola in an outbreak that continues to spread through West Africa, Dakar's health ministry said on Friday. The disease has now killed more than 1,500 people this year. (29.08.2014)
+  
+
+
+
+
+
+ From animal to human - to an epidemic 
+  
+
+
+
+
+WWW links
+
+
+
+
+
+
+ The Ebola Epidemic - interactive graphic at Al Jazeera
+
+
+
+
+
+ HealthMap: The Ebola epidemic
+
+
+
+
+
+ "Science": The Parable of Google Flu: Traps in Big Data Analysis
+
+
+
+
+
+ 2014 Ebola Outbreak: Simulation by Dirk Brockmann
+
+
+
+
+
+ Google Flu Trends
+
+
+
+
+Audios and videos on the topic
+
+
+
+
+
+
+ Ebola patient arrives in Germany (28.08.2014)
+  
+
+
+
+
+
+
+Date
+03.09.2014 
+
+Author
+Brigitte Osterath 
+
+
+
+Related Subjects
+Google, Ebola
+
+
+Keywords
+ebola, 
+flu, 
+maps, 
+simulation, 
+airports, 
+virus, 
+Google, 
+health
+
+
+Share
+Send
+
+Facebook
+
+
+Twitter
+
+
+Google+
+
+More
+
+
+linkedin
+
+
+stumble
+
+
+Digg
+
+
+reddit
+
+
+del.icio.us
+
+
+Newsvine
+
+
+
+
+Feedback: Send us an e-mail. Please include your name and country in your reply.
+
+Print
+Print this page
+
+
+Permalink
+http://dw.de/p/1D5Pv 
+
+
+
+
+Related content
+
+
+
+
+
+
+New York JFK airport begins Ebola screenings 
+11.10.2014
+
+New York's JFK International, the first of five US airports, has begun conducting health screenings for travelers arriving from Ebola-hit West African nations. Their joint death toll due to the virus has topped 4,000.
+
+
+
+
+
+
+
+
+
+US airports to start Ebola screenings after Texas death 
+08.10.2014
+
+The US has announced that it will start screening passengers arriving from West African countries in a bid to stop the spread of Ebola. The announcement came just after the death of the first man diagnosed in the US.
+
+
+
+
+
+
+
+
+
+Third Ebola patient arrives in Germany from Africa 
+09.10.2014
+
+A man infected with the deadly Ebola virus has been admitted to a hospital in the eastern city of Leipzig. His is the third case to be treated in Germany.
+
+
+
+
+
+
+
+
+Date
+03.09.2014 
+
+Author
+Brigitte Osterath 
+
+
+
+Related Subjects
+Google, Ebola
+
+
+Keywords
+ebola, 
+flu, 
+maps, 
+simulation, 
+airports, 
+virus, 
+Google, 
+health
+
+
+Share
+Send
+
+Facebook
+
+
+Twitter
+
+
+Google+
+
+More
+
+
+linkedin
+
+
+stumble
+
+
+Digg
+
+
+reddit
+
+
+del.icio.us
+
+
+Newsvine
+
+
+
+
+Send us your feedback.
+
+Print
+Print this page
+
+
+Permalink
+http://dw.de/p/1D5Pv 
+
+
+
+
+
+
+
+
+
+More Science & Technology
+
+
+
+
+Opinion: Career, cryopreservation then kids 
+
+
+
+
+
+US tech companies are encouraging women to postpone family planning: instead of getting pregnant young, they can freeze their eggs at the company's expense and have kids later. DW's Noami Conrad is critical of the idea.   
+
+
+
+
+
+
+
+Is it acceptable to cremate the Ebola dead if it goes against their human rights? 
+
+
+
+
+
+An Ebola patient who died at a Leipzig hospital has been cremated, although his religion forbids it. German officials say it was necessary for public safety and in such cases human rights can be ignored.   
+
+
+
+
+
+
+
+Opinion: It's not images of children dying of Ebola that make me feel so ashamed 
+
+
+
+
+
+Our response to the Ebola outbreak is not what's shocking. It's our response to Africa - full stop. We've long forgotten the continent. And we - I - should be ashamed, says DW's Zulfikar Abbany.   
+
+
+
+ 
+
+
+
+
+
+
+Environment
+
+
+
+
+Why do oceans turn acidic? 
+
+
+
+
+
+   
+
+
+
+
+
+
+
+Species migration shaping ecosystems of the future 
+
+
+
+
+
+As the global climate heats up, species are moving beyond their normal ranges, posing a threat to native ecosystems and raising tough questions as to what the natural world of the future will look like.   
+
+
+
+
+
+
+
+Turkey's trouble with acquatic aliens 
+
+
+
+
+
+Turkey’s Gökova Bay is home to an array of alien species that are wiping out native marine inhabitants, worsening a fishing crisis. Protected zones, patrols and an information campaign are trying to tackle the problem.   
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+TOP STORIES
+Germany
+World
+Business
+Sci-Tech
+Environment
+Culture
+Sports
+ 
+A - Z Index
+
+
+MEDIA CENTER
+Live TV
+All media content
+Latest Programs
+Podcasts
+
+
+PROGRAM
+What's on TV?
+TV Program Guide
+TV Programs
+Video on Demand
+
+
+LEARN GERMAN
+German Courses
+German XXL
+Community D
+Teaching German
+
+
+EXPLORE DW
+RSS
+Reception
+Social Media
+Newsletters
+Podcasting
+Mobile
+
+
+ABOUT DW
+Who we are
+Press
+Business & Sales
+Hotels
+Service & Help
+My DW
+ 
+DW AKADEMIE
+Media Development
+Master's Degree
+Traineeship
+Training
+About us
+
+© 2014 Deutsche Welle | Legal notice | Contact
+
+
+
+
+
+

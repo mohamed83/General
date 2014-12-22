@@ -1,0 +1,423 @@
+Ebola — Underscoring the Global Disparities in Health Care Resources — NEJMEbola — Underscoring the Global Disparities in Health Care Resources — NEJM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome
+
+
+Renew, Subscribe or Create Account
+
+
+
+                                
+                                        
+                                    
+                                Sign In
+                            
+
+
+
+
+The New England Journal of Medicine
+
+
+
+
+
+
+Home
+Articles & Multimedia
+Issues
+Specialties & Topics
+For Authors
+CME
+
+
+
+
+
+AdvancedSearch
+
+
+
+
+PerspectiveEbola — Underscoring the Global Disparities in Health Care ResourcesAnthony S. Fauci, M.D.N Engl J Med 2014;  371:1084-1086September 18, 2014DOI:  10.1056/NEJMp1409494
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ArticleAudio InterviewInterview with Dr. Anthony Fauci on the current Ebola epidemic and the promise of candidate vaccines and therapies. 
+                        (11:57)
+                    ListenDownload An outbreak of Ebola virus disease (EVD) has jolted West Africa, claiming more than 1000 lives since the virus emerged in Guinea in early 2014 (see figureEbola Virus Cases and Deaths in West Africa (Guinea, Liberia, Nigeria, and Sierra Leone), as of August 11, 2014 (Panel A), and Over Time (Panel B).). The rapidly increasing numbers of cases in the African countries of Guinea, Liberia, and Sierra Leone have had public health authorities on high alert throughout the spring and summer. More recent events including the spread of EVD to Nigeria (Africa's most populous country) and the recent evacuation to the United States of two American health care workers with EVD have captivated the world's attention and concern. Health professionals and the general public are struggling to comprehend these unfolding dynamics and to separate misinformation and speculation from truth. EVD, originally identified in 1976 in Yambuku, Zaire (now the Democratic Republic of Congo), and Nzara, South Sudan, is caused by an RNA virus in the filovirus family. “Ebola” (named after a river in Zaire) encompasses five separate species — Zaire ebolavirus, Bundibugyo ebolavirus, Taï Forest ebolavirus, Sudan ebolavirus, and Reston ebolavirus. Reston ebolavirus is not known to cause disease in humans, but the fatality rates in outbreaks of the other four species have ranged from 25 to 90%.1 The strain currently circulating in West Africa bears 97% homology to Zaire ebolavirus samples found in the Democratic Republic of Congo and Gabon.2 This strain has historically resulted in the highest mortality (90%), although the estimated case fatality rate in the current outbreak is less than 60%.3  Outbreaks probably originate from an animal reservoir and possibly involve additional intermediary species. The most likely reservoir appears to be a fruit bat, although that linkage has not been confirmed.1 Transmission to humans may have occurred through direct contact with tissue or bodily fluids from an infected animal. Notably, Ebola virus is a zoonotic pathogen, and its circulation among humans is uncommon, which explains the intermittent and unpredictable nature of outbreaks. In fact, although the virus has caused more than 20 outbreaks since its identification in 1976, it had caused fewer than 1600 deaths before 2014, with case counts ranging from a handful to 425 in the Ugandan outbreak of 2000 and 2001.3 In most instances, the virus emerged in geographically restricted, rural regions, and outbreaks were contained through routine public health measures such as case identification, contact tracing, patient isolation, and quarantine to break the chain of virus transmission. In early 2014, EVD emerged in a remote region of Guinea near its borders with Sierra Leone and Liberia. Since then, the epidemic has grown dramatically, fueled by several factors. First, Guinea, Sierra Leone, and Liberia are resource-poor countries already coping with major health challenges, such as malaria and other endemic diseases, some of which may be confused with EVD. Next, their borders are porous, and movement between countries is constant. Health care infrastructure is inadequate, and health workers and essential supplies including personal protective equipment are scarce. Traditional practices, such as bathing of corpses before burial, have facilitated transmission. The epidemic has spread to cities, which complicates tracing of contacts. Finally, decades of conflict have left the populations distrustful of governing officials and authority figures such as health professionals. Add to these problems a rapidly spreading virus with a high mortality rate, and the scope of the challenge becomes clear. Although the regional threat of Ebola in West Africa looms large, the chance that the virus will establish a foothold in the United States or another high-resource country remains extremely small. Although global air transit could, and most likely will, allow an infected, asymptomatic person to board a plane and unknowingly carry Ebola virus to a higher-income country, containment should be readily achievable. Hospitals in such countries generally have excellent capacity to isolate persons with suspected cases and to care for them safely should they become ill. Public health authorities have the resources and training necessary to trace and monitor contacts. Protocols exist for the appropriate handling of corpses and disposal of biohazardous materials. In addition, characteristics of the virus itself limit its spread. Numerous studies indicate that direct contact with infected bodily fluids — usually feces, vomit, or blood — is necessary for transmission and that the virus is not transmitted from person to person through the air or by casual contact. Isolation procedures have been clearly outlined by the Centers for Disease Control and Prevention (CDC). A high index of suspicion, proper infection-control practices, and epidemiologic investigations should quickly limit the spread of the virus. Recognizing the signs of EVD can be challenging, however, since early symptoms are nonspecific (see boxFrequency of Symptoms Reported in 103 Cases of Ebola Virus Disease in Kikwit, Democratic Republic of Congo, in 1995.). It is essential to obtain a careful and prompt travel history. The incubation period typically lasts 5 to 7 days, although it can be as short as 2 days and as long as 21 days. Blood specimens usually begin to test positive on polymerase-chain-reaction–based diagnostics 1 day before symptoms appear. Typical symptoms include fever, profound weakness, and diarrhea. A maculopapular rash has been described, as have laboratory abnormalities including elevated aminotransferase levels, marked lymphocytopenia, and thrombocytopenia. Hemorrhagic complications occur in fewer than half of infected persons, and gross bleeding is relatively rare.1,4  Once Ebola virus is suspected, the CDC can confirm diagnoses with the use of a diagnostic test approved under an Emergency Use Authorization. Public health measures such as early isolation and infection control are critical. In addition, aggressive supportive care should be administered. Advanced hemodynamic monitoring and interventions that are available in hospitals throughout the United States could result in much higher survival rates than those currently seen in West Africa. With regard to the international transport of patients, the benefits of advanced life-support capabilities that are available in resource-rich countries must be weighed against the risks of air transport, given the hemodynamic instability associated with EVD. Recently, substantial attention has been paid to unlicensed therapies and vaccines. Among the therapies in development is a “cocktail” of humanized-mouse antibodies (“ZMapp”), which has shown promise in nonhuman primates. ZMapp was administered to two U.S. citizens who were recently evacuated from Liberia to Atlanta, and both patients have had clinical improvement. However, it is not clear whether ZMapp led to the recovery, and with only two cases, conclusions regarding its efficacy should be withheld. Moreover, the supply of ZMapp remains limited to a handful of doses, and production scale-up, though under way, will take time. Other candidate therapeutics include RNA-polymerase inhibitors and small interfering RNA nanoparticles that inhibit protein production.5  Preclinical evaluation of several vaccine candidates is also under way, and it is anticipated that a candidate developed at the National Institutes of Health will enter a phase 1 trial this fall, pending a decision from the Food and Drug Administration. This vaccine, a chimpanzee adenovirus-vector vaccine, includes two inserted Ebola genes encoding glycoproteins. Two other vaccine candidates involve vesicular stomatitis virus pseudotypes. Human clinical testing of one of these vaccines is expected to begin in early 2015. While these interventions remain on accelerated development paths, public health measures are available today that have a proven record of controlling EVD outbreaks. Moreover, premature deployment of unproven interventions could cause inadvertent harm, compromising an already strained relationship between health care professionals and patients in West Africa. Rapid but proper evaluation of candidate therapies and vaccines is needed. Should exemptions be offered for compassionate or emergency use, distribution of scarce interventions must be conducted with careful ethical guidance and regulatory review. It is unlikely that any miracle cure will end the current epidemic. Rather, sound public health practices, engagement with affected communities, and considerable international assistance and global solidarity will be needed to defeat Ebola in West Africa.    Disclosure forms provided by the author are available with the full text of this article at NEJM.org. This article was published on August 13, 2014, at NEJM.org.Source InformationFrom the National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD.ReferencesReferences1Feldmann H, Geisbert TW. Ebola haemorrhagic fever. Lancet 2011;377:849-862CrossRef | Web of Science | Medline2Baize S, Pannetier D, Oestereich L, et al. Emergence of Zaire Ebola virus disease in Guinea — preliminary report. N Engl J Med. DOI: 10.1056/NEJMoa1404505.3Chronology of Ebola hemorrhagic fever outbreaks. Atlanta: Centers for Disease Control and Prevention (http://www.cdc.gov/vhf/ebola/resources/outbreak-table.html).4Bwaka MA, Bonnet MJ, Calain P. Ebola hemorrhagic fever in Kikwit, Democratic Republic of Congo: clinical observations in 103 patients. J Infect Dis 1999;179:Suppl 1:S1-S7CrossRef | Web of Science | Medline5Feldmann H. Ebola — a growing threat? N Engl J Med. DOI: 10.1056/NEJMp1405314.Citing Articles (7) Citing Articles1Gerardo Chowell, Hiroshi Nishiura.  (2014) Transmission dynamics and control of Ebola virus disease (EVD): a review. BMC Medicine 12:1,  CrossRef 2Pierre Tattevin, Emanuele Durante-Mangoni, Moses Massaquoi.  (2014) Does this patient have Ebola virus disease?. Intensive Care Medicine 40:11, 1738-1741 CrossRef 3Ranu S Dhillon, Devabhaktuni Srikrishna, Jeffrey Sachs.  (2014) Controlling Ebola: next steps. The Lancet CrossRef 4David M Pigott, Nick Golding, Adrian Mylne, Zhi Huang, Andrew J Henry, Daniel J Weiss, Oliver J Brady, Moritz UG Kraemer, David L Smith, Catherine L Moyes, Samir Bhatt, Peter W Gething, Peter W Horby, Isaac I Bogoch, John S Brownstein, Sumiko R Mekaru, Andrew J Tatem, Kamran Khan, Simon I Hay.  (2014) Mapping the zoonotic niche of Ebola virus disease in Africa. eLife 3,  CrossRef 5Aftab A. Ansari.  (2014) Clinical features and pathobiology of Ebolavirus infection. Journal of Autoimmunity CrossRef 6Daniel G. Bausch, James Bangura, Robert F. Garry, Augustine Goba, Donald S. Grant, Frederique A. Jacquerioz, Susan L. McLellan, Simbirie Jalloh, Lina M. Moses, John S. Schieffelin.  (2014) A tribute to Sheik Humarr Khan and all the healthcare workers in West Africa who have sacrificed in the fight against Ebola virus disease: Mae we hush. Antiviral Research CrossRef 7Annette Rid, Ezekiel J Emanuel.  (2014) Ethical considerations of experimental interventions in the Ebola outbreak. The Lancet CrossRef 
+
+
+
+
+
+Access Provided By:VIRGINIA TECH UNIVERSITY
+
+
+
+
+
+
+Tools
+
+
+
+					
+					PDF
+				
+
+
+
+					
+					Print
+				
+
+
+
+					
+					Download Citation
+				
+
+
+
+                        Supplementary Material
+                    
+
+
+
+
+
+					
+					
+					
+					E-Mail
+				
+
+
+
+                        	
+                            Save 
+                            
+                        
+
+
+
+							
+							
+                            Article Alert 
+                        
+
+Reprints
+Permissions
+Share/Bookmark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TopicsInternational Health PolicyHealth Care DeliveryPublic HealthViral InfectionsGlobal HealthMore InPerspectiveSeptember 18, 2014
+
+
+
+
+
+
+
+
+
+
+
+Trends
+Most Viewed (Last Week)
+
+
+
+
+Review Article
+
+Physiological Approach to Assessment of Acid–Base Disturbances [53,884 views]
+
+October 9, 2014
+                            
+                                | K. Berend and Others
+                            
+                        
+
+
+Original Article
+
+Ebola Virus Disease in West Africa — The First 9 Months of the Epidemic and Forward Projections [37,067 views]
+
+September 22, 2014
+                            
+                                | WHO Ebola Response Team
+                            
+                        
+
+
+Original Article
+
+Goal-Directed Resuscitation for Patients with Early Septic Shock [27,521 views]
+
+October 1, 2014
+                            
+                                | The ARISE Investigators and the ANZICS Clinical Trials Group
+                            
+                        
+
+
+
+
+More Trends
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Content:
+Home
+Current Issue
+Articles
+Issue Index
+Specialties & Topics
+Multimedia & Images
+Archive 1812-1989
+
+
+Information For:
+Authors
+Reviewers
+Subscribers
+Institutions
+Media
+Advertisers
+
+
+Services:
+Subscribe
+Renew
+Pay Bill
+Activate Subscription
+Create or Manage Account
+Alerts
+RSS & Podcasts
+Submit a Manuscript
+Mobile
+
+
+Resources:
+Physician Jobs
+Reprints
+Permissions
+Medical Meetings
+Conventions
+FAQs
+NEJM Knowledge+
+NEJM Journal Watch
+Help
+Contact Us
+
+
+NEJM:
+About
+Product Information
+Editors & Publishers
+200th Anniversary
+Terms of Use
+Privacy Policy
+Copyright
+Advertising Policies
+NEJM Group
+
+
+CME:
+Weekly CME Program
+Browse Weekly Exams
+Your CME Activity
+Purchase Exams
+Review CME Program
+
+
+Follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article Category
+Research
+Reviews
+Clinical Cases
+Perspective
+Commentary
+Other
+Browse all articles
+
+
+Multimedia
+Videos in Clinical Medicine
+Images in Clinical Medicine
+Interactive Medical Cases
+Weekly Audio Summaries
+Browse all multimedia
+
+
+
+
+This Week
+Last Week
+Browse full index
+
+
+
+
+
+Selected Specialties
+Cardiology
+Endocrinology
+Gastroenterology
+Genetics
+Hematology/Oncology
+Infectious Disease
+Nephrology
+Neurology/Neurosurgery
+Obstetrics/Gynecology
+Pediatrics
+Primary Care/Hospitalist
+Pulmonary/Critical Care
+Surgery
+Browse all Specialties & Topics
+
+
+
+Featured Topics
+Clinical Practice Center
+Health Policy and Reform
+Medicine and Society
+Global Health Series
+Critical Care Series
+New Drugs Approved in 2013
+Quick Take Animations
+Ebola Outbreak
+
+
+
+
+Author Center
+Submit a Manuscript or Letter
+Track a Manuscript
+Help
+
+
+
+
+
+
+
+
+
+
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

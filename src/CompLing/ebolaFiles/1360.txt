@@ -1,0 +1,248 @@
+Ebola outbreak brings our concerns into reality | NECSIEbola outbreak brings our concerns into reality | NECSI
+
+
+
+
+
+
+
+About 
+
+About NECSI
+About Complex Systems
+News
+
+Faculty
+Affiliates
+Researchers and Staff
+Books and Journals
+Online Resources
+
+
+Research 
+
+Overview
+
+Economics
+Multiscale Method
+Social Systems
+Ethnic Violence
+Networks
+Healthcare
+Evolution and Systems Biology
+Education
+Engineering
+Military Conflict
+Business
+Sports
+
+
+Education 
+
+Courses in Complexity
+
+Executive Education
+
+
+Conferences 
+
+Upcoming Events
+ICCS
+Video Archive
+
+
+Opportunities 
+
+Courses in Complexity
+Professional Programs
+Collaborate with us
+
+NECSI Positions
+Position Application Form
+External Faculty Fellows
+External Student Fellows
+Guest Lecturers
+
+
+
+Donate
+Membership
+
+
+
+
+
+
+
+
+
+
+
+
+Ebola outbreak brings our concerns into reality
+
+
+
+Article:E.M. Rauch and Y Bar-Yam, Long-Range Interaction and Evolutionary Stability in a Predator-Prey System. Physical Review E 73, 020903, 2006.
+
+
+
+Download PDF
+
+
+
+
+
+How the latest Ebola strain may escape to kill again another day
+CAMBRIDGE (Sep 2, 2014) – When Korean Air announced last month it would halt its three weekly 
+
+            flights to Nairobi due to fears of an Ebola pandemic in Liberia and Sierra 
+
+            Leone — both of which are several thousand miles away — critics accused the 
+
+            airline of overreacting. As the pandemic spread — first to Nigeria, and then to 
+
+            Congo — airlines have steadily canceled flights to afflicted nations to limit the 
+
+            risk, despite the protestations of the World Health Organization. But research 
+
+            conducted by the New England Complex Systems Institute in 2006 suggests the 
+
+            airlines’ de facto quarantine is correct.
+When it comes to pandemics, it only takes a little global connectedness to 
+
+            trigger a cascade of infections. The outbreak of Ebola raging in West Africa—
+
+            labeled a Public Health Emergency of International Concern by the World Health 
+
+            Organization—echoes a scenario mapped out by NECSI in 2006. In a computer 
+
+            simulation of pathogens and hosts, long-range routes of transmission — most 
+
+            prominently, international air routes — can allow the deadliest viral strains to 
+
+            outrun their own extinction, and in the process kill vastly more victims than they 
+
+            would have otherwise.
+In an evolutionary model accounting for spatial distribution, a pathogen like the 
+
+            Ebola virus can cause its own demise by killing all the hosts in its immediate 
+
+            vicinity. If there is no one left alive to infect, a viral strain will die off. Successful 
+
+            pathogens leave their hosts alive long enough to spread infection. Typically, the 
+
+            most virulent mutations burn themselves out, and a stable balance is achieved 
+
+            between host and pathogen. But avenues of long-range dispersal break this 
+
+            pattern.
+Ebola cannot spread through the air; infection can only be transmitted through 
+
+            close contact with bodily fluids. Yet, in the age of global travel, patients in the 
+
+            dormant stage of infection can travel long distances before showing signs of 
+
+            illness, creating epicenters of secondary infection in geographically distant 
+
+            locations. Long-distance travel thus gives an unnatural advantage to the most 
+
+            virulent strains, allowing them access to new hosts even if they wipe themselves 
+
+            out at the local scale.
+The most relevant features of NECSI’s model to the current crisis is the critical 
+
+            threshold of connectedness at which a virulent strain can spread out of control. 
+
+            Even if a system seems stable, it may only take a few more routes of travel 
+
+            to trigger secondary outbreaks. “It wouldn’t take much for the current Ebola 
+
+            outbreak to spread to more countries or continents,” says NECSI president 
+
+            Yaneer Bar-Yam. “It only takes one infected individual making it through an 
+
+            airport checkpoint.” There is no cure for the Ebola virus; only early detection and 
+
+            basic medical care can improve a patient’s chance of survival. Thus, awareness 
+
+            of how quickly the scales of transmission can tip is paramount to getting the 
+
+            current outbreak under control and preventing more from starting.
+
+About NECSI: The New England Complex Systems Institute is a research and education institute based in Cambridge, MA. A pioneer in the field of complex systems science, NECSI addresses questions previously considered to be outside of the realm of scientific inquiry. Its research draws on foundations from mathematics, physics, and computer science to solve pressing problems in such areas as economics, healthcare, education, military conflict, ethnic violence, and international development. Its goal is to expand the boundaries of knowledge and to solve problems of science and society. www.necsi.edu
+
+
+
+
+NECSI on Ebola 
+
+Stopping Ebola Globally and in West Africa
+Response to CDC Director Frieden
+DRAFT New Ebola Response Strategy
+The Threat of Ebola in the West
+Ebola Response FAQ
+Effective Ebola Response
+Ebola outbreak brings our concerns into reality
+Pathogen-Host Evolutionary model
+Executive Summary on Infection Control
+
+
+
+News Coverage:
+
+
+		This Mathematical Model from 2006 Shows How Ebola Could Wipe Us Out
+by Jordan Pearson
+
+
+
+
+
+
+
+
+A cascade of infection starting in Africa.
+
+
+
+
+A cascade of infection starting in Asia.
+
+
+
+
+A cascade of infection starting in New York City, which 
+            is stopped after all major airports are affected.
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+ 
+
+ 
+Phone: 617-547-4100 | Fax: 617-661-7711 | Email: office at necsi.edu
+ 210 Broadway Suite 101 Cambridge, MA USA
+
+ 
+ 
+
+
+ 
+
+
+
+
+

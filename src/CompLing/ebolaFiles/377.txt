@@ -1,0 +1,421 @@
+Ebola Then and Now — NEJMEbola Then and Now — NEJM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome
+
+
+Renew, Subscribe or Create Account
+
+
+
+                                
+                                        
+                                    
+                                Sign In
+                            
+
+
+
+
+The New England Journal of Medicine
+
+
+
+
+
+
+Home
+Articles & Multimedia
+Issues
+Specialties & Topics
+For Authors
+CME
+
+
+
+
+
+AdvancedSearch
+
+
+
+
+PerspectiveEbola Then and NowJoel G. Breman, M.D., D.T.P.H., and Karl M. Johnson, M.D.September 10, 2014DOI:  10.1056/NEJMp1410540
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ArticleSlide ShowEbola Then and Now In October 1976, the government of Zaire (now the Democratic Republic of Congo [DRC]) asked what was then the U.S. Center for Disease Control, where we worked, to join an international group of scientists in elucidating and controlling an outbreak of an unusually lethal hemorrhagic fever. Just before we arrived in Zaire, our laboratory had used virologic and immunologic tests to identify the cause as a new filovirus, and we brought electron micrographs of the agent.1 In Zaire, we became, respectively, the chief of surveillance, epidemiology, and control and the scientific director of the International Commission for the Investigation and Control of Ebola Hemorrhagic Fever in Zaire. The 2013–2014 outbreak of Ebola virus disease (EVD) has much in common with the 1976 outbreak. Both were caused by Zaire ebolavirus 2 and began in rural forest communities, where wild game is hunted for food (though no animal has been implicated as the trigger of these outbreaks). Severely ill patients came to provincial hospitals with systemic illness resembling malaria, typhoid, Lassa fever, yellow fever, or influenza. Unsuspecting hospital staff had contact with patients' blood and body fluids, which amplified the outbreaks. Cases were exported to cities, and chains of transmission were established. In 1976, in the 120-bed Yambuku Mission Hospital (YMH) in Zaire, the virus initially spread through use of unsterilized syringes and needles. Of the hospital's 17 staff members, 13 became sick, and 11 died.3 The hospital was closed when the medical director and three Belgian missionaries died from Ebola. Many infected people and their contacts fled to their home villages out of fear and suspicion of the nonfunctioning Western medical system, seeking treatment from traditional healers. Several factors contributed to stopping Ebola's spread and facilitated investigations, beginning with careful attention to our commission's leadership, organization, coordination, administration, logistics, and communications and a series of rapid actions. The minister of health, the overall authority for commission activities who reported directly to the Council of Ministers and President Mobutu Sese Seko, convened daily meetings for sharing information and defining action steps. We had more than 70 people working in the field, with backup in Kinshasa, Antwerp, and Atlanta. Five commission members went to the village of Yambuku almost immediately to define the geographic extent of the outbreak, find active cases, find possible survivors for a plasmapheresis program, and assess needs for clinical care and laboratory facilities. Other members remained in Kinshasa to care for hospitalized patients, enforce surveillance and isolation of contacts, marshal resources, and assess options. The government had quarantined the 275,000 people in Bumba Zone — no commercial planes or boats could land there, and citizens were told not to leave their villages or allow strangers to enter. People lacked basic commodities and were fearful and agitated. We explained to them that we knew what caused the outbreak and showed authorities the electron micrograph. People along the road from the town of Bumba to Yambuku were relieved when we said we'd come to stop the disease's spread, treat patients, and meet their families. Some patients had been placed in huts outside their villages — a common practice for isolating patients with smallpox. We encouraged this practice and the designation of one family member — preferably someone who had recovered from the illness — to bring each patient food and medicines until we established a clinical care unit at the mission hospital. When patients died, traditional rites were abbreviated, a practice we encouraged. We advised that bodies be covered with hypochlorite disinfectant (bleach), wrapped in shrouds, and buried without the usual washing and prolonged contact with relatives and friends. Isolation huts and patients' garments were burned in many villages. Although YMH had been closed, villagers trusted the hospital and the mission staff, and trained personnel were needed for acute health problems. A Zairean doctor was therefore assigned to the hospital, and credibility was gradually restored, especially when we began visiting villages accompanied by the three remaining nuns. In November, our clinical and laboratory teams moved to Yambuku, since transmission had stopped in Kinshasa. We shipped a generator, a refrigerated centrifuge, a plastic glove box equipped for negative pressure (see slide show, available with the full text of this article at NEJM.org), an immunofluorescent microscope and immunofluorescence-assay (IFA) slides, plasmapheresis equipment, liquid nitrogen tanks, personal protective materials, and assorted supplies — and a single-sideband radio for improved communication with Kinshasa. But our most important tool was house-by-house visits. It was difficult to get medical staff to participate in field activities, so the national vaccination program, sleeping-sickness program, and smallpox–monkeypox surveillance program assigned us mobile teams, and the health minister ordered clinicians from the university hospital and public health services to join us. We assured all team members that they would be treated equally if they became ill. We advised them to take antimalarial medications, record their temperatures daily, and report elevated temperatures or other signs or symptoms of EVD to their team leader or us. When a Peace Corps volunteer working with blood specimens became ill with fever, headache, malaise, and rash, he was evacuated to a South African hospital — where he was discovered not to have EVD (and recovered). Ten four-person surveillance teams — led by a physician or nurse and trained in recognizing the features of EVD and other common diseases, interview techniques, patient isolation, and personal protection — visited 550 villages at least twice over a 2-month period; the 55 villages where Ebola was found were visited a third time. Patient identification was facilitated by the local tradition of shaving one's head when in mourning for a relative (see slide show). The teams had personal protective gear consisting of surgical scrubs, gloves, goggles, paper gowns, masks, caps, and booties. They brought standardized clinical and epidemiologic forms, first-aid kits, thermometers, antimalarials, antibiotics, and antipyretics. Any febrile person with suspected EVD was given medicines, advised to stay home with limited contacts, and visited again shortly thereafter. The teams were supervised by an epidemiologist or microbiologist who assessed possible active or recovered cases. Special teams went to selected communities for in-depth studies and to collect blood for IFA testing. The epidemic had peaked before we arrived; there were a total of 318 cases and 280 deaths, but we saw few active cases. The virus spread only through injection with an unsterilized needle or very close and repeated patient contact (see graphsTime of Onset of Ebola Virus Disease, According to Transmission Route, Zaire, 1976.).4 The median incubation period was 6 days among people infected through the common outpatient practice of intramuscular injection and 8 days among those infected through person-to-person contact (range, 1 to 21 days).4 The secondary attack rate was low — 5.6% among all family contacts; in only one instance did we find five chains of transmission. It was decided that quarantine of an area could end after 42 days (double the maximum incubation period) without a new case. Cohorts of contacts were isolated together for 21 days in two instances: first a group of Yambuku students and then Kinshasa hospital staff.5  Overall, we found that coordination of partners, transparency, and clear designation of authority and responsibilities were essential. We assuaged fear by working closely with national and local leaders, explaining what we knew and didn't know, and promising to remain in the area, treat patients, visit villages, and give evidence-based guidance. Reopening YMH addressed the community's daily needs, and our field IFA system permitted rapid diagnosis. Assuring international and Zairean health and support workers that they would be treated equally if they became ill helped us keep dedicated workers in the field. One dilemma was whether to care for sick team members locally or to evacuate them, which could delay treatment and expose many other people to the disease. The recent cases of two U.S. aid workers who were treated with an experimental therapy and then flown to Atlanta underscore such ethical questions. In the current Ebola epidemic, we believe that the main priorities should be adequate staff for rigorous identification, surveillance, and care of patients and primary contacts; strict isolation of patients; good clinical care; and rapid, culturally sensitive disposal of infectious cadavers. Timely control will require convincing community leaders and health staff that isolation and rapid burial practices are mandatory; that patients can be cared for safely in improved local conditions; and that only trained, qualified, and properly equipped health staff should have patient contact. These steps from the first Ebola outbreak may help bring the current epidemic under control. We also await key virologic, clinical, epidemiologic, and anthropologic descriptions of the epidemic — which will permit comparison with the other Ebola outbreaks that have occurred since 1976 and help us prepare for future outbreaks.    Disclosure forms provided by the authors are available with the full text of this article at NEJM.org. This article was published on September 10, 2014, at NEJM.org.Source InformationFrom the Fogarty International Center, National Institutes of Health, Bethesda, MD (J.G.B.); and Portland, OR (K.M.J.).ReferencesReferences1Johnson KM, Lange JV, Webb PA, Murphy FA. Isolation and partial characterisation of a new virus causing acute haemorrhagic fever in Zaire. Lancet 1977;1:569-571CrossRef | Web of Science | Medline2Baize S, Pannetier D, Oestereich L, et al. Emergence of Zaire Ebola virus disease in Guinea — preliminary report. N Engl J Med. DOI: 10.1056/NEJMoa1404505.3Ebola hemorrhagic fever in Zaire, 1976. Bull World Health Organ 1978;56:271-293Web of Science | Medline4Breman JG, Piot P, Johnson K, et al. The epidemiology of Ebola hemorrhagic fever in Zaire, 1976. In Pattyn SR, ed. Ebola virus hemorrhagic fever. Amsterdam: Elsevier, 1978:85-97.5Isaacson M, Ruppol JF, Collas R, et al. Containment and surveillance of a hospital outbreak of Ebola virus disease in Kinshasa, Zaire, 1976. In: Pattyn SR, ed. Ebola virus hemorrhagic fever. Amsterdam: Elsevier, 1978:122-6.
+
+
+
+
+
+Access Provided By:VIRGINIA TECH UNIVERSITY
+
+
+
+
+
+
+Tools
+
+
+
+					
+					PDF
+				
+
+
+
+					
+					Print
+				
+
+
+
+					
+					Download Citation
+				
+
+
+
+                        Supplementary Material
+                    
+
+
+
+
+
+					
+					
+					
+					E-Mail
+				
+
+
+
+                        	
+                            Save 
+                            
+                        
+
+
+
+							
+							
+                            Article Alert 
+                        
+
+Reprints
+Permissions
+Share/Bookmark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TopicsPublic HealthInternational Health PolicyHealth Care DeliveryViral InfectionsGlobal HealthMore InPerspective
+
+
+
+
+
+
+
+
+
+
+
+Trends
+Most Viewed (Last Week)
+
+
+
+
+Review Article
+
+Physiological Approach to Assessment of Acid–Base Disturbances [53,884 views]
+
+October 9, 2014
+                            
+                                | K. Berend and Others
+                            
+                        
+
+
+Original Article
+
+Ebola Virus Disease in West Africa — The First 9 Months of the Epidemic and Forward Projections [37,067 views]
+
+September 22, 2014
+                            
+                                | WHO Ebola Response Team
+                            
+                        
+
+
+Original Article
+
+Goal-Directed Resuscitation for Patients with Early Septic Shock [27,521 views]
+
+October 1, 2014
+                            
+                                | The ARISE Investigators and the ANZICS Clinical Trials Group
+                            
+                        
+
+
+
+
+More Trends
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Content:
+Home
+Current Issue
+Articles
+Issue Index
+Specialties & Topics
+Multimedia & Images
+Archive 1812-1989
+
+
+Information For:
+Authors
+Reviewers
+Subscribers
+Institutions
+Media
+Advertisers
+
+
+Services:
+Subscribe
+Renew
+Pay Bill
+Activate Subscription
+Create or Manage Account
+Alerts
+RSS & Podcasts
+Submit a Manuscript
+Mobile
+
+
+Resources:
+Physician Jobs
+Reprints
+Permissions
+Medical Meetings
+Conventions
+FAQs
+NEJM Knowledge+
+NEJM Journal Watch
+Help
+Contact Us
+
+
+NEJM:
+About
+Product Information
+Editors & Publishers
+200th Anniversary
+Terms of Use
+Privacy Policy
+Copyright
+Advertising Policies
+NEJM Group
+
+
+CME:
+Weekly CME Program
+Browse Weekly Exams
+Your CME Activity
+Purchase Exams
+Review CME Program
+
+
+Follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article Category
+Research
+Reviews
+Clinical Cases
+Perspective
+Commentary
+Other
+Browse all articles
+
+
+Multimedia
+Videos in Clinical Medicine
+Images in Clinical Medicine
+Interactive Medical Cases
+Weekly Audio Summaries
+Browse all multimedia
+
+
+
+
+This Week
+Last Week
+Browse full index
+
+
+
+
+
+Selected Specialties
+Cardiology
+Endocrinology
+Gastroenterology
+Genetics
+Hematology/Oncology
+Infectious Disease
+Nephrology
+Neurology/Neurosurgery
+Obstetrics/Gynecology
+Pediatrics
+Primary Care/Hospitalist
+Pulmonary/Critical Care
+Surgery
+Browse all Specialties & Topics
+
+
+
+Featured Topics
+Clinical Practice Center
+Health Policy and Reform
+Medicine and Society
+Global Health Series
+Critical Care Series
+New Drugs Approved in 2013
+Quick Take Animations
+Ebola Outbreak
+
+
+
+
+Author Center
+Submit a Manuscript or Letter
+Track a Manuscript
+Help
+
+
+
+
+
+
+
+
+
+
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

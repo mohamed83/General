@@ -1,0 +1,1153 @@
+
+	Safe Management of Patients With Serious Communicable Diseases: Recent Experience With Ebola VirusSafe Management of Patients With Serious Communicable Diseases | Annals of Internal Medicine
+
+	Safe Management of Patients With Serious Communicable Diseases: Recent Experience With Ebola VirusSafe Management of Patients With Serious Communicable Diseases | Annals of Internal Medicine
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VPI & State Univ | 
+
+
+
+Sign In
+
+
+					     (Create a Free Personal Account) 
+					
+ | Subscribe 
+
+
+
+
+
+
+
+
+
+[Annals of Internal Medicine]
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Search
+
+
+
+
+Advanced Search
+
+
+
+
+
+Register for Alerts
+Information for Authors
+Submit a Manuscript
+
+
+
+Home
+Current Issue
+All Issues
+Online First
+Collections
+In the Clinic
+Journal Club
+CME
+Audio & Video
+Authors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+
+
+        American College of Physicians
+
+
+
+                    You must be logged in as an individual user to share content.
+                
+
+
+
+        Copyright in the material you requested is held by American College Of Physicians
+        (unless otherwise noted). This email ability is provided as a courtesy, and by using
+        it you agree that that you are requesting the material solely for personal, non-commercial
+        use, and that it is subject to ACP's Conditions of Use.
+        The information provided in order to email this topic will not be used to send unsolicited
+        email, nor will it be furnished to third parties. Please refer to 
+            American College Of Physicians's Privacy
+                Policy for further information.
+    
+
+        Copyright © American College Of Physicians. All rights reserved.
+
+
+
+
+
+Share
+
+
+
+
+Get Permissions
+
+
+
+Get Citation
+
+
+
+
+
+
+
+Isakov A, Jamison A, Miles W, Ribner B. Safe Management of Patients With Serious Communicable Diseases: Recent Experience With Ebola Virus. Ann Intern Med. [Epub ahead of print 23 September 2014] doi:10.7326/M14-2084
+
+
+Download citation file: 
+RIS (Zotero)
+EndNote
+BibTex
+Medlars
+ProCite
+RefWorks
+Reference Manager
+
+Copyright © 2014 American College of Physicians. All Rights Reserved.
+
+
+
+PDF
+
+
+
+
+Ideas and Opinions
+|
+23 September 2014
+
+
+
+
+
+Safe Management of Patients With Serious Communicable Diseases: Recent Experience With Ebola VirusSafe Management of Patients With Serious Communicable Diseases
+FREE
+ONLINE FIRST
+
+
+
+Alexander Isakov, MD, MPH; Aaron Jamison, EMT-P; Wade Miles, EMT-P; and Bruce Ribner, MD, MPH
+
+
+
+[+-] Article and Author Information
+
+
+
+This article was published online first at www.annals.org on 23 September 2014.
+
+
+
+From Emory University School of Medicine, Emory Healthcare, and Grady Health System, Atlanta, Georgia.Editor's Note: This online-first version will be replaced with a final version when it is included in the issue. The final version may differ in small ways.Acknowledgment: The authors thank Drs. Arthur Kellermann and Kate Heilpern for their thoughtful review of the manuscript.Disclosures: Disclosures can be viewed at www.acponline.org/authors/icmje/ConflictOfInterestForms.do?msNum=M14-2084.Requests for Single Reprints: Alexander Isakov, MD, MPH, Section of Prehospital and Disaster Medicine, Department of Emergency Medicine, Emory University School of Medicine, 1599 Clifton Road, Suite 2-113, Atlanta, GA 30322; e-mail, aisakov@emory.edu.Current Author Addresses: Dr. Isakov: Section of Prehospital and Disaster Medicine, Department of Emergency Medicine, Emory University School of Medicine, 1599 Clifton Road, Suite 2-113, Atlanta, GA 30322.Mr. Jamison and Mr. Miles: Grady EMS, 745 Memorial Drive SE, Atlanta, GA 30316.Dr. Ribner: Division of Infectious Disease, Department of Medicine, Emory University School of Medicine, 1364 Clifton Road NE, Atlanta, GA 30322.Author Contributions: Conception and design: A. Isakov, W. Miles, B. Ribner.Analysis and interpretation of the data: A. Jamison, W. Miles.Drafting of the article: A. Isakov.Critical revision of the article for important intellectual content: A. Isakov, A. Jamison, B. Ribner.Final approval of the article: A. Isakov, W. Miles.Provision of study materials or patients: A. Jamison.Statistical expertise: A. Jamison, W. Miles.Administrative, technical, or logistic support: A. Isakov, W. Miles.
+
+
+
+
+
+
+Ann Intern Med.  Published online 23 September 2014  doi:10.7326/M14-2084
+
+
+                            Text Size: A
+A 
+                                A
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article
+
+
+
+
+
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comments (0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Health care workers (HCWs) in the emergency medical services (EMS) and hospital settings often encounter patients infected with dangerous communicable diseases. Such patients are usually managed without fanfare, but when it was announced on 1 August 2014 that 2 American HCWs infected with Ebola virus would return to the United States for treatment, it drew the world's attention.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The means by which Ebola is spread are well-known. Careful adherence to standard, contact, and droplet precautions, as outlined for HCWs by the Centers for Disease Control and Prevention (CDC) (1), prevents exposure to blood or bodily fluids contaminated with this virus. However, images of infected patients arriving at Emory University Hospital looked much different from what might have been expected. How can the sight of HCWs in “space suits” be reconciled with published CDC infection control guidelines? In this essay, we offer our rationale for adopting the safeguards that were used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prevention of disease transmission in health care settings, including EMS transport, involves more than the proper use of personal protective equipment (PPE). It also depends on the development and implementation of appropriate administrative policies, work practices, and environmental controls accompanied by focused education, training, and supervision. Health care workers inconsistently adhere to such basic infection control practices as hand hygiene (2), and EMS provider adherence to infection control precautions and equipment disinfection can be suboptimal (3). Environmental samples from clinical settings inside and outside the hospital have revealed contamination with serious pathogens (4–6).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Grady EMS Biosafety Transport Program and Emory University Hospital Serious Communicable Disease Unit were established more than a decade ago to support the CDC, which is responsible for conducting research and intervening to control the world's deadliest pathogens. They also support CDC's quarantine station at Hartsfield-Jackson Atlanta International Airport, the busiest airport in the world and a major portal of immigration to the United States. Our goal in creating a special transport and inpatient care team was to close these and other gaps in practice and to facilitate the best care for patients while ensuring the safety of our HCWs and the general public by meticulous adherence to published CDC guidance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The team is educated about serious communicable pathogens, methods of transmission, available vaccines, preexposure and postexposure prophylaxis and treatment for specific infections, and the importance of strict adherence to standard and transmission-based infection control practices. Understanding the nature of the illnesses they confront helps providers overcome apprehension and fear so they can render safe and effective care. Training includes special attention to the proper donning and doffing of various PPE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emergency medical services medics isolate the driver compartment and envelop the interior of the patient compartment with water-impermeable barriers that prevent contamination of surfaces that are difficult to clean and disinfect, which is especially important for patients with active epistaxis, coughing, or vomiting. Patients may be asked to wear a water-impermeable suit to prevent exposure to sites of cutaneous bleeding or an undergarment capable of collecting large volumes of diarrhea.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For management of our patients with Ebola virus disease, the team met the PPE standard by wearing a Tyvek suit (DuPont), gloves, and a hooded powered air-purifying respirator. Tyvek suits afford a high degree of splash protection, an important consideration for HCWs managing a patient with potential for copious vomit, diarrhea, and blood, which poses a serious risk for exposure. The hooded powered air-purifying respirator provided greater splash protection and was cooler and more comfortable to use. It averted eyewear fogging and prevented HCWs from inadvertently touching their face. Should the patients have suddenly required an aerosol-producing procedure, such as airway suctioning or endotracheal intubation, the team would have been properly protected. Although not strictly required, this approach was practical and allowed our HCWs to confidently focus on safely caring for and transporting these patients without needless anxiety and distraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patient delivery directly into the isolation unit limited exposure to other patients or visitors at the hospital. Decontamination and disinfection of the ambulance was facilitated by use of the barrier drapes. All environmental surfaces and waste bags were disinfected with an agent approved by the U.S. Environmental Protection Agency, with appropriate surface contact time. Disinfection of the ambulance, collection of infectious waste, and removal of PPE were directly supervised to ensure no violation of technique or breach in protocol. Even without a recognized exposure, the health care team was monitored for subjective illness and fever to ensure that developing illness was recognized and swiftly evaluated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Although the successful arrival of these patients at the isolation unit was guided by 12 years of planning, practice, and experience, it still yielded new lessons. Seemingly stable patients arriving from Ebola-endemic areas have probably had large volume losses without benefit of laboratory assessment and may have significant electrolyte abnormalities that require continuous cardiac monitoring and intravenous access, an intervention that might otherwise be deferred in austere settings to limit the risk for HCW exposure if vascular access is difficult to obtain. In our case, both patients were transported without incident.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We believe that a dedicated team is best suited for transport of patients with confirmed serious communicable illness. Although this is a particularly relevant consideration in communities that are close to CDC quarantine stations or biocontainment laboratories, HCWs in every community may be called on to assist a traveler who has recently returned from an Ebola-stricken region. For the future, because communicable disease threats may emerge inside or outside the United States with little or no notice, EMS agencies and hospitals would be prudent to implement measures to identify patients with communicable illness and ensure that their personnel can confidently and safely provide care anywhere and for all pathogens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+
+
+
+
+
+
+
+
+1 Centers for Disease Control and Prevention.  Infection Prevention and Control Recommendations for Hospitalized Patients with Known or Suspected Ebola Hemorrhagic Fever in U.S. Hospitals. Atlanta, GA: Centers for Disease Control and Prevention; 2014. Accessed at www.cdc.gov/vhf/ebola/hcp/infection-prevention-and-control-recommendations.html on 4 September 2014. 2 World Health Organization.  WHO Guidelines on Hand Hygiene in Health Care (Advanced Draft): A Summary. Geneva: World Health Organization; 2005. Accessed at www.who.int/patientsafety/events/05/HH_en.pdf on 4 September 2014. 3 Bledsoe BE, Sweeney RJ, Berkeley RP, Cole KT, Forred WJ, Johnson LD.  EMS provider compliance with infection control recommendations is suboptimal. Prehosp Emerg Care. 2014;18:290-4. [PMID: 24401023] doi:10.3109/10903127.2013.851311 4 Alves DW, Bissell RA.  Bacterial pathogens in ambulances: results of unannounced sample collection. Prehosp Emerg Care. 2008;12:218-24. [PMID: 18379921] doi:10.1080/10903120801906721 5 Brown R, Minnon J, Schneider S, Vaughn J.  Prevalence of methicillin-resistant Staphylococcus aureus in ambulances in southern Maine. Prehosp Emerg Care. 2010;14:176-81. [PMID: 20199231] doi:10.3109/10903120903564480 6 Weber DJ, Rutala WA, Miller MB, Huslage K, Sickbert-Bennett E.  Role of hospital surfaces in the transmission of emerging health care-associated pathogens: norovirus, Clostridium difficile, and Acinetobacter species. Am J Infect Control. 2010;38:S25-33. [PMID: 20569853] doi:10.1016/j.ajic.2010.04.196 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Figures
+
+
+
+
+
+                            Tables
+
+
+
+
+
+
+
+
+
+                            References
+
+1 Centers for Disease Control and Prevention.  Infection Prevention and Control Recommendations for Hospitalized Patients with Known or Suspected Ebola Hemorrhagic Fever in U.S. Hospitals. Atlanta, GA: Centers for Disease Control and Prevention; 2014. Accessed at www.cdc.gov/vhf/ebola/hcp/infection-prevention-and-control-recommendations.html on 4 September 2014. 2 World Health Organization.  WHO Guidelines on Hand Hygiene in Health Care (Advanced Draft): A Summary. Geneva: World Health Organization; 2005. Accessed at www.who.int/patientsafety/events/05/HH_en.pdf on 4 September 2014. 3 Bledsoe BE, Sweeney RJ, Berkeley RP, Cole KT, Forred WJ, Johnson LD.  EMS provider compliance with infection control recommendations is suboptimal. Prehosp Emerg Care. 2014;18:290-4. [PMID: 24401023] doi:10.3109/10903127.2013.851311 4 Alves DW, Bissell RA.  Bacterial pathogens in ambulances: results of unannounced sample collection. Prehosp Emerg Care. 2008;12:218-24. [PMID: 18379921] doi:10.1080/10903120801906721 5 Brown R, Minnon J, Schneider S, Vaughn J.  Prevalence of methicillin-resistant Staphylococcus aureus in ambulances in southern Maine. Prehosp Emerg Care. 2010;14:176-81. [PMID: 20199231] doi:10.3109/10903120903564480 6 Weber DJ, Rutala WA, Miller MB, Huslage K, Sickbert-Bennett E.  Role of hospital surfaces in the transmission of emerging health care-associated pathogens: norovirus, Clostridium difficile, and Acinetobacter species. Am J Infect Control. 2010;38:S25-33. [PMID: 20569853] doi:10.1016/j.ajic.2010.04.196 
+
+
+
+
+
+
+
+								Letters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE:
+                                    Citing articles are presented as examples only. In non-demo SCM6 implementation,
+                                    integration with CrossRef’s "Cited By" API will populate this tab (http://www.crossref.org/citedby.html).
+                                
+
+
+
+
+
+Compression-Only CPR: Pushing the Science Forward
+                                    Cone
+AAM 2010;304:1493-1495.
+                                
+
+
+
+
+
+All you need to read in the other general jounals
+BMJ 2010;341:c5893-c1494.
+                                
+
+
+
+
+
+
+
+
+
+                            Comments
+
+
+
+
+
+
+            Please read the other comments before posting. Contributors must reveal any conflict
+            of interest.
+            Comments are moderated and will appear on the site at the discretion of The American
+            College of Physicians editorial staff. Please be sure your email address is
+                updated in your account, otherwise the American College of Physicians will not be
+                able to contact you about your comment.
+
+* = Required Field
+
+
+Comment Author(s)* (if multiple authors,
+                separate names by comma)
+
+
+                Example: John Doe
+
+
+
+Affiliation & Institution*
+
+
+
+
+
+Disclosure of Any Conflicts of Interest*
+                    (applies to the past 5 years and foreseeable future) Indicate any potential conflicts
+                    of interest of each author below, including specific financial interests and relationships
+                    and affiliations relevant to the subject matter or materials discussed in the manuscript
+                    (eg, employment/affiliation, grants or funding, consultancies, honoraria, speakers
+                    bureau, stock ownership or options, expert testimony, royalties, donation of medical
+                    equipment, or patents filed, received, or pending). If all authors have none, check
+                    "No potential conflicts or relevant financial interests" in the box below. Please
+                    also indicate any funding received in support of this work. The information will
+                    be posted with your response.
+                
+
+
+
+                Please disclose any conflicts of interest or check the box below.
+
+            No potential conflicts or relevant financial interests
+        
+
+
+Comment Title*
+
+
+
+
+Comment*
+
+
+
+
+
+
+Get Audio Code
+
+
+
+
+
+
+
+
+
+Submit 
+                Cancel
+
+
+
+
+
+
+
+Submit a Comment
+
+
+Submit a Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Summary for Patients
+
+
+
+
+
+
+
+                                Clinical Slide Sets
+
+Terms of Use
+
+                                The In the Clinic® slide sets are owned and copyrighted by the American College
+                                of Physicians (ACP). All text, graphics, trademarks, and other intellectual property
+                                incorporated into the slide sets remain the sole and exclusive property of the ACP.
+                                The slide sets may be used only by the person who downloads or purchases them and
+                                only for the purpose of presenting them during not-for-profit educational activities.
+                                Users may incorporate the entire slide set or selected individual slides into their
+                                own teaching presentations but may not alter the content of the slides in any way
+                                or remove the ACP copyright notice. Users may make print copies for use as hand-outs
+                                for the audience the user is personally addressing but may not otherwise reproduce
+                                or distribute the slides by any means or media, including but not limited to sending
+                                them as e-mail attachments, posting them on Internet or Intranet sites, publishing
+                                them in meeting proceedings, or making them available for sale or distribution in
+                                any unauthorized form, without the express written permission of the ACP. Unauthorized
+                                use of the In the Clinic slide sets will constitute copyright infringement.
+                            
+
+
+
+
+
+
+
+                                Toolkit
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+Filter By Topic >
+
+All Articles
+
+
+
+
+ebola virus
+communicable diseases
+disinfection
+health personnel
+
+
+
+
+Protecting Health Care Workers From Ebola: Personal Protective Equipment Is Critical but Is Not EnoughProtecting Health Care Workers From EbolaAnn Intern Med.  Published online 26 August 2014Ebola, Ethics, and Public Health: What Next?Running Title: Ebola, Ethics, and Public HealthAnn Intern Med.  Published online 19 August 2014MMWR SUPPLEMENTAnn Intern Med.  1997;127(10):922. Preparing for Critical Care Services to Patients With EbolaRunning Title: Critical Care Services for Patients With EbolaAnn Intern Med.  Published online 23 September 2014
+
+[+] View More
+
+
+
+
+
+
+
+
+Journal Club
+
+
+
+
+
+
+
+
+Surgical masks were noninferior to N95 respirators for preventing influenza in health care providersAnn Intern Med.  2010;152(6):JC3-2. 
+
+[+] View More
+
+
+
+
+
+
+
+Related Point of Care
+
+
+
+
+
+
+
+
+
+
+Ebola and Marburg VirusesDaniel G. Bausch, MD, MPH&TM
+
+View More from ACP Smart Medicine
+
+
+
+
+
+
+
+
+
+Topic Collections
+
+
+
+
+
+
+
+Emergency Medicine
+Hospital Medicine
+Infectious Disease
+Hospital-Acquired Infections
+Prevention/Screening
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You do not have access to this content.
+
+        You either do not have a subscription or your subscription has expired. Click here to Renew
+        Now
+    
+
+
+
+
+
+        Annals of Internal Medicine
+
+        Other Resources
+
+
+
+
+            Content
+
+Home
+Current Issue
+All Issues
+Online First
+Topic Collections
+In the Clinic
+Journal Club
+CME
+
+                Audio & Video
+
+
+
+
+            Information For
+
+Authors
+Reviewers
+Press
+Readers
+Institutions / Libraries / Agencies
+Advertisers
+
+
+
+
+            Services
+
+Subscribe
+Renew
+Alerts
+Current Issue RSS
+Online First RSS
+In the Clinic RSS
+Journal Club RSS
+Reprints
+                & Permissions
+Contact Us
+Help
+Conditions of Use
+Privacy Policy
+
+
+
+
+
+             
+
+About Annals
+About Mobile
+Patient Information
+Teaching Tools
+Annals in the News
+
+Share Your Feedback
+
+
+
+
+            Awards
+
+Personae Photography Prize
+Junior Investigator Awards
+Poetry Prize
+
+
+            Follow Annals On
+
+Twitter
+Facebook
+
+
+
+
+ACP Online
+Career Connection
+ACP Advocate Blog
+ACP Journal Wise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Copyright © 2014 
+    
+        American College of Physicians. All Rights Reserved.
+    
+
+Print ISSN: 0003-4819 | Online ISSN: 1539-3704
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forgot your password?
+		Enter your username and email address. We'll send you a reminder to the email address on record.
+		
+
+
+Username*
+
+			(Required)
+			
+
+
+Email Address*
+
+			(Required)
+			
+        
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

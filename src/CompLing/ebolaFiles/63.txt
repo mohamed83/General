@@ -1,0 +1,318 @@
+EMD-6003 -- Spatial localization of the Ebola glycoprotein mucin-like domain using cryo-electron tomography. -- Tran EEH, Simmons JA, Bartesaghi A, Shoemaker CJ, Nelson E, White JM, Subramaniam S -- EMDBEMD-6003 -- Spatial localization of the Ebola glycoprotein mucin-like domain using cryo-electron tomography. -- Tran EEH, Simmons JA, Bartesaghi A, Shoemaker CJ, Nelson E, White JM, Subramaniam S -- EMDB
+
+
+
+
+
+
+
+
+
+
+Services
+
+
+Research
+
+
+Training
+
+
+Industry
+
+
+About us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeEMD-6003
+
+
+
+
+Mirrors
+
+
+
+
+RCSB (USA)
+
+
+EBI (UK)
+
+
+
+
+
+
+
+
+ Contact EMDataBank 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title:Cryo-electron tomography of full-length glycoprotein from Ebola virus-like particles
+
+
+Authors:Tran EEH, Simmons JA, Bartesaghi A, Shoemaker CJ, Nelson E, White JM, Subramaniam S
+
+
+Sample:Molecular structure of Ebola VLP full-length glycoprotein trimer
+
+
+Method:Subtomogram averaging
+
+
+Latest update:2014-09-03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                        Experimental details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                        Visualization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                        Map information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                        Downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary
+
+
+
+                        Status:
+                    Released
+
+
+
+                            Deposition date:
+                        2014-07-29
+
+
+
+                        Deposition site:
+                    RCSB
+
+
+
+                        Processing site:
+                    RCSB
+
+
+
+                            Header release date:
+                        2014-08-06
+
+
+
+                            Map release date:
+                        2014-08-06
+
+
+
+                                Primary citation:
+                            Spatial localization of the Ebola glycoprotein mucin-like domain using cryo-electron tomography.Tran EEH, Simmons JA, Bartesaghi A, Shoemaker CJ, Nelson E, White JM, Subramaniam S
+ J.VIROL. (2014) 88, pp. 10958-10962 [PubMed 25008940] [DOI]
+
+
+
+                                Sample:
+                            Molecular structure of Ebola VLP full-length glycoprotein trimer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EMBL-EBI
+
+
+
+
+Services
+
+
+
+
+Research
+
+
+
+
+Training
+
+
+
+
+Industry
+
+
+
+
+About us
+
+
+
+
+EMBL-EBI, Wellcome Trust Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK    +44 (0)1223 49 44 44
+Copyright © EMBL-EBI 2012 | EBI is an Outstation of the 
+                                            European Molecular Biology Laboratory |
+                                            Privacy |
+                                            Cookies |
+                                            Terms of use
+
+
+
+
+
+

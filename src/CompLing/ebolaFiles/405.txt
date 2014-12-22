@@ -1,0 +1,423 @@
+Feds ratchet up public health, tech efforts to battle Ebola | Government  Health ITFeds ratchet up public health, tech efforts to battle Ebola | Government  Health IT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Home
+TopicsCloud ComputingElectronic Health RecordePrescribingHealth Information Exchange (HIE)Meaningful UseMedicaidMedicareMilitary HealthMobile/ WirelessNHINPolicy & LegislationPopulation HealthPrivacy and SecurityQuality and SafetyTelehealthWorkforce Management
+Issues
+Sept/Oct 2011
+July/August 2011
+May/June 2011
+March/April 2011
+Jan/Feb 2011
+Nov/Dec 2010
+
+
+Webinars
+On Demand Webinars
+
+
+White Papers
+Blog
+Events
+Jobs
+RSS
+Slideshows
+Videos
+Podcasts
+Newsletters
+Advertise
+
+
+
+
+
+
+LOGINREGISTERSUBSCRIBE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+Home » News » Population Health 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Feds ratchet up public health, tech efforts to battle Ebola
+September 25, 2014 | Government Health IT Staff
+
+
+
+
+
+
+Related NewsTime to celebrate interoperability progress?Why doctors must understand Big DataNIH to grant $46 million for brain researchSpotlight: ICD-10 tools on display at AHIMABig business CEOs issue call to action for fixing US healthcareRelated ResourcesAdvanced Text Mining Improves Medicare Advantage Coding 
+
+It appears almost definite at this point that the Ebola outbreak is likely to get worse, and very much so, before it shows any signs of lessening.
+The U.S. Centers for Disease Prevention and Control, in fact, projected that the number of infected people could potentially double every 20 days if nothing is done — a figure that could skyrocket to 1.4 million by January’s end.
+And if that “if nothing is done” scenario seems hyperbolic, the World Health Organization has said it needs “a 20-fold increase” in the number of public health workers to effectively manage the virus and treat infected patients.
+Making matters worse, the crisis is already viewed as underfunded and devastating to West Africa, Liberia, and Sierra Leone and overall costs could increase by as much as 8 times the current status, World Bank estimates suggest.
+Fed, private sector relief
+	Donations are flowing from the private sector. Technology billionaires Bill Gates and Paul Allen, for instance, committed to sending $50 million and some $20 million, respectively.
+Indeed, the donations are creeping up toward the bare minimum $600 million that the United Nations estimated it will cost — with the total $326 million to date, nearly $300 million of which came in since September 1, according to the Wall Street Journal.
+The American government is among those contributing as well. Last week President Barack Obama pledged more than $500 million and 3,000 troops to deploy to West Africa.
+New technologies and technologists
+	Government entities in the U.S. and abroad are moving to harness personnel and technologies to better manage the outbreak.
+The U.N established the Mission for Ebola Emergency Response, described as its first mission addressing a public health crisis. The CDC, for its part, built the Ebola Response mission tool to project future cases and, ideally, slow the epidemic down.
+President Obama also announced the U.S. would be training as many as 500 public health workers and dispatching one of its highest-profile technologists: White House CIO Steven VanRoekel is leaving his position to spearhead the government’s use of technology in its battle against the Ebola virus.
+VanRoekel will join the United States Agency for International Development (USAID) as it responds to the outbreak and manage tasks such as the analysis of real-time data that officials hope can contain the spread of the deadly virus, The Hill reported, citing an administration official.
+Total cases to date
+	It’s important to keep in mind that many public health officials are saying the total cases are thus far underreported.
+As of September 22, the WHO noted, Ebola has infected 5,864 people and killed 2,811 — among those the 384 infected and 186 dead healthcare workers.
+
+
+
+
+
+
+
+        Related Topics:Online Only
+Population Health
+ 
+
+View the discussion thread.
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Most Popular 
+
+
+Latest Headlines
+Most Popular
+
+
+
+
+
+
+
+Associations map out ways for HHS to fix meaningful use
+
+
+
+
+Time to celebrate interoperability progress?
+
+
+
+
+Apple Pay and the promise of hardware-based security
+
+
+
+
+UnitedHealthcare attorney joins ONC
+
+
+
+
+The case against hasty FDASIA legislation
+
+
+
+
+
+
+CMS posts Medicare deductibles and premiums for 2015Why doctors must understand Big DataCMS clears the air about Medicaid taxFTC sets sights on EHR makersONC lays out HIE progress, says roadblocks remainmore news
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+All ResourcesWhite PapersUpcoming WebinarsOn Demand Webinars
+
+
+
+
+
+
+
+
+
+
+    WEBINARS AND WHITE PAPERS
+  
+
+   
+
+WHITE PAPERS
+
+
+
+A Reference Architecture for Healthcare Benefit Exchange   
+
+
+
+ 
+
+WHITE PAPERS
+
+
+
+Beyond the EHR: Seamlessly Connecting Nurses and Physicians Using an EHR-Extender (EHR-e)  
+
+
+
+ 
+
+WHITE PAPERS
+
+
+
+Managed Care for Medicaid - Assess, Implement, and Administer 
+
+
+
+ 
+
+WHITE PAPERS
+
+
+
+The VNA Strategy: Balancing Workflow and Enterprise Imaging Management 
+
+
+
+ 
+
+WHITE PAPERS
+
+
+
+Your Cloud in Healthcare - How to Use the Cloud to Achieve Greater Business Agility 
+
+
+
+ 
+
+More Resources 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+HIMSS JOBMINE 
+
+Executive Consultant - Business Intelligence - Beacon Partners - NA
+
+Recruiter - Beacon Partners - Weymouth, MA
+
+Epic Beacon Consultant - Beacon Partners - NA
+
+Executive Consultant - Clinical Documentation - Beacon Partners - NA
+
+Soarian Clinical Workflow / Rules Engine Consultant - Beacon Partners - NA
+
+more jobs
+
+
+
+
+
+receive news by email
+ 
+
+
+
+
+
+
+
+ 
+
+
+Events
+
+IBM Health and Social Programs Summit | Oct. 20-21 | Washington, DCBig Data & Healthcare Analytics, Boston, Nov. 20-21mHealth Summit: December 7-10Venture+ Forum: December 7 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Resource Central
+Blog
+Events
+Jobs
+Mobile Site
+
+Advertise
+RSS
+About
+Site map
+Privacy Policy
+
+
+
+
+ 
+
+
+
+
+
+
+
+Follow Government Health IT on TwitterLike Government Health IT on FacebookJoin Government Health IT on LinkedInRSS Subscriptions
+
+BlogEvents
+
+JobsMobile SiteMobile App
+
+
+
+Healthcare IT NewsHealthcare Finance NewsHealthcare Payer NewsHIEWatch ICD10Watch mHealth News Medical Practice Insider
+
+
+
+
+©  Government Health IT is a publication of HIMSS Media.
+
+Advertise About Us Privacy Policy
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+Advertisement. Closing in 15 seconds.
+
+
+
+
+
+
+ 

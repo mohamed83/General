@@ -1,0 +1,965 @@
+VDU's blog: Ebola Virus Disease (EVD) 2014 West African outbreak..VDU's blog: Ebola Virus Disease (EVD) 2014 West African outbreak..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VDU's blog
+
+
+
+The blog for Virology Down Under. 
+Info and opinion on viruses: what they are, how they tick and the illnesses they cause.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Static pages
+
+
+Ebola Numbers|West Africa, 2014
+Ebola Maps
+MERS-CoV: Tracking
+MERS-CoV: Age & Sex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Friday, 4 July 2014
+
+
+
+
+
+
+
+
+Ebola Virus Disease (EVD) 2014 West African outbreak..
+
+
+
+
+
+I will update this static page (link won't change so you can bookmark it) with the 2014 West African Ebola virus disease (EVD) numbers after they are released by the World Health Organisation (WHO).
+The WHO have commenced creating multi-page Situation Reports.[2] They are currently presented on Wednesday and Friday. My totals include all countries that have hosted a case in, or sourced from, a West African nation. Countries include Guinea, Liberia, Sierra Leone, Nigeria, Senegal, the United States of America and Spain.
+
+
+If I become impatient, I'll cobble together the individual country's numbers via reliefweb.int, then update that once WHO data are available (which may result in a drop in totals as WHO numbers may have been collected a littler earlier).
+
+Latest data taken from: http://apps.who.int/iris/bitstream/10665/136161/1/roadmapupdate10Oct14_eng.pdf?ua=1
+Date of Report: 10-OctDates covered: up to 7/8-Oct
+
+  
+
+
+Learn About Tableau
+
+
+
+  
+
+
+Learn About Tableau
+
+
+
+
+
+A note about the proportion of fatal cases (PFC): 
+On these graphs, my PFC calculations for West African countries and the DRC are based on dividing the total number of suspect/probable/confirmed deaths by the number of total suspect/probable/confirmed cases for the same date. This is crude and may be a sizable underestimate of the true PFC.
+It may be better to use the deaths at the most recent date divided by the total cases from 9-16-days  earlier (this number is not precisely known) to better account for the lag in time between presenting to a treatment facility and dying (for those who do not recover). 
+
+Some estimates suggest the true PFC may be closer to 70%-80%. I don't have enough data (or smarts) to be able to calculate the lag for now so please be aware that the PFC above is likely an underestimate.
+
+Reminders:
+
+The chart above, as with all on VDU, is made for general interest only. It is also freely available for anyone's use, just cite the page and me please. It may be that I have misinterpreted the language in the reports (sometimes a little tricky to wade through) or miscalculated some totals based on the way data have been presented. 
+Sometimes there are very country-specific differences in what gets presented to/via the World WHO DONs/SitReps which make this process less clear than it could be. I recommend you have a read and compare the data from each of the countries for yourself to understand these issues. 
+As I've talked about previously,[1] these numbers are all volatile for a variety of reasons, some Ebola-specific, so regard this chart for its trends only.
+I am only able to plot what is publicly available. To date, this does not include granular data with dates of onset, or daily data of any kind. The WHO have these data and you will see them become more available through their Situation Reports found here http://www.who.int/csr/disease/ebola/situation-reports/en/
+
+References...
+
+
+
+Ebola virus disease and lab testing...http://virologydownunder.blogspot.com.au/2014/04/ebola-virus-disease-and-lab-testing.html
+Ebolavirus outbreak Situation Reports http://www.who.int/csr/disease/ebola/situation-reports/en/
+
+
+
+
+
+
+
+
+Posted by
+
+
+
+Ian M Mackay
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email ThisBlogThis!Share to TwitterShare to Facebook
+
+
+
+
+
+
+
+Labels:
+case accumulation,
+Ebola virus,
+epidemiology,
+EVD,
+historical numbers,
+map,
+Static page,
+West Africa,
+Zaire ebolavirus
+
+
+
+
+
+
+Reactions: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow @MackayIM
+
+
+
+
+
+
+
+
+
+
+
+
+Get new post updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Posts on VDU
+
+
+
+
+
+
+
+
+
+Ebola virus may be spread by droplets, but not by an airborne route: what that means
+
+
+
+
+
+Ebola Virus Disease (EVD) 2014 West African outbreak..
+
+
+
+
+
+
+
+
+
+
+Ebola double vision....
+
+
+
+
+
+Ebola virus in semen is the real deal.... [UPDATED]
+
+
+
+
+
+Ebola: Blood, sweat and tears...
+
+
+
+
+
+
+
+
+
+
+The wind beneath my Ebola virus.... [UPDATED]
+
+
+
+
+
+Ebolavirus disease (EVD) cases, clusters and outbreaks mapped out...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All opinions are my own and do not represent medical advice or the views of any institution.All graphics made by me are free-to-use. Please just cite the particular page, blog and me. A heads-up would be nice too but that can happen later.Find me and my info at....@MackayIM.orcid.org/0000-0003-3598-2350.Figshare
+
+
+
+
+
+
+
+
+
+
+
+Virology Down Under pages..
+
+
+Avian influenza A(H7N9) virus
+DNA Down Under
+MERS-CoV
+PCR Down Under
+Some basics
+VDU Home
+Viral taxonomy
+
+
+
+
+
+
+
+
+
+
+
+
+Daily reads..
+
+
+WHO Disease Outbreak News
+Mike Coston's Avian Flu Diary
+Crawford Kilian's infectious disease blog
+Pathogen perspectives: Ebola and more
+Martin Enserink
+Kai Kupferschmidt
+Maia Majumder's blog
+Micro blog
+FluTrackers-everything infectious, before it happens
+CIDRAP-timely infectious disease reporting
+Superbug-Maryn McKenna's blog on a range of infectious matters
+HealthMap
+ProMED mail
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+▼ 
+
+2014
+(274)
+
+
+
+
+
+          ► 
+        
+
+
+October
+(8)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(12)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(13)
+
+
+
+
+
+▼ 
+
+July
+(15)
+
+Virus variability, dopey data and insufficient inf...
+Ain't no thing like MERS-CoV, 'cept MERS-CoV...
+Where has all the MERS-CoV action been...?
+Ebola West Africa numbers in context...[AMENDED]
+Now for something (not so) completely different: H...
+Middle East respiratory syndrome coronavirus (MERS...
+Middle East respiratory syndrome coronavirus (MERS...
+Middle East respiratory syndrome coronavirus (MERS...
+Ebolavirus disease (EVD) cases, clusters and outbr...
+Mucking about with MERS and maps...
+Words of wisdom from a Master....
+MERS-CoV in June/July...
+Editor's Note #19 VDU takes a pause...[UPDATE]
+Ebola Virus Disease (EVD) 2014 West African outbre...
+Ebola Virus Disease (EVD) West Africa update for 1...
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(23)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(41)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(43)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(22)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(42)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(55)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2013
+(379)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(19)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(21)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(41)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(47)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(69)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(43)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(16)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(71)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(47)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contributors
+
+
+Ian M Mackay
+Katherine Arden
+
+
+
+
+
+
+
+
+
+
+
+
+Follow by Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Form
+
+
+
+
+Name
+
+
+
+Email
+*
+
+
+
+Message
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by Blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,199 @@
+select text from twapperkeeper_2.z_40 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  46798
+cleaned:  35176
+Unique URLs dic created:  21115
+Freq URLs (>1):  2196
+Reqs Object:  557
+urls expanded:  557
+Orig Url dic len:  300
+select text from twapperkeeper_2.z_41 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  136922
+cleaned:  26499
+Unique URLs dic created:  18238
+Freq URLs (>1):  1867
+Reqs Object:  304
+urls expanded:  304
+Orig Url dic len:  228
+select text from twapperkeeper_2.z_42 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  80173
+cleaned:  10010
+Unique URLs dic created:  6338
+Freq URLs (>1):  639
+Reqs Object:  506
+urls expanded:  506
+Orig Url dic len:  303
+select text from twapperkeeper_2.z_43 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  5093
+cleaned:  2309
+Unique URLs dic created:  1664
+Freq URLs (>1):  224
+Reqs Object:  203
+urls expanded:  203
+Orig Url dic len:  162
+select text from twapperkeeper_2.z_44 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  18546
+cleaned:  12007
+Unique URLs dic created:  8195
+Freq URLs (>1):  840
+Reqs Object:  800
+urls expanded:  800
+Orig Url dic len:  595
+select text from twapperkeeper_2.z_45 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  23487
+cleaned:  21214
+Unique URLs dic created:  12731
+Freq URLs (>1):  1442
+Reqs Object:  157
+urls expanded:  157
+Orig Url dic len:  84
+select text from twapperkeeper_2.z_55 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  4626
+cleaned:  4568
+Unique URLs dic created:  3267
+Freq URLs (>1):  314
+Reqs Object:  287
+urls expanded:  287
+Orig Url dic len:  189
+select text from twapperkeeper_2.z_72 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  445
+cleaned:  437
+Unique URLs dic created:  327
+Freq URLs (>1):  20
+Reqs Object:  16
+urls expanded:  16
+Orig Url dic len:  12
+select text from twapperkeeper_2.z_78 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  3585
+cleaned:  3550
+Unique URLs dic created:  2281
+Freq URLs (>1):  399
+Reqs Object:  358
+urls expanded:  358
+Orig Url dic len:  71
+select text from twapperkeeper_2.z_89 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  22945
+cleaned:  22557
+Unique URLs dic created:  14390
+Freq URLs (>1):  1748
+Reqs Object:  329
+urls expanded:  329
+Orig Url dic len:  244
+select text from twapperkeeper_2.z_121 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  4618
+cleaned:  4249
+Unique URLs dic created:  3164
+Freq URLs (>1):  238
+Reqs Object:  216
+urls expanded:  216
+Orig Url dic len:  136
+select text from twapperkeeper_2.z_122 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  10052
+cleaned:  9178
+Unique URLs dic created:  6443
+Freq URLs (>1):  577
+Reqs Object:  529
+urls expanded:  529
+Orig Url dic len:  278
+select text from twapperkeeper_2.z_128 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  24079
+cleaned:  21531
+Unique URLs dic created:  13369
+Freq URLs (>1):  1631
+Reqs Object:  247
+urls expanded:  247
+Orig Url dic len:  139
+select text from twapperkeeper_2.z_140 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  150837
+cleaned:  137002
+Unique URLs dic created:  86327
+Freq URLs (>1):  10168
+Reqs Object:  9
+urls expanded:  9
+Orig Url dic len:  9
+select text from twapperkeeper_2.z_145 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  15657
+cleaned:  15223
+Unique URLs dic created:  10075
+Freq URLs (>1):  756
+Reqs Object:  679
+urls expanded:  679
+Orig Url dic len:  392
+select text from twapperkeeper_2.z_146 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  37851
+cleaned:  35625
+Unique URLs dic created:  24186
+Freq URLs (>1):  2268
+Reqs Object:  10
+urls expanded:  10
+Orig Url dic len:  10
+select text from twapperkeeper_2.z_157 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  9435
+cleaned:  8877
+Unique URLs dic created:  6939
+Freq URLs (>1):  431
+Reqs Object:  395
+urls expanded:  395
+Orig Url dic len:  256
+select text from twapperkeeper_2.z_159 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  4569
+cleaned:  4165
+Unique URLs dic created:  2602
+Freq URLs (>1):  215
+Reqs Object:  197
+urls expanded:  197
+Orig Url dic len:  154
+select text from twapperkeeper_2.z_186 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  49055
+cleaned:  45472
+Unique URLs dic created:  27800
+Freq URLs (>1):  2825
+Reqs Object:  172
+urls expanded:  172
+Orig Url dic len:  141
+select text from twapperkeeper_2.z_241 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  337277
+cleaned:  265992
+Unique URLs dic created:  81631
+Freq URLs (>1):  25555
+Reqs Object:  2
+urls expanded:  2
+Orig Url dic len:  2
+select text from twapperkeeper_2.z_242 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  210058
+cleaned:  157455
+Unique URLs dic created:  42828
+Freq URLs (>1):  12107
+Reqs Object:  0
+urls expanded:  0
+Orig Url dic len:  0
+select text from twapperkeeper_2.z_286 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted:  2517
+cleaned:  2256
+Unique URLs dic created:  1510
+Freq URLs (>1):  143
+Reqs Object:  138
+urls expanded:  138
+Orig Url dic len:  66
+

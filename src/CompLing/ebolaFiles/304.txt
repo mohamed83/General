@@ -1,0 +1,516 @@
+Should GMO drugs be perceived differently than GMO food? | Genetic Literacy ProjectShould GMO drugs be perceived differently than GMO food? | Genetic Literacy Project
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+
+
+
+
+
+Follow @GeneticLiteracy
+
+
+
+
+Subscribe to Our Daily or Weekly Newsletter  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Mission 
+Our Team 
+Advisory Board 
+Contributors 
+Donate 
+Copyright 
+Contact 
+
+
+Human
+
+Ancestry & Evolution 
+Biotechnology 
+Epigenetics 
+Personalized Medicine 
+Regulation & Bioethics 
+Stem Cells 
+Synthetic Biology 
+Transhumanism 
+
+
+Agriculture
+
+Animal Biotechnology 
+Biotechnology 
+Crops & Food 
+Green Genes & Sustainability 
+Regulation & Bioethics 
+
+
+Biotech Gallery
+
+Biotech Gallery Archives 
+
+
+Gene-ius 
+Resources
+
+External Resources & Links 
+GLP Newsletter Archive 
+
+
+Browse
+
+Authors 
+Issues 
+Sources 
+Advanced Search 
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Should GMO drugs be perceived differently than GMO food?
+
+Ben Locwin | August 18, 2014 | Genetic Literacy Project 
+
+
+
+
+
+
+
+ 
+
+
+
+Should GMO drugs be perceived differently than transgenic food? Some anti-GMO activists say, ‘no,’ that anything derived from genetic modification should be rejected.
+
+It’s abundantly clear that there is widespread support of transgenic healthcare therapies but far less so for genetic engineering in agriculture. As I’ve noted previously, public perception is divided on issues when emotion crowds the discussion. In cases where there is little patience for science to help the public decide, there tends to be almost no ambivalence in choosing a side. We have the so-called ‘bimodal distribution of public opinion’ where there are two sides, and not many in the middle. We see this not only in headlines but in pictures.
+
+The most recent example supporting this hypothesis can be found in the recent news explosion around the Ebola treatment, ZMapp and its place in public perception compared with transgenic food. There is a global outcry to rush treatments (ZMapp in particular) to the market. Even the World Health Organization (WHO) giving support to fast-track it without proper safety or efficacy tests having been completed, for example in this headline:
+Yet, while picketers in Africa are demanding treatments, picketers in the US are demanding that GM products be banned. They are determined to slow or even stop genetically-modified food from being further refined and developed. Why is this?
+It seems the critical attribute is how far on the emotional see-saw one wants to be on the side of drug therapies versus food sources. In fact, to help clarify the situation for any reader, it should be noted that this is a bivariate problem (meaning there are opinions on both factors–GM foods and GM health therapies, and they don’t necessarily match–even from the same person), and so I have developed the matrix below to cover the possibilities in opinions:
+On the x-axis is, moving from left to right, disfavor or favor of genetically-modified crops and food supplies; On the y-axis, moving from bottom to top, disfavor or favor of genetically-modified organisms (plants, bacterial, mammalian cells, etc.) for use in drug therapies for diseases. The bottom left quadrant represents disfavor of GM crops and GM drug therapies, and the top right represents favor of GM crops and GM drug therapies. In this two-way table, both polar decisions (no/no and yes/yes), and everything in-between (yes/no, no/yes) can be looked at to ask the following question:
+What separates the decision to favor or disfavor?
+Principally, there must be some distinction in the opinion-holders’ minds about why they are making the choices that they are. In consumer research, we call this anchoring, because it establishes the baseline stance from which all decisions about the topic use as a point of reference. For example, if it’s ok to be in the ‘top-left’ quadrant (favor GM therapies, disfavor GM food), why? It must be about how we decide.
+We make decisions all the time about where to eat, what to eat, whether or not to take vitamins, how much to sleep, how often to drive, and what to do about our healthcare. Each of these is a decision founded in our individual assessments of risk and risk-based decision-making. For example, in his book Do You Believe in Magic, Paul Offit, M.D. references the research underpinning echinacea; $130 million is spent on this herb in the United States every year for consumers hoping to bolster their health with it. But it is all a game of perception – After all was said and done studying echinacea, John Taylor and his team at the University of Washington in Seattle studied over 400 children with colds and gave half the group echinacea and half the group placebo. There was no difference in any measures of health or cold duration; The only difference was that the children in the echinacea group were more likely to develop a rash.
+Another phenomenon to mention here is the ‘hot-hand fallacy,’ another place where human decision-making is (very) fallible: A majority of the population believes in winning ‘streaks’ and the ‘hot-hand’ when it comes to games of chance and sporting events (for example, that a casino table is ‘hot’ for a short time, or that a particular favorite player is more likely to score if he or she has just scored). However, the research tells a different tale – one of the population’s inability to accurately appraise random chance without finding patterns which don’t really exist (which Michael Shermer has called ‘patternicity’).
+So not only do we often make decisions not based in grounded science or logic, but we’ll often choose one alternative over another for emotional reasons. The salient point here, though, is that a majority of the public favors transgenic technology to be used for therapies such as ZMapp to stem the Ebola crisis, and it seems that this includes a portion of overlap from those who otherwise reject the idea of GM foods. It seems then that this is an example of a risk-based decision, where the therapy for the emergent disease (acute treatment for Ebola) seems to present much greater benefit-to-risk than crops and foods which are modified to better meet certain demands (where maybe the benefit-to-risk profile seems less clear).
+Let’s be clear: This is no ‘secret serum’—it’s an experimental therapy and its effects are similar to other antibodies already on the market.
+Reductionism
+If we look at some of the principal technologies used for transgenic plants for antibody therapies, we would see that they are the same technologies used in agriculture to modify food-based crops or animal products.
+There are two major methods of inserting DNA into plants to have them produce disease treatment therapies. The first is by ballistic introduction of DNA into the plant: Metal particles are coated with the requisite DNA for transgenesis, then the plants are bombarded by these particles. The particles are halted mid-stream and the DNA is carried by its inertia into the plant cells, where it is incorporated by the plant cells and then replicated.
+The other method is by taking advantage of highly-effective pathways Nature herself has already perfected for incorporating genetic material into plants: By specific viral targeting. In this way, viruses are used which are natural pathogens of the target plant, and insert copies of the requisite genome into the plant either directly, or often by infecting an intermediary microbe which then uses its DNA-splicing expertise to insert the genetic material into the plant. This occurs naturally in countless situations, including the tobacco mosaic virus (which is commonly used for the DNA splicing), agrobacterium—which is well-known for transferring DNA between itself and plants (causing crown gall disease), and so forth.
+In fact, much of what we know about gene transfer and certain modes of viral function are due to studying the palette which Nature has provided us. Tobacco plants are commonly used for these research therapies because their biology is well-known, they’re well-characterized, and they grow quickly.
+Effects of tobacco virus
+Developing therapies from plants
+Since I’ve covered the ZMapp therapy and public perception to some degree, I’ll mention also how that therapy is refined for use: Three ‘humanized’ mouse antibodies are used (in the Ebola treatment specifically); Because mice are mammals, they can produce antibodies similar to what we humans produce. However, because it’s still a ‘non-human’ immune system producing them, there can be some rare adverse reactions to these, especially if used long-term for chronic therapy. In these cases, they ‘humanize’ the antibody by modifying the structure to even more closely match what we would make. This makes it more suitable for longer-term administration. These antibodies are targeted specifically to match only the target disease (in this case, the Ebola virus); they are so specific, that each antibody fits its target like a key to a specific lock. Antibody therapies such as this have had a tremendous track record of success treating very difficult diseases and those unresponsive to other therapies.
+So far, the only drug treatment generated by genetically-modified plants (as opposed to bacteria or mammalian cells) which has been approved for use by the FDA is Elelyso (using a novel vector with carrot cells), used to treat Gaucher’s disease – a rare disorder where lipids accumulate in cells and body organs, leading to failure and systemic disease.
+Despite the claims by extremists on the anti-GMO fringe, there is little difference in the technologies or principles between GM foods and GM drugs. Handled wisely, genetic engineering can yield powerful advances for society. It seems that the measure of agreeableness of a paradigm is related to how well it suits current or emergent needs. And we can always check ourselves to see where we fit on the opinion matrix.
+Ben Locwin, PhD, MBA is a contributor to the Genetic Literacy Project and is an author of a wide variety of scientific articles for books and magazines. He is also a researcher and consultant for a variety of industries including behavioral and psychological, food and nutrition, pharmaceutical, and academic. Follow him at @BenLocwin. 
+
+
+
+
+
+
+
+
+
+
+Brent BT
+
+
+
+Even activists are self-interested. The lack of consistency here either exposes their ignorance or their calculated decision to misrepresent the facts to promote their cause.
+
+
+
+
+
+
+Judy Nonarchi
+
+
+
+Good point, Brent.  It’s cherry-picking science.  Fully endorsing one development while putting fingers in ears, closing eyes, and going “la-la-la” to other almost-identical developments.  But then, consistency is the hobgoblin of small minds, right?  
+
+
+
+
+
+
+
+
+Mel_M
+
+
+
+Most people have no fear of going blind or dying from vitamin A deficiency and can–so to speak–”afford” to be against Golden Rice. On the other hand, even sitting comfortably far way on the West Coast of the U.S., I feel vulnerable to an Ebola break-out from Africa. This sort of thing might account for some people becoming believers in GMO therapy while still being against GMO foods.
+This is a very informative article. IMO, shutting down any type of GMO development may cost me health or length of life.
+
+
+
+
+
+
+Bob Peterson
+
+
+
+See Paul Slovic’s seminal article, Perception of Risk, from 1987 in the journal Science. You don’t have to look further than this for an explanation of why there are differences in public risk perceptions between “GMO drugs” and “GMO foods”.  Some of the more salient factors are control, benefit, equity, and voluntariness of exposure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Browse By 
+Authors
+Tags
+Sources
+
+or try our Advanced Search
+More from this AuthorBen Locwin
+
+
+                            Our GPS brain: What is the ‘doorway effect’ and how do we orient ourselves
+                        
+
+
+
+                            Single dose of anti-depressant alters brain? Maybe, but what does that mean?
+                        
+
+
+
+                            Who makes better space travelers--introverts or extroverts?
+                        
+
+
+
+                            Diet soda and sweeteners alter gut bacteria, contributing to obesity? Not so fast.
+                        
+
+
+
+                            How brushing your teeth affects the microbiome of the placenta and infant 
+                        
+
+
+
+                            How epigenetics, our gut microbiome and the environment interact to change our lives 
+                        
+
+
+
+                            Addiction: How our genes program our preferences and habits
+                        
+
+
+
+                            What should we make of “mystery” respiratory virus? Enterovirus not a mystery
+                        
+
+
+
+                            Deconstructing the polarizing debate over '3-parent babies'
+                        
+
+
+
+                            Food labels: Gimmicks or guides to the future of food?
+                        
+
+
+
+                            Tired? Biological clock out of whack? Blame genes and epigenetics
+                        
+
+
+
+                            Black Plague modified human genes, no biotech needed
+                        
+
+
+
+                            When is a ‘modified organism’ a GMO?
+                        
+
+
+
+                            What causes diabetes? Genes and viruses likely culprits
+                        
+
+
+
+                            Risks abound--to your child and society--in delaying vaccinating your child
+                        
+
+More from this SourceGenetic Literacy Project
+
+
+                            If not for the NIH, we might have an Ebola vaccine
+                        
+
+
+
+                            EPA approves Dow Enlist Duo herbicide, anti-GMO activists howl
+                        
+
+
+
+                            Enlist Duo: Everything you need to know about new dual herbicide resistant crops
+                        
+
+
+
+                            Is organic agriculture leading to an increase in antibiotic resistance?
+                        
+
+
+
+                            What genes tell us about history, race and ourselves: Christine Kenneally's new book has hits, misses
+                        
+
+
+
+                            Personal genomics and gene editing revolutions beg for global regulatory rethink
+                        
+
+
+
+                            In rejecting GMO shipments, is China more protective of health of its citizens than US?
+                        
+
+
+
+                            Media overhypes stem cell breakthrough for Type 1 diabetes
+                        
+
+
+
+                            Robyn O'Brien defends anti-GMO crusader Don Huber: Whistleblower or crank?
+                        
+
+
+
+                            Is 'Frankenbacteria' our best hope to defeat future bioterrorism?
+                        
+
+
+
+                            Infographic: How to avoid GMO corn? Turn back the clock 9000 years
+                        
+
+
+
+                            Can't start the day without a cup of Joe? Zest for coffee linked to genes
+                        
+
+
+
+                            Tall Genes: Thousands found responsible for height differences
+                        
+
+
+
+                            Norman Borlaug, father of the green revolution
+                        
+
+
+
+                            Can psychology explain strident opposition by some to GMOs?
+                        
+
+ 
+
+
+
+
+
+
+
+Related Articles:
+
+
+For farmers, GMOs may not be as valuable as perceived
+
+Can grapefruits be dangerous with drugs? The answer is in our genes
+
+Drugs from where?! Women’s genitals may be source of uniquely effective antibiotic
+
+Industry awaits FDA ruling on ‘generic’ versions of biologically derived drugs
+
+Anti-HIV drug grown in GM tobacco plants may herald cheap drugs for developing world
+
+Personal genomics: New drugs target common cancers
+
+Scientific American’s new Food Matters blog is all about the science of food, including GMOs
+
+Vast gene study raises hope for colon cancer drugs
+
+Technology and food security: International Food Policy Research Institute director weighs in
+
+Are Ebola drug researchers developing ‘death drugs’ that could wipe out humanity? Yes, by logic of anti-GMOers
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Please consider making a tax deductible donation to the GLP to support our independent reporting on biotechnology
+
+
+
+
+
+
+AboutHumanAgriculturePolicySpecial SectionsResourcesBrowse By
+
+
+
+Mission
+Our Team
+Advisory Board
+Contributors
+Donate
+Contact
+
+
+
+
+Ancestry & Evolution
+Epigenetics
+Personalized Medicine
+Stem Cells
+Synthetic Biology
+Transhumanism
+
+
+
+
+Animal Biotechnology
+ Crops & Foods 
+Green Genes & Sustainability
+
+
+
+
+Biotechnology
+Regulation & Bioethics 
+
+
+
+
+Biotech Gallery
+Gene-ius
+
+
+
+
+External Links
+GLP Newsletter Archive
+
+
+
+
+Authors
+Tags
+Sources
+Advanced Search
+
+
+
+
+
+ GLP on Facebook  GLP on Twitter   GLP RSS Feeds
+©2012 The Genetic Literacy Project. The GLP is affiliated with:   
+
+
+
+
+
+
+
+
+
+
+
+

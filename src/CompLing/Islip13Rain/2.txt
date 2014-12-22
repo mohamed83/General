@@ -1,0 +1,427 @@
+Historic Rainfall in Islip, NY «  CIMSS Satellite Blog 
+Historic Rainfall in Islip, NY «  CIMSS Satellite Blog
+
+
+
+
+
+
+
+
+
+
+University
+         of Wisconsin-Madison  
+Space
+         Science and Engineering Center
+CIMSS Satellite Blog
+
+
+ 
+
+
+/ CIMSS / CIMSS
+       Satellite Blog /
+
+
+Search for:
+
+
+
+ 
+
+
+
+
+
+
+Historic Rainfall in Islip, NY
+August 13th, 2014 
+
+GOES-13 10.7 µm infrared imagery on 13 August 2014; The Islip airport (KISP) is at the violet square (click to animate)
+The system that caused flooding in Detroit, MI on 11 August and in Baltimore/Washington on 12 August has moved eastward: Islip, NY, on central Long Island, had historically heavy rainfall early in the morning on 13 August as more than 13″ of rain fell (9.71″ in two hours, and 5.34″ in one hour!!), smashing the New York state record for 24-hour rainfall (Record Event Report).
+The GOES-13 animation above shows the satellite presentation of the storms that produced the heavy rainfall (the heaviest rain fell between 0900 and 1100 UTC). It is immediately apparent that the deepest convective clouds were not responsible for the heavy rains: cloud-top IR brightness temperatures over Islip were only near -30º C (per the 1200 UTC OKX sounding, that was around 300 hPa; the tropopause was closer to 150 hPa) and cloud-to-ground lightning was not detected. Winds at the Islip airport shifted from easterly/northeasterly to southeasterly as the heavy rains ended (time series plot of surface weather): an approaching frontal boundary may have helped force the heavy rains.
+The animation shows continual cold cloud redevelopment at/near Islip, suggesting that training shower development was an important factor in the flooding.
+Although the region was generally cloudy, holes in the cloud cover revealed GOES-13 sounder Total Precipitable Water values (below; click image to play animation) of 45-50 mm or 1.8-2.0 inches over Long Island just ahead of the advancing frontal boundary. The Blended Total Precipitable Water product showed a sudden jump to over 50 mm or 2.0 inches around 10 UTC over Long Island, and these TPW values were around 150% of normal for that location and time of the year.
+GOES-13 sounder Total Precipitable Water derived product images (click to play animation)
+The MIMIC Total Precipitable Water product (below) showed a northward surge of tropical moisture into the region on 13 August.
+MIMIC Total Precipitable Water (11-13 August)
+
+ Posted in GOES sounder, GOES-13, Heavy rain / flooding |   No Comments »
+
+
+
+
+Leave a Reply
+
+Click here to cancel reply.
+
+
+
+Name (required)
+
+Mail (will not be published) (required)
+
+Website
+
+
+
+
+
+
+ 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Webmaster 
+
+
+
+Follow us on
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+Pages 
+About this site
+CIMSS “Satellite Proving Ground”
+Contact us
+Mobile users
+POES/AVHRR in AWIPS
+SatePedia
+Suomi NPP / JPSS Proving Ground
+VISIT / SHyMet Training Topics
+
+
+August 2014
+
+
+M
+T
+W
+T
+F
+S
+S
+
+
+
+
+« Jul
+ 
+ 
+
+
+
+
+ 123
+
+
+45678910
+
+
+11121314151617
+
+
+18192021222324
+
+
+25262728293031
+
+
+Categories 
+Air quality
+
+Antarctic
+
+Arctic
+
+AVHRR
+
+Aviation
+
+AWIPS II
+
+Calibration/Anomalies
+
+Cloud-Top Cooling
+
+COMS
+
+Convective Initiation
+
+DMSP
+
+Fire detection
+
+Fog detection
+
+General interpretation
+
+GOES sounder
+
+GOES-10
+
+GOES-11
+
+GOES-12
+
+GOES-13
+
+GOES-14
+
+GOES-15
+
+GOES-7
+
+GOES-8
+
+GOES-R
+
+Google Earth
+
+Heavy rain / flooding
+
+Historical
+
+Hydrology
+
+Landsat
+
+Lightning
+
+Marine weather
+
+McIDAS-V
+
+Meteosat
+
+Metop
+
+MODIS
+
+MTSAT
+
+Other Satellites
+
+POES
+
+ProbSevere
+
+ProbSevere
+
+RealEarth Web Map Server
+
+Red/Green/Blue (RGB) images
+
+Satellite winds
+
+Severe convection
+
+Suomi NPP
+
+Synthetic satellite imagery
+
+Training
+
+Tropical cyclones
+
+VIIRS
+
+Volcanic activity
+
+What the heck is this?
+
+Winter weather
+
+
+Other blogs of interest
+
+AccuWeather Blogs
+Arctic Sea Ice Blog
+CIMSS GOES Gallery
+CIMSS TPARC Support
+CIRA GOES-R Proving Ground Blog
+EUMETSAT Image Gallery
+Geographic Information Network of Alaska
+GOES-R and JPSS Satellite Liaison Blog
+GOES-R Fog Product Examples
+GOES-R Hazardous Weather Testbed
+Inside the Eye (NHC)
+METSUL blog
+NOAA/NESDIS Operational Significant Event Imagery
+NSSTC Collaborative Weather Blog
+OMPS Blog
+PREDICT Field Experiment Blog
+PyroCB
+The GOES-R Proving Ground at the Aviation Weather Testbed
+The Wide World of SPoRT
+UMBC “U.S. Air Quality” (The Smog Blog)
+US Severe Weather Blog
+VIIRS Imagery and Visualization Team Blog
+VISIT Meteorological Interpretation
+Weather Channel Blogs
+Weather Underground Blogs
+WGN Weather Center Blog
+
+
+Satellite imagery sources
+
+CIMSS GOES Derived Product Imagery
+CIMSS Tropical Cyclones
+Environmental Remote Sensing Center, SSEC
+GINA (University of Alaska Fairbanks)
+IDEA-I Aerosols
+IDEA-I Ozone
+NWS WFO-scale satellite images (eastern US)
+NWS WFO-scale satellite images (western US)
+SOSE Global Satellite Imagery
+SSEC AMRC Antarctic composite image animations
+SSEC AMRC Arctic composite image animation
+SSEC composite GOES-West/GOES-East IR animation
+SSEC Geostationary Satellite Images
+SSEC Global IR Mosaic Images
+SSEC MODIS Direct Broadcast
+SSEC MODIS Today
+UW-Madison AOS Satellite Images
+
+
+Archives 
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+October 2005
+
+Meta 
+Log in
+Entries RSS
+Comments RSS
+WordPress.org 
+ 
+
+
+
+
+
+
+

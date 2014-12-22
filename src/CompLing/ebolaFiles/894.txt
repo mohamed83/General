@@ -1,0 +1,327 @@
+Rhiza Labs FluTracker Forum • View topic - CDC's First Full Liberian Ebola Sequence - Kent BrantlyRhiza Labs FluTracker Forum • View topic - CDC's First Full Liberian Ebola Sequence - Kent Brantly
+
+
+
+
+
+
+Rhiza Labs FluTracker ForumThe place to discuss the flu
+
+
+
+
+
+
+
+ Login    Register
+
+
+ FAQ
+				    Search
+
+
+
+
+
+
+
+
+It is currently Wed Oct 15, 2014 3:56 pm
+
+
+
+
+
+
+View unanswered posts | View active topics
+
+
+
+
+
+Board index » Discussion » General Discussion
+All times are UTC - 5 hours [ DST ]
+
+
+
+
+
+CDC's First Full Liberian Ebola Sequence - Kent Brantly
+
+
+
+
+
+
+ 
+
+ Page 1 of 1
+ [ 3 posts ] 
+
+
+
+
+
+
+
+
+ 
+				Print view
+
+Previous topic | Next topic 
+
+
+
+
+
+
+
+Author
+Message
+
+
+
+
+niman
+
+
+
+
+ Post subject: CDC's First Full Liberian Ebola Sequence - Kent BrantlyPosted: Thu Sep 04, 2014 11:25 am 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+CDC has generated a full sequences for Liberia (from Kent Brantly), which is 99% identical to sequences from Guinea and Sierra Leone.http://www.cdc.gov/amd/stories/ebola.ht ... atsnew_001
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+
+
+niman
+
+
+
+
+ Post subject: Re: CDC Generates First Full Liberian Ebola SequencePosted: Thu Sep 04, 2014 11:26 am 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+CDC laboratories produce first genomic sequence of Liberian Ebola   ShareShare Based on current evidence, scientists believe the Ebola virus, seen here in a colorized transmission electron micrograph, originates in animals (zoonotic).With the largest Ebola outbreak in history raging through West Africa, understanding whether the virus is changing as it spreads through different populations can help responders know what treatments to use and also help research laboratories develop new tools to speed diagnosis in the field.CDC scientists had access to genetic sequences from Guinea and Sierra Leone that had been published by other scientists. But the return to the United States of two American patients with Ebola infection underscored that no genetic sequences existed of the Liberian virus. The first patient was admitted to an Atlanta area hospital on August 3; CDC received samples on August 6. Scientists immediately applied diagnostic tests and also began the process of sequencing the genetic material in the samples.Less than 72 hours after the first samples arrived, scientists had not only initial test results confirming that the patients were, indeed, infected with Ebola, but also the first detailed genetic sequencing of the Liberian virus. The genetic sequence information confirmed the Liberian viral samples were 99% identical to the virus circulating in Guinea and Sierra Leone. As important, CDC could see that the virus in the 2014 epidemic is 97% similar to the virus that first emerged in 1976.Advanced molecular detection methods (AMD), like next generation sequencing, can show exactly where mutations are occurring in a pathogen. But in an outbreak, it is equally important to know if no mutations are occurring. This information helps doctors in the field have confidence in the treatments and interventions they’re using.“Our aim is to design better tools to diagnose this illness. As a virus mutates, it can change in such a way that existing tests no longer pick it up. Thankfully, these data seem to indicate the virus is not changing in this outbreak,” said one of the CDC laboratory scientists.With further analysis of additional samples from the American patients, CDC scientists will look to see if any other factors—such as other simultaneous infections—contributed to the severity of the illness. “We couldn’t do that before AMD technology,” scientists said.Transforming disease detection: CDC uses next-generation sequencing to identify hemorrhagic fever viruses (including Ebola) in bat populations in Africa and Asia
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+
+
+niman
+
+
+
+
+ Post subject: Re: CDC's First Full Liberian Ebola Sequence - Kent BrantlyPosted: Sat Sep 06, 2014 12:09 pm 
+
+
+
+
+
+
+
+
+
+
+
+
+Joined: Wed Aug 19, 2009 10:42 amPosts: 45989Location: Pittsburgh, PA USA
+				
+
+
+
+
+
+Select seq gb|KM233118.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-NM042.3, partial genome	3749	3749	100%	0.0	100%	KM233118.1Select seq gb|KM233117.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-NM042.2, partial genome	3749	3749	100%	0.0	100%	KM233117.1Select seq gb|KM233116.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-NM042.1, partial genome	3749	3749	100%	0.0	100%	KM233116.1Select seq gb|KM233115.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3857, partial genome	3749	3749	100%	0.0	100%	KM233115.1Select seq gb|KM233114.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3856.3, partial genome	3749	3749	100%	0.0	100%	KM233114.1Select seq gb|KM233113.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3856.1, partial genome	3749	3749	100%	0.0	100%	KM233113.1Select seq gb|KM233112.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3851, partial genome	3749	3749	100%	0.0	100%	KM233112.1Select seq gb|KM233111.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3850, partial genome	3749	3749	100%	0.0	100%	KM233111.1Select seq gb|KM233110.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3848, partial genome	3749	3749	100%	0.0	100%	KM233110.1Select seq gb|KM233109.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3846, partial genome	3749	3749	100%	0.0	100%	KM233109.1Select seq gb|KM233107.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3841, partial genome	3749	3749	100%	0.0	100%	KM233107.1Select seq gb|KM233106.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3840, partial genome	3749	3749	100%	0.0	100%	KM233106.1Select seq gb|KM233105.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3838, partial genome	3749	3749	100%	0.0	100%	KM233105.1Select seq gb|KM233104.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3834, partial genome	3749	3749	100%	0.0	100%	KM233104.1Select seq gb|KM233103.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3831, partial genome	3749	3749	100%	0.0	100%	KM233103.1Select seq gb|KM233102.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3829, partial genome	3749	3749	100%	0.0	100%	KM233102.1Select seq gb|KM233101.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3827, partial genome	3749	3749	100%	0.0	100%	KM233101.1Select seq gb|KM233100.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3826, partial genome	3749	3749	100%	0.0	100%	KM233100.1Select seq gb|KM233099.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3825.2, partial genome	3749	3749	100%	0.0	100%	KM233099.1Select seq gb|KM233098.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3825.1, partial genome	3749	3749	100%	0.0	100%	KM233098.1Select seq gb|KM233097.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3823, partial genome	3749	3749	100%	0.0	100%	KM233097.1Select seq gb|KM233096.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3822, partial genome	3749	3749	100%	0.0	100%	KM233096.1Select seq gb|KM233095.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3821, partial genome	3749	3749	100%	0.0	100%	KM233095.1Select seq gb|KM233093.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3819, partial genome	3749	3749	100%	0.0	100%	KM233093.1Select seq gb|KM233092.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3818, partial genome	3749	3749	100%	0.0	100%	KM233092.1Select seq gb|KM233091.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3817, partial genome	3749	3749	100%	0.0	100%	KM233091.1Select seq gb|KM233090.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3816, partial genome	3749	3749	100%	0.0	100%	KM233090.1Select seq gb|KM233089.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3814, partial genome	3749	3749	100%	0.0	100%	KM233089.1Select seq gb|KM233088.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3810.2, partial genome	3749	3749	100%	0.0	100%	KM233088.1Select seq gb|KM233087.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3810.1, partial genome	3749	3749	100%	0.0	100%	KM233087.1Select seq gb|KM233086.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3809, partial genome	3749	3749	100%	0.0	100%	KM233086.1Select seq gb|KM233085.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3808, partial genome	3749	3749	100%	0.0	100%	KM233085.1Select seq gb|KM233084.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3807, partial genome	3749	3749	100%	0.0	100%	KM233084.1Select seq gb|KM233083.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3805.2, partial genome	3749	3749	100%	0.0	100%	KM233083.1Select seq gb|KM233082.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3805.1, partial genome	3749	3749	100%	0.0	100%	KM233082.1Select seq gb|KM233081.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3800, partial genome	3749	3749	100%	0.0	100%	KM233081.1Select seq gb|KM233080.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3799, partial genome	3749	3749	100%	0.0	100%	KM233080.1Select seq gb|KM233079.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3798, partial genome	3749	3749	100%	0.0	100%	KM233079.1Select seq gb|KM233077.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3795, partial genome	3749	3749	100%	0.0	100%	KM233077.1Select seq gb|KM233076.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3789.1, partial genome	3749	3749	100%	0.0	100%	KM233076.1Select seq gb|KM233075.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3788, partial genome	3749	3749	100%	0.0	100%	KM233075.1Select seq gb|KM233074.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3787, partial genome	3749	3749	100%	0.0	100%	KM233074.1Select seq gb|KM233073.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3786, partial genome	3749	3749	100%	0.0	100%	KM233073.1Select seq gb|KM233072.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3782, partial genome	3749	3749	100%	0.0	100%	KM233072.1Select seq gb|KM233071.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3771, partial genome	3749	3749	100%	0.0	100%	KM233071.1Select seq gb|KM233070.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3770.2, partial genome	3749	3749	100%	0.0	100%	KM233070.1Select seq gb|KM233069.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3770.1, partial genome	3749	3749	100%	0.0	100%	KM233069.1Select seq gb|KM233067.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3769.3, partial genome	3749	3749	100%	0.0	100%	KM233067.1Select seq gb|KM233066.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3769.2, partial genome	3749	3749	100%	0.0	100%	KM233066.1Select seq gb|KM233065.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3769.1, partial genome	3749	3749	100%	0.0	100%	KM233065.1Select seq gb|KM233064.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3765.2, partial genome	3749	3749	100%	0.0	100%	KM233064.1Select seq gb|KM233063.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3764, partial genome	3749	3749	100%	0.0	100%	KM233063.1Select seq gb|KM233062.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3758, partial genome	3749	3749	100%	0.0	100%	KM233062.1Select seq gb|KM233061.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3752, partial genome	3749	3749	100%	0.0	100%	KM233061.1Select seq gb|KM233060.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3750.3, partial genome	3749	3749	100%	0.0	100%	KM233060.1Select seq gb|KM233059.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3750.2, partial genome	3749	3749	100%	0.0	100%	KM233059.1Select seq gb|KM233058.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3750.1, partial genome	3749	3749	100%	0.0	100%	KM233058.1Select seq gb|KM233057.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3735.2, partial genome	3749	3749	100%	0.0	100%	KM233057.1Select seq gb|KM233056.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3735.1, partial genome	3749	3749	100%	0.0	100%	KM233056.1Select seq gb|KM233055.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3734.1, partial genome	3749	3749	100%	0.0	100%	KM233055.1Select seq gb|KM233054.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3729, partial genome	3749	3749	100%	0.0	100%	KM233054.1Select seq gb|KM233053.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3724, partial genome	3749	3749	100%	0.0	100%	KM233053.1Select seq gb|KM233052.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3713.4, partial genome	3749	3749	100%	0.0	100%	KM233052.1Select seq gb|KM233051.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3713.3, partial genome	3749	3749	100%	0.0	100%	KM233051.1Select seq gb|KM233050.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3713.2, partial genome	3749	3749	100%	0.0	100%	KM233050.1Select seq gb|KM233049.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3707, partial genome	3749	3749	100%	0.0	100%	KM233049.1Select seq gb|KM233048.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM124.4, partial genome	3749	3749	100%	0.0	100%	KM233048.1Select seq gb|KM233047.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM124.3, partial genome	3749	3749	100%	0.0	100%	KM233047.1Select seq gb|KM233046.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM124.2, partial genome	3749	3749	100%	0.0	100%	KM233046.1Select seq gb|KM233045.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM124.1, partial genome	3749	3749	100%	0.0	100%	KM233045.1Select seq gb|KM233044.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM121, partial genome	3749	3749	100%	0.0	100%	KM233044.1Select seq gb|KM233043.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM120, partial genome	3749	3749	100%	0.0	100%	KM233043.1Select seq gb|KM233042.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM119, partial genome	3749	3749	100%	0.0	100%	KM233042.1Select seq gb|KM233041.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM115, partial genome	3749	3749	100%	0.0	100%	KM233041.1Select seq gb|KM233040.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM113, partial genome	3749	3749	100%	0.0	100%	KM233040.1Select seq gb|KM233039.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM112, partial genome	3749	3749	100%	0.0	100%	KM233039.1Select seq gb|KM233038.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM111, partial genome	3749	3749	100%	0.0	100%	KM233038.1Select seq gb|KM233037.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM110, partial genome	3749	3749	100%	0.0	100%	KM233037.1Select seq gb|KM233036.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM106, partial genome	3749	3749	100%	0.0	100%	KM233036.1Select seq gb|KM233035.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM104, partial genome	3749	3749	100%	0.0	100%	KM233035.1Select seq gb|KM034562.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3686.1, partial genome	3749	3749	100%	0.0	100%	KM034562.1Select seq gb|KM034561.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3683.1, partial genome	3749	3749	100%	0.0	100%	KM034561.1Select seq gb|KM034560.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3682.1, partial genome	3749	3749	100%	0.0	100%	KM034560.1Select seq gb|KM034559.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3680.1, partial genome	3749	3749	100%	0.0	100%	KM034559.1Select seq gb|KM034558.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3679.1, partial genome	3749	3749	100%	0.0	100%	KM034558.1Select seq gb|KM034557.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3677.2, partial genome	3749	3749	100%	0.0	100%	KM034557.1Select seq gb|KM034556.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3677.1, partial genome	3749	3749	100%	0.0	100%	KM034556.1Select seq gb|KM034555.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3676.2, partial genome	3749	3749	100%	0.0	100%	KM034555.1Select seq gb|KM034554.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3676.1, partial genome	3749	3749	100%	0.0	100%	KM034554.1Select seq gb|KM034553.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-G3670.1, partial genome	3749	3749	100%	0.0	100%	KM034553.1Select seq gb|KM034552.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM098, partial genome	3749	3749	100%	0.0	100%	KM034552.1Select seq gb|KM034551.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM096, partial genome	3749	3749	100%	0.0	100%	KM034551.1Select seq gb|KM034550.1|	Zaire ebolavirus isolate Ebola virus H.sapiens-wt/SLE/2014/ManoRiver-EM095, partial genome	3749	3749	100%	0.0	100%	KM034550.1Select seq gb|KM034549.1|	Zaire ebolavirus isolate H.sapiens-wt/SLE/2014/ManoRiver-EM095B, partial genome	3749	3749	100%	0.0	100%	KM034549.1Select seq gb|KJ660347.2|	Zaire ebolavirus isolate H.sapiens-wt/GIN/2014/Gueckedou-C07, complete genome	3744	3744	100%	0.0	99%	KJ660347.2Select seq gb|KJ660346.2|	Zaire ebolavirus isolate H.sapiens-wt/GIN/2014/Kissidougou-C15, complete genome	3744	3744	100%	0.0	99%	KJ660346.2Select seq gb|KJ660348.2|	Zaire ebolavirus isolate H.sapiens-wt/GIN/2014/Gueckedou-C05, complete genome	3738	3738	100%	0.0	99%	KJ660348.2Select seq gb|KC242801.1|	Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/1976/deRoover, complete genome	3428	3428	100%	0.0	97%	KC242801.1Select seq gb|KC242791.1|	Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/1977/Bonduni, complete genome	3428	3428	100%	0.0	97%	KC242791.1Select seq gb|KC242790.1|	Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/2007/5 Luebo, complete genome	3428	3428	100%	0.0	97%	KC242790.1
+_________________www.twitter.com/hniman
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+     
+
+
+
+
+
+
+
+Display posts from previous: All posts1 day7 days2 weeks1 month3 months6 months1 year Sort by AuthorPost timeSubject AscendingDescending 
+
+
+
+
+
+ 
+
+ Page 1 of 1
+ [ 3 posts ] 
+
+
+
+
+
+
+
+
+
+Board index » Discussion » General Discussion
+All times are UTC - 5 hours [ DST ]
+
+
+
+
+
+
+Who is online
+
+
+Users browsing this forum: alforddm, Exabot [Bot], franzpick, gjs0708, morning, niman, rml, tinker2, Yahoo [Bot] and 850 guests
+
+
+
+
+
+
+You cannot post new topics in this forumYou cannot reply to topics in this forumYou cannot edit your posts in this forumYou cannot delete your posts in this forumYou cannot post attachments in this forum
+
+
+
+
+
+Search for:  
+
+
+
+
+
+
+
+Jump to: 
+Select a forum
+------------------
+H1N1 Reports
+   School-Specific Reports
+   Africa
+   Asia
+   Australia, New Zealand & Oceania
+   Europe
+   North America
+   South America
+Discussion
+   General Discussion
+   News Stories
+   Influenza Genetics Discussion
+   Vaccine News/Discussion
+   Preparation
+   News Commentaries from Dr. Niman
+   Conspiracy Theories
+   Natural / Alternative Medicine
+FluTracker Forum Support
+   FluTracker Announcements
+   FluTracker Feedback
+Links
+   FluTracker Map
+   FluTracker Comment Archives
+   FluTracker Store
+   FluTracker Chat Room
+   Recombinomics - Dr. Niman's Company
+ 
+
+
+
+
+
+
+
+
+Powered by phpBB® Forum Software © phpBB Group
+	
+

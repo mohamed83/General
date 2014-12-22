@@ -1,0 +1,79 @@
+Columbia Prediction of Infectious Diseases - EbolaColumbia Prediction of Infectious Diseases - Ebola
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+Ebola
+Influenza
+Publications
+Archive
+Support
+
+
+
+
+
+
+		The magnitude and pace of the current Ebola outbreak is unprecedented and requires tools to assess the future scope of the epidemic, as well as the efficacy of intervention tools and strategies.  Unfortunately, our understanding of Ebola transmission dynamics is incomplete and data on the present outbreak are limited.  Consequently, we present our forecasts as estimates, and cannot provide well-constrained certainties or likelihoods to any of the predicted outcomes.
+		
+
+Data: Ebola data for Guinea, Liberia, and Sierra Leone were compiled from World Health Organization’s Disease Outbreak News and Situation Reports.  Total cases and deaths were used to train these model forecasts.  The data include confirmed, probable, and suspected cases and may therefore decrease between measurements should some of the unconfirmed cases (i.e. the probable and suspected cases) be excluded after testing. Additionally, delays in reporting may lead to temporal imprecision of both incidence and mortality data and an underestimation of outbreak growth.
+		
+
+Methods: The model used to generate these forecasts contains a stochastic component that allows the force of transmission to vary through time.  This variability is intended to emulate the spatial-temporal variability of Ebola transmission dynamics within country due to changes in intervention, containment and social practices.  Three scenarios are forecast using the optimized model: 
+		
+
+				an improved scenario, in which intervention and containment, as estimated during the assimilation process, are more effective in the future;
+			
+
+				a no change scenario, in which intervention and containment, as estimated during the assimilation process, continues with the same efficacy;		
+			
+
+				a degraded scenario, in which intervention and containment, though not absent, are less effective in the future.
+			
+
+
+		Mean estimates of cumulative cases of Infections (upper-pane) and Mortality (lower-pane) are shown below. The shaded region around the forecasts shows the interquartile range. A forecast horizon of 6 weeks is displayed. Hover on a data point to look at values. Use the Fit Cutoff slider at the top right to base estimates on a different observation cutoff date and Country selection box to see estimates for a different  country. Use the Intervention selection box to see the forecasts under different scenarios.
+	
+
+
+Update 10/15/2014: In Guinea, the more recent improved scenario forecasts better match observations.  This represents a continued slowing of growth compared with prior weeks and perhaps intervention efficacy over the last month or two. The latest Guinea no change forecasts (data through 10/05/2014) predicts less aggressive growth than the prior week's no change forecast, for which a jump in cases had been reported.  In Liberia, observations continue to fall between the no change and improved scenario forecasts, but are closer to past improved scenario predictions.  The newest predictions suggest a further slowing of outbreak growth.  In Sierra Leone, the no change scenario forecasts continue to best match observed outcomes. 	
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last updated on October 15, 2014 using data reported through October 12, 2014 (Liberia: October 11).
+
+ 
+
+
+
+

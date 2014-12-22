@@ -1,0 +1,481 @@
+Ebola: What Went Wrong | Norman Paterson School of International AffairsEbola: What Went Wrong | Norman Paterson School of International Affairs
+
+
+
+
+
+Norman Paterson School of International Affairs
+For over 40 years, The Norman Paterson School of International Affairs (NPSIA) has been training Canada’s best and brightest graduate students in international affairs. Here, you will find posts by our professors and students on the issues of the day and assessments of the future in International Affairs.
+
+
+Main menu
+Skip to content
+About
+NPSIA Events
+Faculty Posts
+PhD Candidate Posts
+Contributors
+Guest Posts
+ 
+
+
+
+
+
+
+Search
+GO
+
+
+
+
+
+Twitter
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+September 8, 2014 
+Ebola: What Went Wrong
+
+
+Leave a comment
+
+
+By Valerie Percival 
+The world’s complacency has turned to panic.
+Ebola. The very word conjures up fear. No vaccine. No cure. Only about a third to half of those infected survive. The rest endure an excruciatingly painful death as the virus attacks and impairs cell structure and function, causing internal bleeding.
+It used to be a disease that struck remote towns, deep in the African rainforest. Deadly, tragic, but contained, and far away.
+Yet Ebola is not so far away anymore. The outbreak has gathered momentum, spreading across Guinea, Sierra Leone and Liberia, travelling from rural to urban areas. Like a Hydra, it is popping up throughout the region – with cases in Lagos, Nigeria and Dakar, Senegal. And coincidentally, a separate outbreak has hit the Democratic Republic of Congo (DRC) – where the virus was first identified in 1976.
+It’s the largest Ebola outbreak on record. As of Aug. 31, it infected over 3,600 and killed more than 1,800 people across Guinea, Sierra Leone, and Liberia. (The World Health Organization said this week that the number of related deaths has surpassed 1,900.) Public health authorities caution that the epidemic is underestimated – with many cases unreported due to stigma, fear, inability to access health care services, or because those infected reside in remote rural areas. Experts predict that it could go on for months, infecting tens of thousands of people.
+
+The U.S. Centers for Disease Control and Prevention (CDC) warn the outbreak is spinning out of control and could threaten regional security. Médecins sans Frontières (MSF) – normally reticent to collaborate with the military – has called for support from experts in biohazard containment. The WHO has declared Ebola a “public health emergency of international concern.” Affected governments have implemented draconian quarantines. Nervous African states have closed borders and imposed travel bans.
+The “Ebola can be contained” confidence of public health officials in May and June, has given way to the ‘God help us all’ alarm of commentators on television stations across the globe. They warn that it is just a plane ride away from ravaging densely populous cities like Nairobi and Johannesburg, though the virus has not yet been detected there. The implication is that we are all vulnerable.
+Amid the hyperbole, there is little time for reflection. Is such panic warranted given what we know about the current outbreak? Moreover, what has gone wrong? What can Ebola in West Africa teach us about our current response to infectious disease outbreaks globally?
+‘Patient Zero’
+Ebola is a zoonotic disease, infecting both humans and animals. Scientists suspect that fruit bats are asymptomatic carriers or reservoirs for Ebola, while other animals, such as monkeys, also host the disease, but become ill. The virus is transmitted through bodily fluids – people become infected when they come into direct contact with secretions or excretions from animals or other people infected with Ebola. It’s deadly, but previous outbreaks have been eradicated with public health interventions.
+The virus causing chaos in West Africa is a slightly mutated form of Zaire Ebolavirus (EBOV), the most virulent form of Ebola. The outbreak’s Patient Zero is suspected to have been a two-year old child, living in the Guéckédou region of Guinea, who died on Dec. 6, 2013. He infected his sister, mother, and grandmother.
+And so it began.
+A highway facilitates travel between the major population centres in the Forestière region of Guinea – Kissidougou, Guéckédou, Macenta and Nzérékoré. Ebola slowly spread by human-to-human transmission to each of these towns. Although some became sick and died at home, each town has a hospital, and all four hospitals treated cases of Ebola from January to February in early 2014.
+Ebola is new to the region, although Lassa Fever – another hemorrhagic fever – is endemic. Yet local health authorities did not alert the Guinean Ministry of Health of the existence of any outbreak until March 10. Epidemiological investigations began on March 14 (national) and March 18 (international, with MSF).
+This delayed notification was disastrous. Multiple chains of transmission were initiated before public health measures could be put into place. And the measures that were implemented were ultimately too little and too late.
+Challenges facing first responders
+MSF mobilized the initial outbreak response, establishing treatment centres in the hardest hit areas. They have been praised for their efforts to provide medical care under difficult circumstances. Yet MSF lacks the capacity, experience and mandate to lead full public health efforts – to mobilize and train first responders, particularly those from the country or region, liaise with governments, and coordinate and oversee the work of others.
+The WHO appears like the logical choice to fill this role. It initially provided support to national governments, national labs, and organizations like MSF.
+Yet months after the start of the outbreak, health personnel throughout the region were short of personal protective equipment – gloves, gowns, masks, protective footwear – which would allow them to more safely treat infected patients. When Ebola struck Lagos on July 20, the city’s health commission was out of thermometers.
+The WHO has been roundly criticized for not reacting to the beginning of outbreak with sufficient seriousness, and not mobilizing a regional public health effort. In its defense, WHO cites deep budget cuts that have undermined its capacity to respond to outbreaks. It recently scaled up its efforts, mobilizing international resources and expertise, deploying additional personnel to the region, and launching a new ‘roadmap’ to contain Ebola.
+The WHO has also pointed to the contextual challenges of the region: this is one of the poorest areas in the world. Capacity is very low. The level of education is minimal – reflected in low literacy levels and completion rates for primary school. Health systems are weak, undermined by a combination of war, poverty and poor governance.
+But many places in the world are poor. Most have weak health systems. Ebola outbreaks have been successfully eradicated in Uganda, Gabon and the Democratic Republic of Congo (with similar delays in notification). What makes this outbreak so different?
+The Forestière Region: good for ebola, bad for public health
+I worked for UNHCR in Guinée Forestière, travelling extensively along the borders with Liberia and Sierra Leone. I got to know this beautiful place quite well.
+It is the perfect incubator for Ebola.
+People have always lived in close proximity to Ebola’s animal reservoirs and hosts. Bush meat is a dietary stable, a necessary source of protein. If the Ebola virus was circulating, it was only matter of time before it made the jump from animal host to infect humans.
+Borders are porous. Although the area is remote, it is populated. Cultural and family links, employment, and trips to buy and sell in markets mean that people travel quite extensively throughout the region. Polygamy is also widespread, with large family units living together and often sleeping the same room. When people get sick, they are cared for by family members in their home, they die in their home, and their funerals are held in their home.
+Malaria is endemic – and people often work despite feeling ill. The early stages of Ebola resemble the onset of malaria – which means that infected people would likely travel, work, and have contact with multiple people while contagious.
+These daily patterns of life provide multiple opportunities for the transmission and spread of the Ebola virus. Moreover, treatment-seeking behaviour is undermined by deeply rooted traditions of animism and mysticism.
+My Guinean colleagues strongly believed that spirits and witchcraft could cause disease. In the context of weak and dysfunctional health services, many relied on traditional medicine when illness struck their families. This tradition has likely continued.
+The local witchdoctor is a powerful figure within the community – seen as having privileged knowledge and special powers that enable him or her to counter, as well as inflict, illness and death. Outsiders do not know or understand many local traditions surrounding sickness and death – they are closely guarded secrets. These customs may support the spread of Ebola, and fuel stigma surrounding the disease.
+Treatment protocols for Ebola are harsh – necessary to prevent the spread of the disease, but challenging to explain to those who do not understand how viruses spread. Human touch is forbidden. Patients interact with health care personnel draped in protective gear. Parents are unable to hold and provide comfort to their sick children.
+The population’s attitudes towards and experience of the outside world could also undermine an effective public health response. On our long drives, my Guinean colleagues would proudly and continually re-play the recording of Sékou Touré’s fiery denunciation of the Portuguese invasion of 1970 (which was a short, strategic strike to find the leader of the Cape Verde independence movement). Animosity towards the former French colonizer was consistently conveyed. The brutal wars in Liberia and Sierra Leone raged for years with little effective outside intervention, with the exception of the British Operation Palliser in Freetown in 2000. Distrust of foreigners, and their intentions, runs deep.
+In this context, it is not surprising that individuals deny the dangers of bush meat, are fearful and reluctant to notify health authorities that anyone is sick, and turn to traditional healers for assistance.
+What can the recent outbreak teach us? 
+The world was clearly ill-prepared for an outbreak in a context like the Forestière region. The WHO and other public health experts did not treat the epidemic with sufficient seriousness. They lacked awareness of how local livelihood patterns and customs would fuel its spread. And they did not quickly mobilize resources and equipment.
+Fears of global pandemics have circulated since the SARS outbreak in 2003. The public health community has received millions of dollars for pandemic preparedness efforts to confront the possibility of a bird flu outbreak. The H1N1 Swine Flu epidemic of 2009 supposedly tested and proved the effectiveness of these systems.
+So what happened?
+I am currently examining communications practices in both pandemic and humanitarian responses. The results are telling. The pandemic community’s approach to outbreaks reflects its medical origins, with a tendency to be hierarchical, inflexible, and reluctant to innovate and adapt to differing contexts and circumstances. Responses tend to be top-down, waiting for government approval, and overly reliant on the transfer of information from the ‘authorities’ to the front line workers.
+This stands in stark contrast to the response to humanitarian emergencies. The humanitarian community has become a fine tuned operation, one that is less hierarchical, and more fully embraces the role of multiple actors, including community leaders and national governments, in its response.   As a reflection of this ethos, they have embraced the use of information technology, mobilizing techniques such as crowd-sourced data and online platforms. And they are prepared: roles and responsibilities have been clearly defined, supplies prepositioned, and volunteer rosters filled, ready for the next emergency.
+In fairness, humanitarian organizations developed coordination mechanisms and created guidelines for evidence-based interventions after decades of problematic responses to wars and natural disasters. Even now, the humanitarian engine runs imperfectly – money, access, and the coordination of hundreds of well-meaning organizations remains problematic.
+Yet it is little wonder that MSF, a ‘first responder’ in humanitarian emergencies, mobilized quickly and efficiently.   The pandemic community has some catching up to do.
+So, should we panic?
+Are we all at risk of dying from Ebola?
+If you live in the affected region, there is reason for concern.
+For the rest of the world, there remains the small possibility of isolated outbreaks in developed countries, fueled by infected people slipping by public health screening efforts. All governments should ensure that their health systems are prepared to detect and respond to Ebola cases.
+But the virus is not as easily transmissible as SARS or influenza. In the event of Ebola cases popping up in developed countries, past experience proves that public health measures are effective in eradicating outbreaks. We have little to fear.
+Yet we should be concerned about two things.
+First, the social and economic well being of West Africa has been deeply affected. This a poor and neglected region of the world. The outbreak has killed many health workers. Women have been infected and died at higher rates than men. Food security has been undermined. The economy has been routed. Recovery will require long-term support and engagement.
+And second, we should be very concerned about the level of preparedness for outbreaks that begin in poor regions of the world. The public health community needs to improve its response. They need not reinvent the wheel – lessons can be applied from the long history of humanitarian engagement. Given that the next disease could be more easily spread than Ebola, let’s hope that members of the public health community are fast learners.
+This article is published in partnership with the Canadian International Council and its international-affairs hub  OpenCanada.
+
+
+
+About these ads
+
+
+
+
+Share this:PrintEmailTwitterFacebookGoogleLike this:Like Loading...
+
+Related
+ 
+
+Posted by NPSIA admin in Faculty Posts Tagged: CIC, Percival, Public Health, West Africa
+
+
+
+Post navigation
+← NATO in Wales: What to expect at this week’s summit A less-violent, illicit drug market? It is possible →
+
+
+
+Leave a Reply Cancel reply
+
+
+
+
+Enter your comment here...
+
+
+
+
+Fill in your details below or click an icon to log in:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+Email (required) (Address never made public)
+
+
+
+Name (required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You are commenting using your WordPress.com account. ( Log Out / Change )
+
+
+
+
+
+
+
+
+
+
+
+
+ You are commenting using your Twitter account. ( Log Out / Change )
+
+
+
+
+
+
+
+
+
+
+
+
+ You are commenting using your Facebook account. ( Log Out / Change )
+
+
+
+
+
+
+
+
+
+
+
+
+ You are commenting using your Google+ account. ( Log Out / Change )
+
+
+
+
+Cancel
+Connecting to %s
+
+
+
+
+ Notify me of new comments via email. Notify me of new posts via email.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ Recent Posts 
+
+The stakes in Brazil’s final election vote
+
+
+Job Posting: Tenure Track Appointment
+
+
+The hawk’s dilemma
+
+
+Nation-building in the Mideast? What is needed is a Sunni home in Mesopotamia
+
+
+Brazilian Elections Monitor (2): The Very Strange Turn of Brazil’s Electoral Contest
+
+
+The Debate Over the Iraq Deployment: Confusion Reigns
+
+
+Bomb, advise, assist: Why Obama has few options against IS
+
+
+A less-violent, illicit drug market? It is possible
+
+
+Archives 
+Select Month
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+
+Blogroll
+
+Canadian International Council
+Duck of Minerva
+EURUS – Ukraine Blog
+iAffairs Canada
+NPSIA Students' Association
+Open Global Rights
+Philip Martin at Mines Action Canada's Young Professionals Abroad
+Saideman's Semi-Spew
+
+
+Categories 
+Faculty Posts
+
+Featured
+
+General Posts
+
+Guest Posts
+
+MA Candidate Posts
+
+Media
+
+NPSIA Events
+
+PhD Candidate Posts
+
+Uncategorized
+
+
+Academia
+Afghanistan
+Aid
+Brazil
+Calleja
+Call for Papers
+Canada
+canadian defence policy
+Canadian Forces
+Carment
+Chemical Weapons
+China
+CIC
+civil-military relations
+Cluster Munitions
+Daudelin
+Development
+Diasporas
+El Salvador
+Events
+First Peoples
+Foreign Fighters
+Foreign Policy
+Fragile States
+Gouett
+Haiti
+Humanitarianism
+Human Rights
+Iran
+Iraq
+Jardine
+Jargon
+Littlewood
+Martin
+MDGs
+NATO
+North Korea
+NPSIA
+Nuclear Weapons
+Obama
+Palamar
+Peacebuilding
+Percival
+Prest
+Procurement
+Protests
+R2P
+Reading
+Rivard Piche
+Rowlands
+Saideman
+Samy
+Security
+Soiffer
+Syria
+Terrorism
+Turkey
+U.S. Foreign Policy
+Ukraine
+VenezuelaMeta 
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com 
+ 
+
+
+
+
+Blog at WordPress.com.
+			 | 
+The Splendio Theme.		
+
+
+
+
+
+
+
+
+
+
+
+Follow
+
+Follow “Norman Paterson School of International Affairs”
+
+Get every new post delivered to your Inbox.
+
+Join 595 other followers
+
+
+
+
+
+
+
+
+Powered by WordPress.com
+
+
+
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+
+
+
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+
+
+
+
+
+
+%d bloggers like this:
+
+
+
+
+ 
+
+
+
+

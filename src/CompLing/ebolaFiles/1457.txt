@@ -1,0 +1,558 @@
+Genome study uncovers 395 Ebola mutations: Why the discovery is so important - EmaxHealthGenome study uncovers 395 Ebola mutations: Why the discovery is so important - EmaxHealth
+
+Skip to main content
+
+
+
+
+
+EmaxHealth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main menu
+
+Multiple Sclerosis
+Crohn's & Colitis
+Diet
+Diabetes
+Autism
+ADHD
+Running
+Celiac Disease
+ 
+ 
+
+
+
+
+Home / Disease and Condition
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Genome study uncovers 395 Ebola mutations: Why the discovery is so important
+ By Kathleen Blanchard G+
+2014-09-15 19:16
+
+
+
+
+ 
+Dr. Richard A. Stein, a research scientist and adjunct Biology professor explains in an EmaxHealth interview why recently discovered Ebola virus mutations can help us understand the deadly disease. He emphasizes the need for preparedness and rapid containment of Ebola virus in areas of outbreaks. The genome of Ebola has been changing in ways that can even make it undetectable with diagnostic testing. 
+Researchers publishing in the journal Science have traced the current Ebola outbreak to a funeral. They have also sequenced the genome of the virus, finding 395 Ebola virus mutations. 
+In an e-mail interview, Dr. Richard A. Stein answered some questions about the deadly virus to help us understand how Ebola could become a global public health threat, why sequencing the viral genome is important, and why the current outbreak is different from those in the past. 
+Stein who is a research scientist in the Department of Biochemistry and Molecular Pharmacology at New York University School of Medicine and adjunct professor in the Department of Biology at Monmouth University, NJ expounded on the current study findings that are highlighted below.
+According to the new research, Ebola is spreading rapidly, originated at a funeral and is spreading by human-to-human contact. 
+Ebola continues to rapidly spread through Guinea, Liberia, Sierra Leone, and Nigeria.
+Researchers from Harvard, MIT, Kenema Government Hospital, Kenema, Sierra Leone, Eastern Polytechnic College, Kenema, Sierra Leone, Institute of Evolutionary Biology, University of Edinburgh and Redeemer’s University, Ogun State, Nigeria traced the first Ebola cases in Sierra Leone to a healer infected with the virus who died. Thirteen women who attended the burial were likely infected with two lineages of the virus, based on genome sequencing. 
+Ebola mutates more rapidly during outbreaks, compared to the intervals between outbreaks. The researchers found the Ebola virus can rapidly adapt.
+The findings, published online in late August 2014 in the journal Science, also suggest after an initial transmission from zoonotic reservoirs to humans, the Ebola virus is now spreading via human-to-human transmission. Handling of infected meat had been speculated as a mode of transmission for the current outbreak.
+Ebola is spreading exponentially in affected areas, the outbreak doubling every 34.8 days.
+The outbreak of Ebola in Sierra Leone came from the introduction of two genetically distinct viruses from Guinea, occurring at approximately the same time.
+Ebola mutation questions and answers
+Me: Can you fill in that gap as to how attendance at a burial could lead to infection?
+Dr. Stein: Burial rituals have previously emerged, in several studies, as risk factors for transmitting the Ebola virus. These analyses revealed that specific practices during burials, such as washing or touching the body of the deceased, could increase the risk to become infected. 
+It is important to note that an analysis comparing two Ebola virus outbreaks that occurred several years ago, one in the Democratic Republic of Congo and the other one in Uganda, concluded that transmission in the community, in hospitals, and during funeral practices contributed unequally to the overall risk of transmission in the two outbreaks. This points to the possibility that in different outbreaks, the same risk factor may shape the outbreak to a greater or to a lesser degree. 
+Me: Do I understand there are 395 mutations of EBV identified from this research? If so, can you address whether that indicates a more or less potent form of the virus or do we just not know yet and thus the need for more research?
+Dr. Stein: Yes, the Science study identified and catalogued 395 mutations in the Ebola virus genome. These mutations provide fundamental insights into differences between the current outbreak and previous outbreaks. It is not clear whether and how many of these mutations reflect features related to virulence or to the severity of the current outbreak, but they represent a valuable resource and a starting point to better understand the dynamic behavior of the virus.
+The sequence analysis performed in the current study revealed that the virus was probably introduced into the human population on one occasion, and subsequently spread within the population over time. 
+An intriguing finding in the current study is that some mutations are in regions of the viral genome that are used for diagnostic tests that detect the infection.
+Me: The research discusses "nonsynonymous" mutations. Will you explain exactly what that means as it relates to public health threat? 
+Dr. Stein: Nonsynonymous mutations are mutations in the genetic material of the virus that change the identity of the amino acid that is encoded in the protein. In the current analysis, the rate of nonsynonymous mutations may point towards the ability of the virus to continually adapt, and it illustrates the need to carefully develop and implement genomic surveillance interventions to understand how the virus behaves and how it changes in time.
+A fascinating aspect, from a scientific perspective, has been to identify the reservoir for the virus and the routes of transmission that allow humans to be infected. Many studies tried to identify the natural reservoir of the Ebola virus, and small animals, reptiles, arthropods, or plants were proposed to be potential reservoirs at one time or another.
+One of the early observations was that non-human primates also develop Ebola hemorrhagic fever, and some human outbreaks were preceded, a few weeks earlier, by outbreaks in gorillas and chimpanzees. The fact that these species develop fatal disease basically eliminates them from being a potential reservoir, because reservoirs have to be able to sustain viral replication and remain healthy. 
+Several studies implicated fruit bats as a potential Ebola virus reservoir. This was based on the finding that fruit bats showed antibodies to the virus, and their experimental inoculation with the virus did not lead to any visible signs of clinical disease. 
+About 60% of all human pathogens, and about 75% of all the human infectious diseases that emerged during the last few decades are zoonotic, in other words, they originate in non-human species, from where they cross into humans. This is also referred to as “crossing” or “jumping” the species barrier. The factors that allow certain pathogens to cross the species barrier are diverse, and include land-use changes such as deforestation and reforestation, habitat fragmentation, certain agricultural practices, the handling of bushmeat, and climate variability. 
+It is of fundamental importance to integrate the teachings provided by this Ebola virus outbreak, which is the largest and the most persistent to date, with those that we gained from previous Ebola virus outbreaks and, also, from other infectious disease outbreaks, particularly zoonoses, such as zoonotic influenza and SARS. Part of this endeavor involves establishing a cross-disciplinary framework in which surveillance, reporting, and communication become key priorities.  
+Particularly in the current age of global inter-connectedness and mobility, we need to recognize the global impact and repercussions of an outbreak that occurs anywhere in the world. When developing and implementing public health preparedness platforms, the most significant consideration should be to concomitantly think, plan, and act locally and globally.
+Finally, I asked if Ebola could be transmitted by inhalation. Though there are no studies proving it could happen for certain, there is speculation that it is possible. Recent concerns that Ebola could be spread by air droplets are - at least for now - based on studies in which non-human primates were kept under conditions that were somewhat different from their natural environment, and other routes of transmission could not be conclusively ruled out, Stein said. 
+The study authors say their hope is that the research will help public health officials better understand and contain the Ebola virus. They also emphasize the importance of accurate diagnosis and ongoing monitoring of Ebola for mutations that happen quickly, between outbreaks. 
+Image credit: Wikimedia Commons
+Related:How easy is it to get Ebola?Ebola vaccine studied in mice several years ago
+conditions: Disease and ConditionLatest News: News Analysis 
+
+
+
+
+
+
+
+Ads by Google
+
+
+
+
+
+
+
+Your name *
+
+
+
+E-mail *
+
+The content of this field is kept private and will not be shown publicly.
+
+
+Comment *
+
+
+
+
+
+ Notify me when new comments are posted 
+
+
+ All comments 
+
+
+ Replies to my comment 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Related Terms
+
+
+
+
+
+
+
+Vitamin D May Help Improve Eczema in Children 
+
+
+
+Ebola spread to skyrocket along with deaths from other diseases 
+
+
+
+Gallbladder Surgery and When To Get It 
+
+
+
+How easy is it to get Ebola?  
+
+
+
+Chikungunya in US for the first time: What is it? 
+
+
+
+How reading faces can diagnose disease 
+
+
+
+Cinnamon May Help Treat Parkinson's Disease 
+
+
+
+
+ 
+ 
+NEWSLETTER
+
+Sign up for EmaxHealth newsletter and receive daily health tips delivered straight to your inbox. Check all your maiboxes for verification email.
+
+E-mail *
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Low testosterone, symptoms, causes
+
+
+
+
+
+
+ 
+
+Foods for weight loss
+
+
+
+
+
+
+
+
+ 
+
+5 secrets for a longer life 
+
+
+
+
+
+
+ 
+
+5 symptoms that could mean colon cancer
+
+
+
+
+
+
+
+
+ 
+
+6 easy ways to meditate for good health
+
+
+
+
+
+
+ 
+
+Toxic foods
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+						Health Topics
+
+
+
+
+
+Acne
+
+Colon Cancer
+
+Menopause
+
+
+
+ADHD
+
+Dental
+
+Mental
+
+
+
+Aging
+
+Depression
+
+Mesothelioma
+
+
+
+Alcohol Addiction
+
+Diabetes
+
+Migraine
+
+
+
+Allergy
+
+Diet
+
+Nutrition
+
+
+
+Alternative
+
+Exercise
+
+Obesity
+
+
+
+Alzheimer's Disease
+
+Flu
+
+Ovarian Cancer
+
+
+
+Arthritis
+
+Food
+
+Pets
+
+
+
+Asthma
+
+Hair Loss
+
+Pregnancy
+
+
+
+Autism
+
+Heart
+
+Prostate
+
+
+
+Back Pain
+
+Herbal Remedies
+
+Skin Cancer
+
+
+
+Beauty
+
+HIV/AIDS
+
+Skin Care
+
+
+
+Blood Pressure
+
+Impotence
+
+Sleep Disorders
+
+
+
+Breast Cancer
+
+Insurance
+
+Smoking
+
+
+
+Cervical Cancer
+
+Liver Cancer
+
+Stress Relief
+
+
+
+Cholesterol
+
+Lung Cancer
+
+Stroke
+
+
+
+Coffee
+
+Men's Health
+
+Women's Health
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+Conditions Latest
+
+
+
+  
+ Should You Dive into Aquatic Exercise for Multiple Sclerosis 
+
+ Autism Birdhouse app helps families track children  
+
+ Teal pumpkins used for food allergies on Halloween: Celiac disease news 
+
+ Crohn's and colitis diet information on the internet could mislead 
+
+ Pete Evans blames autism on modern diet: Chef offers Paleo solution  
+
+ Gluten-free Halloween candy safe for celiac disease  
+
+ Low Dose Naltrexone for Multiple Sclerosis, What Happened? 
+
+ ‘Top Chef’ contestant reveals gluten-free ideas: Celiac disease news 
+
+ New drug prevents chemo-induced nausea, vomiting in most cancer patients 
+
+ Autistic teen dies on school bus after seizure: Family sues years later 
+ 
+ 
+ 
+
+ 
+
+Health and Wellness Latest
+
+
+
+  
+ Deepak Chopra’s Weight Loss Advice Balances with New Study’s Findings 
+
+ Water contamination from Scotchgard chemical worries EPA  
+
+ Autism Birdhouse app helps families track children  
+
+ The Alkaline Diet: The Science Behind a Healthier Body 
+
+ Teal pumpkins used for food allergies on Halloween: Celiac disease news 
+
+ Pete Evans blames autism on modern diet: Chef offers Paleo solution  
+
+ Gluten-free Halloween candy safe for celiac disease  
+
+ ‘Top Chef’ contestant reveals gluten-free ideas: Celiac disease news 
+
+ Families want CBD oil approval in epilepsy debate 
+
+ New drug prevents chemo-induced nausea, vomiting in most cancer patients 
+ 
+ 
+ 
+
+ 
+
+Recent Health News
+
+
+
+  
+ Agents and Brokers Left Out Of Healthcare Marketplace: Assisters Survey 
+
+ Why overconfidence can be a bad thing 
+
+ How Does Obamacare Work For Individuals? 
+
+ 5 Facts You Need to Know About Supplemental Insurance 
+
+ 7 Tips To Lower Your Total Out Of Pocket Health Insurance Cost 
+
+ The Affordable is Neither as Great as You Think, Nor as Awful as You Think 
+
+ Update: Courts play 'ping-pong' with Obamacare subsidies 
+
+ Solutions to make your health care less expensive 
+
+ Top Seven Nursing Do's and Don'ts 
+
+ This Box May Cause Cancellation of Your Health Insurance Plan 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Archive | Privacy Policy | Disclaimer | About Us
+ Editorial Review Process | Advertise | Contact | Contributors  | Republish EmaxHealth Stories
+  
+
+ 
+
+
+

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <link>http://www.archive.org/details/feature_films</link>
+    <title>Internet Archive - Collection: feature_films</title>
+    <description>The most recent additions to the Internet Archive collections.  This RSS feed is generated dynamically</description>
+    <webMaster>tracey@archive.org</webMaster>
+    <pubDate>Wed, 30 Apr 2008 20:52:07 GMT</pubDate>
+    <image>
+      <url>http://www.archive.org/images/logo.jpg</url>
+      <title>Internet Archive</title>
+      <link>http://www.archive.org/details/feature_films</link>
+    </image>
+    <item>
+      <title>Robbery Under Arms</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Robbery_Under_Arms&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;This 1920 silent film was made by Kenneth Brampton, who wrote, produced, directed and starred in it. The story concerns a real life bushranger (outlaw) named Captain Starlight, who became a national hero (like Ned Kelly)....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Robbery_Under_Arms</link>
+      <guid>http://www.archive.org/details/Robbery_Under_Arms</guid>
+      <pubDate>Fri, 25 Apr 2008 03:49:12 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/Robbery_Under_Arms/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Bushrangers, Western, Australia, Kenneth Brampton</media:keywords>
+    </item>
+    <item>
+      <title>Strange Illusion</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Strange_Illusion&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Film Noir variation of the Hamlet story. Teen believes his widowed mother's suitor may have murdered his father. Directed by Edgar G. Ulmer..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG1, MPEG2, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Strange_Illusion</link>
+      <guid>http://www.archive.org/details/Strange_Illusion</guid>
+      <pubDate>Thu, 24 Apr 2008 17:18:35 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/download/Strange_Illusion/format=MPEG1" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:content url="http://www.archive.org/download/Strange_Illusion/format=MPEG2" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/Strange_Illusion/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/download/Strange_Illusion/format=MPEG1" type="video/mpeg" length="111111"/>
+      <media:keywords>film noir, Ulmer</media:keywords>
+    </item>
+    <item>
+      <title>Scared Stiff (Treasure of Fear)</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Scared_Stiff&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Jack Haley (the Tin Man of Oz) in a low-budget comedy. He's a chess-columnist who gets mixed up with hoodlums..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Scared_Stiff</link>
+      <guid>http://www.archive.org/details/Scared_Stiff</guid>
+      <pubDate>Wed, 23 Apr 2008 20:19:44 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/Scared_Stiff/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>comedy, crime</media:keywords>
+    </item>
+    <item>
+      <title>Deep Red (Profondo Rosso)</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Deep_Red&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Italian suspense, mystery, and horror. David Hemmings stars. The IMDB entry for this movie is here..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Deep_Red</link>
+      <guid>http://www.archive.org/details/Deep_Red</guid>
+      <pubDate>Tue, 22 Apr 2008 19:24:49 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/Deep_Red/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>mystery, horror, murder, thiller, suspense</media:keywords>
+    </item>
+    <item>
+      <title>Manos : The Hands of Fate</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Manos-TheHandsOfFate&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Manos: The Hands of Fate (1966) It's Shocking! It's Beyond Your Imagination! Also Known As: The Lodge of Sins (USA) Director: Harold P. Warren Writer: Harold P. Warren (screenplay) IMDB PAGE HIRED! : The Complete Version CAST : FROM IMDB Tom Neyman ......&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, Metadata, Thumbnail, Windows Media&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Manos-TheHandsOfFate</link>
+      <guid>http://www.archive.org/details/Manos-TheHandsOfFate</guid>
+      <pubDate>Tue, 22 Apr 2008 00:21:28 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/Manos-TheHandsOfFate/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/Manos-TheHandsOfFate/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:thumbnail url="http://www.archive.org/download/Manos-TheHandsOfFate/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/Manos-TheHandsOfFate/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Manos, Hands, Harold Warren, Lodge of Sins, Suspense, Terror, Manos The Hands of Fate</media:keywords>
+    </item>
+    <item>
+      <title>Silent Night, Bloody Night</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=SilentNightBloodyNight&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;An under-rated horror/slasher film. John Carradine has a minor role..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/SilentNightBloodyNight</link>
+      <guid>http://www.archive.org/details/SilentNightBloodyNight</guid>
+      <pubDate>Mon, 21 Apr 2008 20:35:24 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/SilentNightBloodyNight/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>horror, slasher, suspense, thriller</media:keywords>
+    </item>
+    <item>
+      <title>Thee Broadway Girls</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=3_broadway_girls&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;A trio of money hungry women who all have sugar daddies who keep them in the lap of luxury, even as they drive the men crazy. Each woman represents a different personality type, from sensitive, to kind-hearted, to difficult and untrustworthy..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/3_broadway_girls</link>
+      <guid>http://www.archive.org/details/3_broadway_girls</guid>
+      <pubDate>Fri, 18 Apr 2008 03:27:19 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/3_broadway_girls/format=Thumbnail"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Hercules</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=hercules_ipod&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Steve Reeves stars in this spaghetti production of Hercules..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/hercules_ipod</link>
+      <guid>http://www.archive.org/details/hercules_ipod</guid>
+      <pubDate>Fri, 18 Apr 2008 01:23:33 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/hercules_ipod/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Hercules, Action, Adventure, Fantasy</media:keywords>
+    </item>
+    <item>
+      <title>OooLaLa</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=OooLaLa&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Soundie with lots of singing and dancing.Originally released as "Cocktails and OhLaLa with Carolyn Grey singing and Teri Vance doing solo dancing..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Video, 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, Metadata, Thumbnail, Windows Media&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/OooLaLa</link>
+      <guid>http://www.archive.org/details/OooLaLa</guid>
+      <pubDate>Thu, 17 Apr 2008 19:10:56 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/OooLaLa/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/OooLaLa/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:thumbnail url="http://www.archive.org/download/OooLaLa/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/OooLaLa/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Soundie</media:keywords>
+    </item>
+    <item>
+      <title>Sex Life Of A Polyp</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=SexLifeOfAPolyp&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Short subject comedy with Robert Benchley.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Video, Animated GIF, Flash Video, Metadata, Thumbnail, Windows Media&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/SexLifeOfAPolyp</link>
+      <guid>http://www.archive.org/details/SexLifeOfAPolyp</guid>
+      <pubDate>Thu, 17 Apr 2008 03:59:57 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/SexLifeOfAPolyp/format=Thumbnail"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Sex Life Of A Polyp</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=SexLifeOfAPolyp_0&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Comedy short subject with Robert Benchley.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Video, Animated GIF, Flash Video, Metadata, Thumbnail, Windows Media&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/SexLifeOfAPolyp_0</link>
+      <guid>http://www.archive.org/details/SexLifeOfAPolyp_0</guid>
+      <pubDate>Wed, 16 Apr 2008 16:07:10 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/SexLifeOfAPolyp_0/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Comedy</media:keywords>
+    </item>
+    <item>
+      <title>The General (complete &amp; clearer)</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=The_General_Buster_Keaton&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;A great Buster Keaton silent movie. In 1862, after spies steal his locomotive, "The General", Keaton wages a one-man battle to recover it. The copies previously uploaded here were either incomplete or too blurry....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, JPEG, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/The_General_Buster_Keaton</link>
+      <guid>http://www.archive.org/details/The_General_Buster_Keaton</guid>
+      <pubDate>Tue, 15 Apr 2008 20:14:52 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/The_General_Buster_Keaton/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>railroad, war, locomotive, Buster Keaton, silent movie</media:keywords>
+    </item>
+    <item>
+      <title>Song Of Ceylon</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Song_Of_Ceylon_1934&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Bizarre "documentary" of "primitive" life in Ceylon (Sri Lanka). Commentary consists of excerpts from Robert Knox "An Historical Relation of Ceylon", written in 1681..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, DivX, Flash Video, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Song_Of_Ceylon_1934</link>
+      <guid>http://www.archive.org/details/Song_Of_Ceylon_1934</guid>
+      <pubDate>Tue, 15 Apr 2008 15:43:28 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/Song_Of_Ceylon_1934/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Ceylon, documentary, surrealism, 1934, British</media:keywords>
+    </item>
+    <item>
+      <title>They Made Me a Killer</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=TheyMadeMeAKiller&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;A man arrested for bank robbery escapes and tries to track down the real culprits. You can find out more at IMDB.com..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/TheyMadeMeAKiller</link>
+      <guid>http://www.archive.org/details/TheyMadeMeAKiller</guid>
+      <pubDate>Mon, 14 Apr 2008 19:57:31 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/TheyMadeMeAKiller/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>bank robbery, framed, suspense</media:keywords>
+    </item>
+    <item>
+      <title>The Hitch-Hiker</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Hitch_Hiker&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Edmond O'Brien and Frank Lovejoy pick up a hitch-hiker (William Talman) who turns out to be an insane escaped convict..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Hitch_Hiker</link>
+      <guid>http://www.archive.org/details/Hitch_Hiker</guid>
+      <pubDate>Fri, 11 Apr 2008 17:17:33 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/Hitch_Hiker/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>suspense, terror, hitch-hiker, murder, convict</media:keywords>
+    </item>
+    <item>
+      <title>Manhattan Tower</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=manhattan_tower_ipod&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;A post depression love story that takes place between to people who work in the Empire State building..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/manhattan_tower_ipod</link>
+      <guid>http://www.archive.org/details/manhattan_tower_ipod</guid>
+      <pubDate>Fri, 11 Apr 2008 03:09:39 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/manhattan_tower_ipod/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Romance, Drama</media:keywords>
+    </item>
+    <item>
+      <title>Half Shot at Sunrse</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=half_shot_at_sunrise&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;The stage stars Wheeler and Woolsey play two soldiers who go absent without leave in Paris, during World War I..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/half_shot_at_sunrise</link>
+      <guid>http://www.archive.org/details/half_shot_at_sunrise</guid>
+      <pubDate>Fri, 11 Apr 2008 03:05:40 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/half_shot_at_sunrise/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Comedy, Musical, WWI</media:keywords>
+    </item>
+    <item>
+      <title>Mr. Boggs Steps Out</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=mr_boggs_steps_out_ipod&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Oliver Boggs is typical office worker with gift for statistics. After winning a contest he take his money and buys a barrel factory, and falls in loves..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/mr_boggs_steps_out_ipod</link>
+      <guid>http://www.archive.org/details/mr_boggs_steps_out_ipod</guid>
+      <pubDate>Fri, 11 Apr 2008 02:07:44 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/mr_boggs_steps_out_ipod/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Comedy, Romance</media:keywords>
+    </item>
+    <item>
+      <title>The Plow That Broke The Plains by Pare Lorentz</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=ThePlowThatBrokeThePlainsByPareLorentz&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;History of the Great Plains. Three of the four cameramen (all but Paul Ivano) who worked on this film were fired by director/writer Pare Lorentz. Basically, they considered him too verbally script-oriented and not sufficiently visually oriented....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/ThePlowThatBrokeThePlainsByPareLorentz</link>
+      <guid>http://www.archive.org/details/ThePlowThatBrokeThePlainsByPareLorentz</guid>
+      <pubDate>Thu, 10 Apr 2008 22:30:04 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/ThePlowThatBrokeThePlainsByPareLorentz/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Great Plains, Resettlement Administration, FDR, Pare Lorentz</media:keywords>
+    </item>
+    <item>
+      <title>The River by Pare Lorentz</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=TheRiverByPareLorentz&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;This short Depression-era documentary describes the importance of the Mississippi River to the United States. It laments the environmental destruction committed in the name of progress, particularly farming and timber practices which cause massive erosion and result in vast amounts of top soil being....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/TheRiverByPareLorentz</link>
+      <guid>http://www.archive.org/details/TheRiverByPareLorentz</guid>
+      <pubDate>Thu, 10 Apr 2008 22:27:29 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/TheRiverByPareLorentz/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Depression-era, documentary, New Deal, FDR, Farm Securities Administration, Pare Lorentz</media:keywords>
+    </item>
+    <item>
+      <title>The Death Kiss</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=TheDeathKiss&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Actor killed by a bullet while filming. Was it murder? Bela Lugosi has a small role..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/TheDeathKiss</link>
+      <guid>http://www.archive.org/details/TheDeathKiss</guid>
+      <pubDate>Thu, 10 Apr 2008 20:06:29 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/TheDeathKiss/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>murder, mystery, Lugosi, film-making</media:keywords>
+    </item>
+    <item>
+      <title>The Doughboy (Snub Pollard 1926)</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=The_Doughboy-Snub_Pollard&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;No description available.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, MPEG1, MPEG2, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/The_Doughboy-Snub_Pollard</link>
+      <guid>http://www.archive.org/details/The_Doughboy-Snub_Pollard</guid>
+      <pubDate>Thu, 10 Apr 2008 13:27:49 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/The_Doughboy-Snub_Pollard/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/The_Doughboy-Snub_Pollard/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:content url="http://www.archive.org/download/The_Doughboy-Snub_Pollard/format=MPEG1" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:content url="http://www.archive.org/download/The_Doughboy-Snub_Pollard/format=MPEG2" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/The_Doughboy-Snub_Pollard/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/The_Doughboy-Snub_Pollard/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+    </item>
+    <item>
+      <title>The Yokel (Snub Pollard 1926)</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=The_Yokel-Snub_Pollard&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;'Snub' Pollard, Thelma Daniels, Bob O'Connor, Eva Thatcher, Zalla Zarana.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, Animated GIF, Flash Video, MPEG1, MPEG2, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/The_Yokel-Snub_Pollard</link>
+      <guid>http://www.archive.org/details/The_Yokel-Snub_Pollard</guid>
+      <pubDate>Thu, 10 Apr 2008 13:27:01 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/The_Yokel-Snub_Pollard/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/download/The_Yokel-Snub_Pollard/format=MPEG1" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:content url="http://www.archive.org/download/The_Yokel-Snub_Pollard/format=MPEG2" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/The_Yokel-Snub_Pollard/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/The_Yokel-Snub_Pollard/format=256Kb+MPEG4" type="video/mp4" length="111111"/>
+    </item>
+    <item>
+      <title>The Big Shot (Snub Pollard 1929)</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=The_Big_Shot-Snub_Pollard&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;'Snub' Pollard , Marvin Loback, Thelma Daniels, Harry Martell.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, MPEG1, MPEG2, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/The_Big_Shot-Snub_Pollard</link>
+      <guid>http://www.archive.org/details/The_Big_Shot-Snub_Pollard</guid>
+      <pubDate>Thu, 10 Apr 2008 13:26:30 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/The_Big_Shot-Snub_Pollard/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/The_Big_Shot-Snub_Pollard/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:content url="http://www.archive.org/download/The_Big_Shot-Snub_Pollard/format=MPEG1" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:content url="http://www.archive.org/download/The_Big_Shot-Snub_Pollard/format=MPEG2" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/The_Big_Shot-Snub_Pollard/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/The_Big_Shot-Snub_Pollard/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+    </item>
+    <item>
+      <title>MItt the Prince (Snub Pollard 1927)</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=MItt_the_Prince-Snub_Pollard&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;'Snub' Pollard, Marvin Loback, Thelma Daniels.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, MPEG1, MPEG2, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/MItt_the_Prince-Snub_Pollard</link>
+      <guid>http://www.archive.org/details/MItt_the_Prince-Snub_Pollard</guid>
+      <pubDate>Thu, 10 Apr 2008 13:25:11 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/MItt_the_Prince-Snub_Pollard/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/MItt_the_Prince-Snub_Pollard/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:content url="http://www.archive.org/download/MItt_the_Prince-Snub_Pollard/format=MPEG1" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:content url="http://www.archive.org/download/MItt_the_Prince-Snub_Pollard/format=MPEG2" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/MItt_the_Prince-Snub_Pollard/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/MItt_the_Prince-Snub_Pollard/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+    </item>
+    <item>
+      <title>Double Trouble (Snub Pollard, 1927)</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Double_Trouble-Snub_Pollard&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;'Snub' Pollard, Marvin Loback, Harry Martell, Jack 'Tiny' Lipson, Jean Douglas.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, MPEG1, MPEG2, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Double_Trouble-Snub_Pollard</link>
+      <guid>http://www.archive.org/details/Double_Trouble-Snub_Pollard</guid>
+      <pubDate>Thu, 10 Apr 2008 13:23:50 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/Double_Trouble-Snub_Pollard/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/Double_Trouble-Snub_Pollard/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:content url="http://www.archive.org/download/Double_Trouble-Snub_Pollard/format=MPEG1" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:content url="http://www.archive.org/download/Double_Trouble-Snub_Pollard/format=MPEG2" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/Double_Trouble-Snub_Pollard/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/Double_Trouble-Snub_Pollard/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+    </item>
+    <item>
+      <title>The Shadow Strikes</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=the_shadow_strikes&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Film based on the Street and Smith Magazine publication "The Shadow".&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/the_shadow_strikes</link>
+      <guid>http://www.archive.org/details/the_shadow_strikes</guid>
+      <pubDate>Wed, 09 Apr 2008 22:27:32 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/the_shadow_strikes/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>The Shadow, Mystery, Lamont Cranston</media:keywords>
+    </item>
+    <item>
+      <title>Behave Yourself</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=behave_yourself_ipod&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;When a cute Welsh terrier follows Bill Denny home, little does he know that all gangland has its eye on that dog. Who will be bumbling Bill's undoing - the gangsters, the cops, or his suspicious mother-in-law?.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/behave_yourself_ipod</link>
+      <guid>http://www.archive.org/details/behave_yourself_ipod</guid>
+      <pubDate>Wed, 09 Apr 2008 22:23:49 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/behave_yourself_ipod/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Comedy, Romance</media:keywords>
+    </item>
+    <item>
+      <title>Stars Over Texas</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=StarsOverTexas&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Western Action Starring Eddie Dean,His Horse "Flash",Roscoe Ates,Shirley Patterson,Lee Bennett and The Sunshine Boys.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Video, 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, Metadata, Thumbnail, Windows Media&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/StarsOverTexas</link>
+      <guid>http://www.archive.org/details/StarsOverTexas</guid>
+      <pubDate>Wed, 09 Apr 2008 19:19:42 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/StarsOverTexas/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/StarsOverTexas/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:thumbnail url="http://www.archive.org/download/StarsOverTexas/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/StarsOverTexas/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Western:Eddie Dean</media:keywords>
+    </item>
+    <item>
+      <title>Fear in the Night</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=FearInTheNight&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;DeForest Kelley in a Cornell Woolrich story. This is a better copy than what is already on this site..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/FearInTheNight</link>
+      <guid>http://www.archive.org/details/FearInTheNight</guid>
+      <pubDate>Wed, 09 Apr 2008 16:05:23 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/FearInTheNight/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>suspense, thriller, murder, mystery, noir</media:keywords>
+    </item>
+    <item>
+      <title>Africa Screams</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=AfricaScreams&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;from IMDB.com: "Abbott &amp; Costello search for diamonds in Africa, along the way meeting a visually-impaired gunner, a hungry lion, and a tribe of cannibals." Also stars Clyde Beatty and Shemp Howard..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/AfricaScreams</link>
+      <guid>http://www.archive.org/details/AfricaScreams</guid>
+      <pubDate>Tue, 08 Apr 2008 18:42:13 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/AfricaScreams/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>comedy, Abbott, Costello, Abbott and Costello</media:keywords>
+    </item>
+    <item>
+      <title>Love Laughs at Andy Hardy</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=loveLaughsatAndyHardy&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Andy Hardy returns from the military with love and marriage on his mind..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/loveLaughsatAndyHardy</link>
+      <guid>http://www.archive.org/details/loveLaughsatAndyHardy</guid>
+      <pubDate>Mon, 07 Apr 2008 22:02:56 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/loveLaughsatAndyHardy/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Andy Hardy, Comedy</media:keywords>
+    </item>
+    <item>
+      <title>Last of the Mohicans</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=last_of_the_mohicans_1920&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;First film adaptation from the James Fenimore Cooper novel of the same name. This film also features one of Boris Karloff's earliest film appearances in a small uncredited role as a Native American..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/last_of_the_mohicans_1920</link>
+      <guid>http://www.archive.org/details/last_of_the_mohicans_1920</guid>
+      <pubDate>Mon, 07 Apr 2008 11:48:55 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/last_of_the_mohicans_1920/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Adventure, Drama, Silent</media:keywords>
+    </item>
+    <item>
+      <title>Kuhle Wampe oder Wem gehört die Welt?</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KuhleWampe&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Kuhle Wampe ( the full title is Kuhle Wampe oder Wem gehört die Welt) is a German feature film, released in 1932, about unemployment and left wing politics in the Weimar Republic. The title refers to a tent camp in the countryside near to Berlin....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, MPEG1, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KuhleWampe</link>
+      <guid>http://www.archive.org/details/KuhleWampe</guid>
+      <pubDate>Mon, 07 Apr 2008 08:39:36 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/KuhleWampe/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/KuhleWampe/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:content url="http://www.archive.org/download/KuhleWampe/format=MPEG1" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/KuhleWampe/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/KuhleWampe/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Kuhle , Wampe , oder , Wem , gehört , die , Welt , Hans , Eisler , Bertolt , Brecht , Slatan , Dudow</media:keywords>
+    </item>
+    <item>
+      <title>Hawk of Powder River</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=hawk_of_powder_river&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Cowboy hero Eddie Dean versus The mysterious Hawk, and her outlaw gang..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/hawk_of_powder_river</link>
+      <guid>http://www.archive.org/details/hawk_of_powder_river</guid>
+      <pubDate>Mon, 07 Apr 2008 00:38:11 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/hawk_of_powder_river/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Western, Eddie Dean</media:keywords>
+    </item>
+    <item>
+      <title>The Street Fighter's Last Revenge (逆襲！殺人拳, Gyakushū! Satsujin ken)</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=The_Street_Fighters_Last_Revenge&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;The Street Fighter's Last Revenge is the third part of a trilogy of Japanese Karate films. All three films are in public domain and are widely available in dollar bins. This upload includes a re-rendered version, which is in mpeg2, and is cleaned up from the DVD files, which are also present....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG2, Metadata, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/The_Street_Fighters_Last_Revenge</link>
+      <guid>http://www.archive.org/details/The_Street_Fighters_Last_Revenge</guid>
+      <pubDate>Sun, 06 Apr 2008 21:36:59 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/download/The_Street_Fighters_Last_Revenge/format=MPEG2" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/The_Street_Fighters_Last_Revenge/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/download/The_Street_Fighters_Last_Revenge/format=MPEG2" type="video/mpeg" length="111111"/>
+      <media:keywords>street fighter karate martial arts sonny chiba</media:keywords>
+    </item>
+    <item>
+      <title>Butter Fingers</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Butterfingers&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Mack Sennett Comedy starring Billy Bevan, Andy Clyde, Ruth Taylor, Kewpie Morgan, Madeline Hurlock, George Harris.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, MPEG1, MPEG2, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Butterfingers</link>
+      <guid>http://www.archive.org/details/Butterfingers</guid>
+      <pubDate>Sat, 05 Apr 2008 13:27:21 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/Butterfingers/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/Butterfingers/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:content url="http://www.archive.org/download/Butterfingers/format=MPEG1" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:content url="http://www.archive.org/download/Butterfingers/format=MPEG2" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/Butterfingers/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/Butterfingers/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+    </item>
+    <item>
+      <title>The Rodeo</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=The_Rodeo&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Mack Sennett Comedy starring Mary Ann Jackson, Raymond McKee, Ruth Hiatt, Irene Allen, Paralee Coleman, Sunshine Hart, Jimmy's Mother-in-Law, Irving Bacon, Andy Clyde, Jack Cooper, Kathryn Stanley, Roger Moore, William McCall, Spencer Bell, Billy Gilbert.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, MPEG1, MPEG2, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/The_Rodeo</link>
+      <guid>http://www.archive.org/details/The_Rodeo</guid>
+      <pubDate>Sat, 05 Apr 2008 13:23:15 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/The_Rodeo/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/The_Rodeo/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:content url="http://www.archive.org/download/The_Rodeo/format=MPEG1" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:content url="http://www.archive.org/download/The_Rodeo/format=MPEG2" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/The_Rodeo/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/The_Rodeo/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+    </item>
+    <item>
+      <title>Arson Inc</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=ExpiredArsonInc.&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Action film about Arson Investigators.Good action yarn with Robert Lowery and Anne Gwynne..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Video, 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, Metadata, Thumbnail, Windows Media&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/ExpiredArsonInc.</link>
+      <guid>http://www.archive.org/details/ExpiredArsonInc.</guid>
+      <pubDate>Fri, 04 Apr 2008 21:18:37 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/ExpiredArsonInc./format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/ExpiredArsonInc./format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:thumbnail url="http://www.archive.org/download/ExpiredArsonInc./format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/ExpiredArsonInc./format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Fire Safety Robert Lowery,Action ,Drama</media:keywords>
+    </item>
+    <item>
+      <title>Yellowstone</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Yellowstone_&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Henry Hunter stars as park ranger Dick Sherwood, who gets mixed up in a series of murders. The killings are tied in with $90,000 in stolen money, which the four villains had hidden in a Yellowstone cave 17 years earlier....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, DivX, Flash Video, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Yellowstone_</link>
+      <guid>http://www.archive.org/details/Yellowstone_</guid>
+      <pubDate>Fri, 04 Apr 2008 17:23:08 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/Yellowstone_/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/Yellowstone_/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:thumbnail url="http://www.archive.org/download/Yellowstone_/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/Yellowstone_/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Crime, Drama</media:keywords>
+    </item>
+    <item>
+      <title>The Brain that Wouldn't Die</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=the_brain_that_wouldnt_die_ipod&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;A doctor experimenting with transplant techniques keeps his girlfriend's head alive when she is decapitated in a car crash, then goes hunting for a new body.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/the_brain_that_wouldnt_die_ipod</link>
+      <guid>http://www.archive.org/details/the_brain_that_wouldnt_die_ipod</guid>
+      <pubDate>Fri, 04 Apr 2008 10:59:16 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/the_brain_that_wouldnt_die_ipod/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Horror, Sci-Fi</media:keywords>
+    </item>
+    <item>
+      <title>No, No, Nanette</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=no_no_nanette&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Taken from IMDB: Perky young Nanette attempts to save the marriage of her uncle and aunt by untangling Uncle Jimmy from several innocent but ensnaring flirtations. Attempting one such unentanglement, Nanette enlists the help of theatrical producer Bill Trainor, who promptly falls in love with her....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/no_no_nanette</link>
+      <guid>http://www.archive.org/details/no_no_nanette</guid>
+      <pubDate>Fri, 04 Apr 2008 10:51:01 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/no_no_nanette/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Musical, Romance</media:keywords>
+    </item>
+    <item>
+      <title>Road Show</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Road_Show&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Millionaire playboy Drogo Gaines (John Hubbard) gets cold feet at the altar and his gold digging bride gets him committed to an asylum. While there he meets Col. Carleton Carroway (Adolphe Menjou) who's another millionaire there for a rest cure from his grabby family....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, DivX, Flash Video, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Road_Show</link>
+      <guid>http://www.archive.org/details/Road_Show</guid>
+      <pubDate>Fri, 04 Apr 2008 08:55:25 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/Road_Show/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/Road_Show/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:thumbnail url="http://www.archive.org/download/Road_Show/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/Road_Show/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Comedy</media:keywords>
+    </item>
+    <item>
+      <title>Sappy Birthday</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=SappyBirthday&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Comedy with Andy Clyde.This was a short subject at theaters.Andy Clyde was a favorite of movie fans in the 1920's,1930's and 1940's even before he became "California Carlson" a comedy sidekick to Hopalong Cassidy..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Cinepack, Flash Video, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/SappyBirthday</link>
+      <guid>http://www.archive.org/details/SappyBirthday</guid>
+      <pubDate>Thu, 03 Apr 2008 19:01:09 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/SappyBirthday/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/SappyBirthday/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:thumbnail url="http://www.archive.org/download/SappyBirthday/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/SappyBirthday/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Comedy.Andy Clyde</media:keywords>
+    </item>
+    <item>
+      <title>Bowery at Midnight</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=Bowery_at_Midnight&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Bela Lugosi. By day, professor of psychology. By night, proprietor of a soup-kitchen that serves as the base for his criminal activities. "How often have I told you to keep that cat from desecrating my graves!".&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/Bowery_at_Midnight</link>
+      <guid>http://www.archive.org/details/Bowery_at_Midnight</guid>
+      <pubDate>Thu, 03 Apr 2008 17:39:15 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/Bowery_at_Midnight/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>horror, mystery, Bela Lugosi, Lugosi</media:keywords>
+    </item>
+    <item>
+      <title>Song Of Old Wyoming</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=SongOfOldWyoming&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Western starring Eddie Dean,Jennifer Holt,Sarah Padden and Al"Lash"LaRue in his first featured role.This was one of the few features PRC produced in Cinecolor..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, Metadata, Thumbnail, Windows Media&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/SongOfOldWyoming</link>
+      <guid>http://www.archive.org/details/SongOfOldWyoming</guid>
+      <pubDate>Wed, 02 Apr 2008 22:52:12 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/SongOfOldWyoming/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/SongOfOldWyoming/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:thumbnail url="http://www.archive.org/download/SongOfOldWyoming/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/SongOfOldWyoming/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Western</media:keywords>
+    </item>
+    <item>
+      <title>Roar of the Press</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=roar_of_the_press_ipod&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;A newly wedded couple tries to get the scoop on fifth columnist..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, HTML, MPEG4, Metadata, Shockwave Flash, Thumbnail, Unknown&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/roar_of_the_press_ipod</link>
+      <guid>http://www.archive.org/details/roar_of_the_press_ipod</guid>
+      <pubDate>Wed, 02 Apr 2008 20:33:07 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/roar_of_the_press_ipod/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>Romance, Drama</media:keywords>
+    </item>
+    <item>
+      <title>The Bat</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=The_Bat_Vincent_Price&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Stars Vincent Price and Agnes Moorehead..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Flash Video, MPEG4, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/The_Bat_Vincent_Price</link>
+      <guid>http://www.archive.org/details/The_Bat_Vincent_Price</guid>
+      <pubDate>Wed, 02 Apr 2008 15:41:17 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:thumbnail url="http://www.archive.org/download/The_Bat_Vincent_Price/format=Thumbnail"/>
+      </media:group>
+      <media:keywords>mystery, horror, Vincent Price</media:keywords>
+    </item>
+    <item>
+      <title>The Corporation - Filmmakers Official Download Edition</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=The_Corporation_&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;The Corporation is a 2003 Canadian documentary film critical of the modern-day corporation, considering it as a class of person and evaluating its behaviour towards society and the world at large as a psychologist might evaluate an ordinary person....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, DivX, Flash Video, Metadata, PDF, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/The_Corporation_</link>
+      <guid>http://www.archive.org/details/The_Corporation_</guid>
+      <pubDate>Tue, 01 Apr 2008 21:59:53 GMT</pubDate>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/The_Corporation_/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/The_Corporation_/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:thumbnail url="http://www.archive.org/download/The_Corporation_/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/The_Corporation_/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Documentary, History</media:keywords>
+    </item>
+    <item>
+      <title>Zéro de conduite</title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=zero_de_conduite&amp;mediatype=movies&amp;collection=feature_films"/&gt;&lt;p&gt;Wikipedia page IMDB page.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/feature_films.&lt;/p&gt;&lt;p&gt;This item has files of the following types: 256Kb MPEG4, 64Kb MPEG4, Animated GIF, Flash Video, MPEG1, MPEG2, Metadata, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/zero_de_conduite</link>
+      <guid>http://www.archive.org/details/zero_de_conduite</guid>
+      <pubDate>Tue, 01 Apr 2008 16:00:55 GMT</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/publicdomain/</creativeCommons:license>
+      <category>movies/feature_films</category>
+      <media:group>
+        <media:content url="http://www.archive.org/stream/zero_de_conduite/format=256Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="256"/>
+        <media:content url="http://www.archive.org/stream/zero_de_conduite/format=64Kb+MPEG4" type="video/mp4" medium="video" isDefault="true" expression="full" lang="en" bitrate="64"/>
+        <media:content url="http://www.archive.org/download/zero_de_conduite/format=MPEG1" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:content url="http://www.archive.org/download/zero_de_conduite/format=MPEG2" type="video/mpeg" medium="video" isDefault="true" expression="full" lang="en"/>
+        <media:thumbnail url="http://www.archive.org/download/zero_de_conduite/format=Thumbnail"/>
+      </media:group>
+      <enclosure url="http://www.archive.org/stream/zero_de_conduite/format=64Kb+MPEG4" type="video/mp4" length="111111"/>
+      <media:keywords>Jean Vigo, French, Anarchy:School, Boarding School, 1930's, 30's</media:keywords>
+    </item>
+  </channel>
+</rss>

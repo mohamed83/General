@@ -1,0 +1,341 @@
+Contagious Disease Surveillance | Virus Awareness | Flu Map | HealthMapContagious Disease Surveillance | Virus Awareness | Flu Map | HealthMap
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+ looking for trends...
+
+
+
+
+
+
+Source
+Date
+Summary
+Disease
+Location
+Species
+Cases
+Deaths
+Significance
+
+
+
+
+
+
+
+
+
+
+Settings
+
+Map Style
+
+Show labels High contrast
+
+
+Marker Style
+
+ Clustered  Individual
+
+
+Interface LanguageEnglishEspañolFrançaisPortuguêsРусский中文العربية
+Change your default location
+
+
+
+Email Alerts
+Visit your profile page to set up email alerts.
+
+
+
+
+
+
+
+
+
+
+Outbreaks Near Me 
+Sign up for email alerts 
+Ebola outbreak timeline 
+
+
+
+
+Disease Categories
+Twelve disease categories are used to help you quickly find what you're looking for within your local area. Most of the categories refer to where the disease affects your body, such as Gastrointestinal for cholera or Respiratory for pneumonia. We also keep track of environmental risks (i.e. beach closures due to sewage) and animal diseases (i.e. foxes found with rabies) to provide you a broader picture of diseases in your area.
+The number of alerts in each category determines the order in which they appear in the Outbreaks Near Me section. The category with the greatest number of alerts appears first. Categories that have no alerts in your area are not displayed.
+
+
+
+
+
+Animal
+        Diseases affecting domestic animals, livestock, and wildlife.
+    
+
+
+
+
+
+
+Environmental
+        Changes in the environment that may impact human health (natural/man-made disaster, heat wave, volcanic eruption).
+    
+
+
+
+
+
+
+Fever/Febrile
+        Diseases characterized by a high body temperature (fever).
+    
+
+
+
+
+
+
+Gastrointestinal
+        Diseases causing vomiting, diarrhea, or abdominal cramping.
+    
+
+
+
+
+
+
+Hemorrhagic
+        Diseases causing severe bleeding.
+    
+
+
+
+
+
+
+Hospital Acquired Infection
+        Diseases contracted or primarily spread in health care settings (i.e. hospitals, nursing homes, etc.).
+    
+
+
+
+
+
+
+Neurologic
+        Diseases affecting the nervous system (i.e. brain, spinal cord, or nerves).
+    
+
+
+
+
+
+
+Other
+        Undiagnosed diseases, diseases affecting plants/crops, chronic or parasitic diseases, including those that produce vague symptoms.
+    
+
+
+
+
+
+
+Respiratory
+        Diseases primarily causing symptoms such as cough, congestion, difficulty breathing, etc.
+    
+
+
+
+
+
+
+Skin/Rash
+        Diseases primarily affecting the skin or that produce a rash.
+
+
+
+
+
+
+
+STD
+        Diseases that are associated with or primarily spread through sexual contact.
+    
+
+
+
+
+
+
+Vectorborne
+        Diseases transmitted to people or animals by arthropods including mosquitoes, ticks, flies, and fleas.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+Activity Index 
+
+LowHighCountryLocalMarker ColorMarker color reflects the noteworthiness of events at a particular location during a given time window. An event's degree of noteworthiness is based on the significance rating of the alert provided by HealthMap users. In the absence of user ratings, the system assigns a composite score based on the disease importance and the news volume associated with the alert. If a location's marker has multiple alerts, the color associated with the most prominent alert is used.Marker SizeThe large circle indicates a country-level alert, while state, province and local alerts are indicated by the small circle.
+
+
+
+
+
+
+
+
+
+Map Layers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Diseases
+ Locations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Search
+ Saved Searches
+
+
+Save search
+
+Name
+Description
+
+
+
+New & Ongoing Outbreaks   
+        Warnings   
+        International Significance
+
+Diseases 
+
+All diseases
+
+
+
+Location 
+
+ [change]
+All locations
+
+
+
+
+Source 
+
+All sources
+
+
+
+Species 
+
+All species
+
+
+
+
+Date
+
+
+
+todaypast 2 dayspast 3 dayspast 4 dayspast 5 dayspast 6 dayspast weekpast 2 weekspast 3 weekspast month
+
+from: 
+to: 
+
+
+
+
+
+
+
+
+Alerts from past week
+Coronavirus Surveillance
+Ebola Outbreak 2012
+Avian Influenza (past month)
+Measles - Past Month
+User Submitted Reports
+Highest Rated
+Warnings
+Worldwide Alerts
+
+
+
+
+
+
+
+
+
+
+AboutMobileProjectsDisease Daily
+
+
+
+
+
+
+
+
+Login to HealthMap
+
+Register | Forgot password?
+
+
+

@@ -1,0 +1,396 @@
+Mapping for a Cause: MapGive Ebola Outbreak Mapathon | AidData 3.0Mapping for a Cause: MapGive Ebola Outbreak Mapathon | AidData 3.0
+
+
+
+      Please enable JavaScript for full use of this site.    
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+FacebookTwitterRSSBlogSearch AidData * 
+ 
+
+
+AboutOur StoryAidData is a research and innovation lab that seeks to improve development outcomes by making development finance data more accessible and actionable.Meet the TeamAidData StaffResearch Consortium ScholarsOther Affiliated ResearchersPartner with UsOur PartnershipsAidData and the OECDAidData and IATIWork with UsCareer OpportunitiesShort-Term Opportunities
+
+RELEVANT STATISTICS
+AidData collects, curates, and publishes data on more than $5.5 trillion dollars in development finance from 90 bilateral and multilateral agencies at the project level. All of this information is available in our searchable database of more than one million development finance activities.
+
+
+
+
+754
+Number of geocoded development finance activities in Malawi. 
+
+
+
+
+1,504
+Number of Chinese official development finance projects from 2000-2011.
+
+DataAbout Our DataUse the Sandbox to access AidData's services and data in your applications and visualizations. Contact us and show us what you've built.Access Our DataDashboardMapsStatic DatasetsUser GuideCreate New AppsBuild Your AppUser Apps and Viz GalleryUse AidData's APIAPI DataAPI FlowsAPI AidAPI GISParameter Quick Guide
+
+
+
+
+AidData and Educational Institutions
+AidData values the close collaboration with over 50 universities and think tanks around the world.AidData and its partners boast an impressive workforce that strives to continually improve it's data.
+
+
+
+
+120
+
+Faculty Members Affiliated with AidData
+
+
+
+275
+
+Historical Research Assistants Affiliated with AidData
+
+
+InnovationTrack Emerging DonorsChinese AidNon-DAC DonorsOur MethodologyServices for Non-DAC AgenciesVisualize Aid & DevelopmentGeocodingDisaster Aid DashboardClimate DashboardTotal Resource Flows DashboardListen to Citizen VoicesMalawi Aid MappingUganda CrowdsourcingCenter for Development PolicyAboutAid Management FellowsAidData Research Consortium
+
+
+
+Haiti
+Open Aid Platform forGeocoded Data
+
+
+Malawi, South East Africa
+First GeocodedCountry System
+
+
+Nepal
+First Contract to ShowTransparency of Funding
+
+MapsResearchShape Policy with ResearchAidData Research ConsortiumOther Research TopicsPublicationsBriefsArticles and BooksReports and Working PapersAidData Working Paper SeriesResearch DatasetsAidData Research ReleasesReplication DatasetsGeocoded DatasetsDonor DatasetsResults Monitoring DatasetsUser GuideCiting AidDataData User’s GuideData Sources and CoverageField DescriptionsAidData Activity Scheme
+
+
+
+
+AidData and Research Institutions
+AidData works closely with scholars and policy analysts at more than 50 universities and think tanks around the world. AidData and its partners conduct cutting-edge analysis on the distribution and impact of development finance, among other things.
+
+
+
+120
+Faculty Members Affiliated with AidData
+
+
+275
+Historical Research Assistants Affiliated with AidData
+
+
+92
+Number of Unique Datasets Derived from AidData
+
+Log inAidData RegistrationRegister to have your own account with AidData! Be a part of the AidData research and innovation community. This will let you track your searches, save your maps to your profile, and contribute information (comments or content) directly to project pages.RegisterAidData Member LoginUsername *Password *Forgot Password?Remember User Name  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Articles
+
+
+
+ Sep 11, 2014
+AidData Seeks the Next Generation of Development Research Using Geocoded Data  
+
+ Sep 24, 2012
+Is Foreign Aid Effective? The View from Citizens in a Recipient Country  
+
+
+ Sep 29, 2014
+Redefining Development Cooperation: In Search Of Common Ground  
+
+
+ Jul 24, 2014
+China and the Asian Infrastructure Investment Bank: Toward a Beijing Consensus?  
+
+
+ Sep 22, 2014
+Open Contracting: Going Granular for Increased Transparency and Accountability  
+
+ 
+
+
+
+
+Stay Informed and subscribe to our newsletter. *
+
+
+
+
+ 
+
+
+
+Post Tags
+
+ 
+open data 
+
+This Week 
+
+geo-referencing 
+
+south-south cooperation 
+
+transparency 
+
+aid effectiveness 
+
+data 
+
+USAID 
+
+HESN 
+
+Nepal 
+
+aid 
+
+China in Africa 
+
+behind the curtain 
+
+Development 
+
+open development 
+
+environment 
+
+China 
+
+development assistance 
+
+aid coordination 
+
+research 
+ 
+ 
+
+
+
+
+
+
+
+
+Mapping for a Cause: MapGive Ebola Outbreak MapathonTuesday, September 9, 2014 Author: Haset SolomonAs a geocoder, I spent most of my time combing through copious project documentation looking for precise locations of development activities. Sleuthing for these valuable data points, it was easy to get lost in the details and lose sight of the fact that liberating data can have real-time impact. Last month, several AidData students and I put our GIS skills to work in mapping the Ebola outbreak as part of the MapGive Mapathon. A remote mapping event organized by the Humanitarian OpenStreetMap Team and the Red Cross, the Mapathon brought together 50+ volunteers to aid humanitarian relief respondents fighting the spread of the Ebola virus in West Africa. 
+
+(AidData research assistants at the MapGive Ebola Outbreak Mapathon)
+Since March 2014, the Humanitarian OpenStreetMap (OSM) Team has mobilized a powerful coalition of 1200 volunteer mappers from around the world to help humanitarian workers respond to the Ebola outbreak in a timely and efficient manner. A secret to OSM’s success is its easy to use platform that is accessible to first-time mappers, which makes it possible for a growing number of people to contribute to these efforts and even map an entire city with 20,000 buildings in a day. In combatting the spread of Ebola, volunteers have worked collaboratively to map 62,442 km of highways, 15,124 km of waterways and 500,000 buildings.
+More importantly, these maps are being put to use by health workers and emergency responders on the ground in West Africa trying to meet the needs of people affected by the virus. For example, Red Cross workers that travel from one community to another to raise awareness about Ebola prevention have seen hard copies of maps distributed to health workers from various organizations. Doctors Without Borders has been using the maps to create data visualization on the spread of the epidemic to better allocate medicine and other resources and to coordinate field teams.
+On the day of the MapGive Mapathon, the other volunteers and I received a short training, created an OpenStreetMap (OSM) account and were off and running. Once we selected a specific region of Sierra Leone or Liberia (in OSM this is a “square”), we traced and coded roads, houses, and schools based on satellite imagery. Once you finished one square, you moved on to another, and finally each completed area was reviewed before it went live. The mapping tool was so easy and fun to use that it felt very much like a  game. The Red Cross staff also taught us how to use a new tool for quicker mapping: the JOSM editor. The most meaningful part of the experience was knowing that we were creating something that would actually be put to use only a few hours later.
+
+(OpenStreetMap dashboard: you pick a square on the map and contribute to the effort to locate roads and communities)
+The fight against Ebola is far from over, but it is encouraging to see how combining crowd-sourcing and mapping tools, like OSM does, is one way to contribute to the solution. The effect of mobilizing people in response to the Ebola outbreak is already being felt, as detailed and updated maps equip organizations to more effectively and efficiently coordinate their response to the crisis.
+Haset Solomon was an AidData research assistant and is a recent graduate ('14) of the College of William and Mary.Tags: ebolageocodingWilliam and MaryMapGiveMapathonmapsdatavisualizationJOSMOSMHOTRedCrosshumanitarianGIScrowdsourcingLiberiaSierra Leone
+
+
+
+
+
+
+Add new comment
+ 
+
+
+ 
+ 
+
+
+
+Resources & Tools
+
+
+
+
+  
+ Development Statistics 
+AidData partners with the OECD to incorporate official development statistics from the Creditor Reporting System. 
+
+  
+ A Guide to Using Our Data 
+Want to analyze AidData's high quality development finance data for your next research project? 
+
+  
+ Draw Your Own Conclusions 
+Use our maps to visualize at a glance where development finance is going, analyze gaps in service and identify duplication of efforts.
+ 
+
+  
+ Read Our News and Analysis 
+Visit AidData's blog, First Tranche, to get regular updates on cutting-edge development research and new insights on policy issues.  
+ 
+
+ 
+
+
+
+AidData's research and innovation activities are made possible through collaboration and partnership with
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+Twitter Feed
+
+
+
+
+
+AidData
+RT @GlobalDevLab: #HESN #TechCon is approaching and will be in Berkeley, CA! Have you signed up to join us on the West Coast? http://t.co/8…
+29 min 41 sec ago 
+
+AidData
+#ThisWeek: Time for a #DataRevolution? #2014ATI launch recap + #ProjectPulse in Côte d’Ivoire http://t.co/h21y46fO5F http://t.co/9U01gxSQzV
+1 hour 30 min ago 
+
+Moises Venancio
+@DGateway @AidData @DELNA_LV Thank you
+1 hour 32 min ago 
+
+AidData
+Celebrate @williamandmary's homecoming w @WMitpir & AidData from 11:30-1:30 on Saturday! Info: http://t.co/2hiM9f29P2 http://t.co/Q9r7IkxCYL
+2 hours 29 min ago 
+
+AidData
+Check out new #feedback on the PAIMSC project in #CotedIvoire - add your voice #ProjectPulse http://t.co/Iq3Nb4IHQ3 http://t.co/7PThf4D19q
+3 hours 29 min ago 
+
+AidData
+Non-DAC Series: AidData's Charles Perla & @theharshdesai describe #BRICS & #DAC. #globaldev http://t.co/pVOPJooVIl http://t.co/PZ1kgEWpPy
+4 hours 30 min ago 
+
+ 
+ 
+
+
+Events
+
+
+
+
+
+AidData & Feedback Labs invite you to a breakfast event on Citizen Feedback: Bolstering or Circumventing the Democratic Process?
+    Event Date:     Sep 17, 2014  
+
+ 
+ 
+
+
+News
+
+
+
+
+
+Style or Substance?: The BRICS in the Post-Busan World
+Oct 14, 2014 
+
+This Week: We Need a Revolution! / Project Pulse: Côte d’Ivoire
+Recapping the launch of the 2014 ATI and the Independent Expert Advisory Group's "Data Revolution for Development" comment period, plus, we introduce the third in our Project Pulse: Project in Focus series - Côte d’Ivoire's Post-Crisis Multisector Institutional Support Project.
+Oct 13, 2014 
+
+The Disappearing Act: Foreign Aid to Sinking States
+A humanitarian crisis lurks in the seemingly peaceful palms of the world’s small-island developing states – an estimated 52 island nations will become uninhabitable due to rising sea levels within the next 100 years. 
+Oct 9, 2014 
+
+Why Transparency Matters Series Recap
+Originally posted by InterAction, this recap of the "Why Transparency Matters" blog series includes the NGO Aid Map-hosted Google Hangout from October 6th, 2014.
+Oct 8, 2014 
+
+South-South Cooperation: Providing Context in a Changing Landscape
+Over the last year, AidData has been working to shed light on new and historical sources of foreign development data. In the second post of a 7-part series, we examine South-South Cooperation.
+Oct 7, 2014 
+
+This week: Zombie slaying in #ICT4D / Project Pulse: Focus on Afghanistan
+With the start of October, it’s only fitting that we start off with a conversation about zombies…zombie tech projects that is.
+Oct 6, 2014 
+
+ 
+ 
+
+
+
+Contact Us
+Development Gateway
+1110 Vermont Avenue, NW
+Washington, DC 20005
+Tel. +202.572.9200College of William and Mary
+427 Scotland Street
+Williamsburg, VA. 23185 USA
+Tel. +757.221.5396Brigham Young University
+245 SWKT, Brigham Young University
+Provo, UT 84602 USA
+Tel. +801.422.9041Newsletter
+
+Subscribe to the AidData newsletter *
+
+
+
+
+Follow us
+FacebookTwitterRSS 
+
+Copyright @ 2014, AidData 1110 Vermont Ave., NW, Washington, DC 20005, USADisclaimer & LicensePrivacyCareersEmail Us 
+ 
+ 
+
+

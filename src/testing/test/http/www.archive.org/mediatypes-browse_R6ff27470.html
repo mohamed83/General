@@ -1,0 +1,368 @@
+<html><head>
+ <link rel="stylesheet" href="/stylesheets/archive.css" type="text/css"/>
+ <link rel="SHORTCUT ICON" href="/images/logo-16.jpg"/>
+   <title>Browse Top Level > Texts</title>
+</head>
+<body class="Texts">
+
+<!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td style="width:100px; height:72px; vertical-align:top; background-color:#000000;">
+        <a href="/"><img style="border:0;" alt="(logo)" src="/images/logo.jpg" width="84" height="70"/></a>
+      </td>
+      <td valign="bottom" style="background-image:url(/images/blendbar.jpg);">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+              
+<a href="/web/web.php">Web</a> | 
+<a href="/details/movies">Moving Images</a> | 
+<a class="headerAt" href="/details/texts">Texts</a> | 
+<a href="/details/audio">Audio</a> | 
+<a href="/details/software">Software</a> | 
+<a href="/details/education">Education</a> | 
+<a href="/account/login.php">Patron Info</a> | 
+<a href="/about/about.php">About IA</a>            </td>
+          </tr>
+                    
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:top; text-align: right">
+	<a href="/details//mediatypes-browse.php"><img alt="(navigation image)" src="/images/books-small.jpg" style="margin:0; border:0; vertical-align:top;" /></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/opensource">Open Source Books</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+          
+<!--BEGIN HEADER 3-->
+<table cellspacing="0" width="100%" border="0" cellpadding="0"><tbody>
+          <tr> 
+        <td class="level3HeaderColorBar" colspan="4"></td>
+      </tr>
+        <tr> 
+      <td  class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="/searchresults.php" id="searchform" method="post"><p style="margin:0;padding:0;">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+            <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option  value="movies.animationandcartoons" >&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option  value="movies.artsandmusicvideos" >&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option  value="movies.computersandtechvideos" >&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option  value="movies.culturalandacademicfilms" >&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option  value="movies.ephemera" >&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option  value="movies.moviesandfilms" >&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option  value="movies.newsandpublicaffairs" >&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option  value="movies.foreignlanguagevideos" >&nbsp;&nbsp;&nbsp;&nbsp;Non-English Videos</option>
+<option  value="movies.opensource_movies" >&nbsp;&nbsp;&nbsp;&nbsp;Open Source Movies</option>
+<option  value="movies.prelinger" >&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option  value="movies.sports" >&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option  value="movies.gamevideos" >&nbsp;&nbsp;&nbsp;&nbsp;Video Games</option>
+<option  value="movies.vlogs" >&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option  value="movies.youth_media" >&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option  value="texts.americana" >&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option  value="texts.toronto" >&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option  value="texts.opensource" >&nbsp;&nbsp;&nbsp;&nbsp;Open Source Books</option>
+<option  value="texts.gutenberg" >&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option  value="texts.biodiversity" >&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option  value="texts.iacl" >&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option  value="texts.additional_collections" >&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option  value="audio.audio_bookspoetry" >&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option  value="audio.audio_tech" >&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option  value="audio.GratefulDead" >&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option  value="audio.etree" >&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option  value="audio.audio_music" >&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option  value="audio.netlabels" >&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option  value="audio.audio_news" >&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option  value="audio.audio_foreign" >&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option  value="audio.opensource_audio" >&nbsp;&nbsp;&nbsp;&nbsp;Open Source Audio</option>
+<option  value="audio.audio_podcast" >&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option  value="audio.radioprograms" >&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option  value="audio.audio_religion" >&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option  value="software.clasp" >&nbsp;&nbsp;&nbsp;&nbsp;CLASP</option>
+<option  value="software.tucows" >&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+	  </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:absmiddle; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+                    <a href="/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+                  </p></form>
+      </td>
+
+        <td class="level3Header level3HeaderRight"><a class="backColor1 linkbutton" style="margin-right:15px; color:#fff !important" href="http://www.archive.org/create/">Upload</a><b>Anonymous User</b> <span style="font-size:7pt;">(<a class="level3Header" href="/account/login.php">login</a> or <a class="level3Header" href="/account/login.createaccount.php">join us</a>)</span>&nbsp;</td>    </tr>
+  </tbody></table>
+  <div style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+
+<table style="width:100%;"><tbody><tr><td style="width:2.5%">&nbsp;</td><td style="width:95%">
+
+<div class="box">
+
+
+<h1>Browse: <a class="level2HeaderTexts" href="/mediatypes-browse.php">Top Level</a> &gt; <a class="level2HeaderTexts" href="/mediatypes-browse.php?mediatype=texts">Texts</a> </h1>
+<table style="font: 9pt Arial, Helvetica, sans-serif"  border="0" cellspacing="2" cellpadding="0">
+    <tr valign="top"><td style="width:33%">
+<ul><li><a style="font-weight: bold" href="/mediatypes-browse.php?cat=printable">Printable Books</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=additional_collections">Additional Collections</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=americana">American Libraries</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=ant_texts">Ant Texts</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=arpanet">Arpanet</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=biodiversity">Biodiversity Heritage Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=birney_anti_slavery_collection">Birney Anti-Slavery Collection</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=microfilm">Books from Microfilm</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=Boston_College_Library">Boston College Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=bostonpubliclibrary">Boston Public Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=Brandeis_University">Brandeis University Libraries</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=brown_university_library">Brown University Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=buddha">Buddha Books</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=calacademy">California Academy of Sciences</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=cdl">California Digital Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=CaliforniaFishandGame">California Fish and Game</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=toronto">Canadian Libraries</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=carletonlibrary">Carleton University Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_knox">Caven Library, Knox College</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_crrs">Centre for Reformation and Renaissance Studies Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=iacl">Children's Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=clairetcarneylibrary">Claire T. Carney Library, University of Massachusetts Dartmouth</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=ColumbiaUniversityLibraries">Columbia University Libraries</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=chm_fiche">Computer History Museum</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=cbk">Cook Books and Home Economics</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=danceman">Dance Manuals</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=djo">Dickens Journals Online</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_pratt">E.J. Pratt Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=EarthSciences_UniversityofToronto">Earth Sciences University of Toronto</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_emmanuel">Emmanuel College Library, Victoria University</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=Harvard_University">Harvard University</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=havergal">Havergal College</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=internet_archive_books">Internet Archive Books</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_trinity">John W. Graham Library, Trinity College</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=library_and_archives_canada">Library and Archives Canada</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=MBLWHOI">MBLWHOI Library</a>
+
+</li></ul></td><td style="width:33%">
+<ul><li><a  href="/browse.php?field=subject&mediatype=texts&collection=mcmaster_university">McMaster University</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=memorial_university">Memorial University of Newfoundland & Labrador</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=msn_books">Microsoft</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=millionbooks">Million Book Project</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=mobot">Missouri Botanical Garden</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=montana_state_publications">Montana State Government Publications</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=montana_state_library">Montana State Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=Music_UniversityofToronto">Music - University of Toronto</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=national_institute_for_newman_studies">National Institute for Newman Studies</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=national_library_of_australia">National Library of Australia</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=nhml_london">Natural History Museum Library, London</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=newyorkpubliclibrary">New York Public Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=newspapers">Newspapers</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=ncsulibraries">North Carolina State University Libraries</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=oreilly_books">O'Reilly</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_oise">OISE/UT Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=octavo">Octavo</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=opencontentalliance">Open Content Alliance</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=datadumps">Open Library Data</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=opensource">Open Source Books</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=OXFAM">Oxfam</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_pims">PIMS - University of Toronto</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=prelinger_library">Prelinger Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=gutenberg">Project Gutenberg</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=microfilmreel">Reels of Microfilm</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=ucroho">Regional Oral History Office</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_regis">Regis College Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=getty">Research Library, Getty Research Institute</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=ryerson_university">Ryerson University</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=saint_marys_college">Saint Mary's College of California</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=sanfranciscopubliclibrary">San Francisco Public Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=sloan">Sloan Foundation</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=smithsonian_books">Smithsonian</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=richtest">Test books from California</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=torontotest">Test books from Canada</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=bancroft_library">The Bancroft Library</a>
+
+</li></ul></td><td style="width:33%">
+<ul><li><a  href="/browse.php?field=subject&mediatype=texts&collection=the_beat_within">The Beat Within Magazine</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=boston_college_libraries">The Boston College Libraries</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=blc">The Boston Library Consortium</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=yrlsc">The Charles E. Young Research Library Special Collections</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=TheChristianRadical">The Christian Radical</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=johnadamsBPL">The John Adams Library at the Boston Public Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=Johns_Hopkins_University">The Johns Hopkins University Sheridan Libraries</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=ontla">The Legislative Assembly of Ontario Collection</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=libraryofcongress">The Library of Congress</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=mugar">The Mugar Memorial Library, Boston University</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=NY_Botanical_Garden">The New York Botanical Garden</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=sfpl">The San Francisco Public Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=spanish_texts">The Spanish Language Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_fisher">Thomas Fisher Rare Book Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=toronto_public_library">Toronto Public Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=tufts">Tufts University</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=USGovernmentDocuments">US Government Documents</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=unica">Unica: Rare Books from UIUC</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=universallibrary">Universal Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_california_libraries">University of California Libraries</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=uchicago">University of Chicago</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_guelph">University of Guelph</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_illinois_urbana-champaign">University of Illinois Urbana-Champaign</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=University_of_New_Hampshire_Library">University of New Hampshire Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=unclibraries">University of North Carolina at Chapel Hill</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_ottawa">University of Ottawa</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto">University of Toronto</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_gerstein">University of Toronto - Gerstein Science Information Centre</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_kelly">University of Toronto - John M Kelly Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=university_of_toronto_robarts">University of Toronto - Robarts Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=Wellesley_College_Library">Wellesley College Library</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=worldhealthorganization">World Health Organization</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=yahoo_books">Yahoo!</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=independent">independent texts</a>
+
+</li><li><a  href="/browse.php?field=subject&mediatype=texts&collection=marcuslucero">the Marucs Lucero</a>
+
+</li></ul></td></tr>
+</table>
+
+</div><!--end class=box-->
+
+</td><td>&nbsp;</td></tr></tbody></table>
+
+
+<hr style="clear:both;"/>
+<p id="iafoot" style="width:100%; text-align:center; font:Arial; font-size:7pt;">
+  <a href="/about/terms.php">Terms of Use (10 Mar 2001)</a>
+</p>
+</body></html>

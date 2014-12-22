@@ -1,0 +1,208 @@
+Tracking the Ebola outbreak in near real-time: HealthMap, ProMED and other tools — VectorTracking the Ebola outbreak in near real-time: HealthMap, ProMED and other tools — Vector
+
+
+
+
+Home
+About
+Bloggers
+Want to blog?
+Print Archives
+ Vector
+Boston Children's Hospital's science and clinical innovation blog
+
+
+Home
+About
+Bloggers
+Print Archives
+
+
+
+
+
+
+
+
+Tracking the Ebola outbreak in near real-time: HealthMap, ProMED and other tools
+by Tom Ulrich on August 7, 2014
+
+
+
+
+This interactive map of the Ebola outbreak, produced by HealthMap, paints a picture of the epidemic's course from its first public signs in March. Mouse around, scroll down, zoom and explore. And click play to see how events have unfolded thus far.
+
+Sobering news keeps coming out of the West African Ebola outbreak. According to numbers released on August 6, the virus has sickened 1,711 and claimed 932 lives across four nations. The outbreak continues to grow, with a high risk of continued regional spread, according to a threat analysis released by HealthMap (an outbreak tracking system operated out of Boston Children’s Hospital) and Bio.Diaspora (a Canadian project that monitors communicable disease spread via international travel).
+“What we’ve seen here—because of inadequate public health measures, because of general fear—is [an outbreak that] truly hasn’t been kept under control,” John Brownstein, PhD, co-founder of HealthMap and a computational epidemiologist at Boston Children’s Hospital, told ABC News. “The event started, calmed down and jumped up again. Now, we’re seeing movement into densely populated areas, which is highly concerning.”
+If you’re interested in keeping tabs on the outbreak yourself, there are several tools that can help.
+
+HealthMap’s Ebola map. The HealthMap team is maintaining a dedicated, interactive map and timeline of the epidemic at healthmap.org/ebola (embedded at the top of this post). Both map and timeline are regularly updated as new information becomes available, as is the HealthMap Twitter account.
+ProMED. The International Society for Infectious Disease, a non-profit organization for infectious and emerging disease research, operates ProMED, a disease news monitoring service that tracks outbreaks of human and veterinary infectious diseases. ProMED (short for Program for Monitoring Emerging Diseases) has been sending out regular email and Twitter alerts about the Ebola outbreak since it was first noticed in March.
+US Centers for Disease Control and Prevention (CDC). The CDC is regularly posting updated news and patient counts—as well as travel and preparedness guidance and other information about the virus—on both their website and Twitter.
+World Health Organization (WHO). The WHO’s Global Alert and Response system is providing regular updates on disease spread and control efforts. The organization is also distributing updates via its Twitter feed.
+
+ 
+
+Tagged as:
+						digital disease detection, 
+						digital epidemiology, 
+						Ebola, 
+						HealthMap
+
+Leave a comment 
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Related posts:
+Tweeting and more for public health: Q&A with a digital disease detective
+Tracking vaccine misconceptions–by mining online data
+Healthy Olympics 2012: Disease surveillance and mass gathering medicine
+Tweeting in the time of cholera
+Digital disease detection: Public health by the “web kids”
+
+
+
+
+
+
+
+
+
+Previous post: Digital health: The next blockbuster
+Next post: Bhutta: $13 ‘nonsense’ innovation makes a huge impact
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Subscribe via email 
+
+
+For real-time updates, enter your email address:
+
+
+
+Vector Buzz 
+Tweets about "vectorblog"
+
+
+ Thriving blog postsJasper and the unwelcome party guest: An unforgettable appendicitis experienceRemembering one of Boston Children’s earliest liver transplants8 common child health myths bustedClearing up the confusion about Enterovirus D68 and paralysisImproving the health and daily lives of children with asthma 
+ 
+
+
+
+
+
+
+
+
+Featured topics 
+All Posts
+
+Devices
+
+Diagnostics
+
+Drug discovery
+
+Ethics and policy
+
+Global health
+
+Information technology
+
+Innovators' stories
+
+Market trends
+
+Orphan diseases
+
+Pediatrics
+
+Personalized medicine
+
+Regenerative medicine
+
+TEDMED
+
+Uncategorized
+
+
+Sites we like 
+Boston Children’s Hospital
+Technology and Innovation Development Office at Boston Children’s
+Innovation Acceleration Program at Boston Children’s
+The Stem Cell Program at Boston Children’s
+Program in Cellular and Molecular Medicine @Children’s
+HealthMap
+CIMIT blog
+CommonHealth: Reform And Reality (WBUR.org)
+Harvard-MIT Health Sciences and Technology
+Gene Therapy Net
+ibridge blog
+Massachusetts Biotechnology Council
+MassDevice
+Massachusetts Life Sciences Center
+Medgadget Blog
+TEDMED
+Xconomy
+Big Think
+Discover Blogs
+Guardian Science Blogs
+PLoS Blogs
+Science Blogs
+Sciencetopia
+Wired Science Blogs
+
+
+ 
+
+View all upcoming events
+Boston Children's Hospital Calendar
+Harvard Medical School Calendar
+
+
+ 
+
+
+
+
+Vector is published by Boston Children's Hospital. © Boston Children's Hospital. All rights reserved.
+All information provided on diagnosis and therapy reflects the care environment of Boston Children's Hospital and related physician practices. It is not a substitute for the professional judgment of a qualified heath care provider based upon actual examination of a patient's condition and history. Therefore, it should not be construed as medical advice for any particular patient's condition, and may need to be altered in different care environments. Please contact us if we can be helpful in answering any questions or to arrange for a visit or consult.
+ WordPress Admin
+
+
+
+
+
+
+
+
+
+

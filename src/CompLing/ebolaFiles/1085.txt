@@ -1,0 +1,816 @@
+Artificial spleen cleans up blood - Scientific AmericanArtificial spleen cleans up blood - Scientific American
+
+
+ADVERTISEMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In | Register
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscription Center
+Every Issue. Every Year. 1845-Present. 
+Save up to 65% when you subscribe today. 
+The perfect gift for any holiday or occasion. 
+
+
+Subscribe to All Access »
+Subscribe to Print »
+Give a Gift »
+View the Latest Issue »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+News & Features
+
+Latest Stories
+Ask the Experts
+Fact or Fiction
+Extreme Tech
+Features
+Forum
+In-Depth Reports
+Interactive Features
+Mind Matters
+News
+Science Images
+Slide shows
+
+
+
+Topics
+
+Energy & Sustainability
+Evolution
+Health
+Mind & Brain
+Space
+Technology
+More Science
+Biology
+Chemistry
+Physics
+All topics
+
+
+
+Blogs
+
+Staff Blogs
+MIND Blog Network
+From Our Network
+
+
+
+Videos & Podcasts
+
+Video
+SA's The Countdown
+60-Second Science Podcast
+60-Second Earth Podcast
+60-Second Health Podcast
+60-Second Mind Podcast
+60-Second Space Podcast
+60-Second Tech Podcast
+Science Talk Podcast
+
+
+
+Education
+
+Science in Action Award
+Bring Science Home
+Citizen Science
+Digital Education Report
+Professional Learning
+1,000 Scientists in 1,000 Days
+Search for Scientists/Educators
+Scientist Sign Up
+Educator Sign Up
+Participant Dashboard
+Education Resources
+
+
+
+Citizen Science
+
+Whale-Song Project
+Solve Innovation Challenges
+
+
+
+SA Magazine
+
+
+
+
+
+
+Subscribe
+Give as a Gift
+Buy Single Issues
+
+
+
+Inside the Latest Issue
+
+Features
+Advances
+50, 100 & 150 Years Ago
+Anti Gravity
+Forum
+Graphic Science
+The Science Agenda
+The Science of Health
+Skeptic
+TechnoFiles
+Recommended
+Archive
+Special Editions
+
+
+
+
+More from SA:
+
+
+
+
+
+
+Classics
+
+
+
+
+
+
+
+Briefings
+
+
+
+
+
+
+
+Mobile
+
+
+
+
+
+
+
+
+SA Mind
+
+
+
+
+
+
+Subscribe
+Give as a Gift
+Buy Single Issues
+
+
+
+SA Mind Home Page
+SA Mind Blog Network
+Inside the Latest Issue
+
+Features
+Head Lines
+Ask the Brains
+Consciousness Redux
+Facts and Fictions in Mental Health
+Illusions
+Mind in Pictures
+Perspectives
+We're Only Human
+Reviews and Recommendations
+Archive
+Special Editions
+
+
+
+
+
+Books
+
+SA/FSG Books
+Scientific American eBooks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Health
+
+»
+
+
+
+Nature
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+This article is from the In-Depth Report
+
+Ebola: What You Need to Know
+
+
+
+
+
+Artificial Spleen Cleans Ebola from Blood
+
+
+The newly developed device improves survival in rats after severe infections with everything from E. coli to Ebola
+
+
+
+
+
+
+
+September 14, 2014
+|By Sara Reardon and Nature magazine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Staphylococcus aureus
+Credit: Harvard’s Wyss Institute
+
+
+
+
+Researchers have developed a high-tech method to rid the body of infections — even those caused by unknown pathogens. A device inspired by the spleen can quickly clean blood of everything from Escherichia coli to Ebola, researchers report on September 14 in Nature Medicine.
+Blood infections can be very difficult to treat, and can lead to sepsis, an often-fatal immune response. More than 50% of the time, physicians cannot diagnose the cause of an infection that has prompted sepsis, and so they resort to antibiotics that attack a broad range of bacteria. This approach is not always effective, and can lead to antibiotic resistance in bacteria.
+In search of a way to clear any infection, a team led by Donald Ingber, a bioengineer at the Wyss Institute for Biologically Inspired Engineering in Boston, Massachusetts, developed an artificial 'biospleen' to filter blood.
+The device uses a modified version of mannose-binding lectin (MBL), a protein found in humans that binds to sugar molecules on the surfaces of more than 90 different bacteria, viruses and fungi, as well as to the toxins released by dead bacteria that trigger the immune overreaction in sepsis.
+The researchers coated magnetic nanobeads with MBL. As blood enters the biospleen device, passes by the MBL-equipped nanobeads, which bind to most pathogens. A magnet on the biospleen device then pulls the beads and their quarry out of the blood, which can then be routed back into the patient.
+Spleen screen
+To test the device, Ingber and his team infected rats with either E. coli or Staphylococcus aureus and filtered blood from some of the animals through the biospleen. Five hours after infection, 89% of the rats whose blood had been filtered were still alive, compared with only 14% of those that were infected but not treated. The researchers found that the device had removed more than 90% of the bacteria from the rats' blood. The rats whose blood had been filtered also had less inflammation in their lungs and other organs, suggesting they would be less prone to sepsis.
+The researchers then tested whether the biospleen could handle the volume of blood in an average adult human — about 5 liters. They ran human blood containing a mixture of bacteria and fungi through the biospleen at a rate of 1 liter per hour, and found that the device removed most of the pathogens within five hours.
+That degree of efficacy is probably enough to control an infection, Ingber says. Once the biospleen has removed most pathogens from the blood, antibiotics and the immune system can fight off remaining traces of infection — such as pathogens lodged in the organs, he says.
+Ingber says that the biospleen could also help to treat viral diseases such as HIV and Ebola, in which survival depends on lowering the amount of virus in the blood to a negligible level. His group is now testing the biospleen on pigs.
+Nigel Klein, an infection and immunity expert at University College London, says that the biospleen could also allow diagnosticians to collect samples of a pathogen from the blood and then culture it to identify it and determine what drugs will best treat it. As blood transfusion and filtration are already common practices, he expects that the biospleen could move into human clinical trials within a couple of years.
+This article is reproduced with permission and was first published on September 14, 2014.
+
+
+
+
+
+
+
+
+
+Share this Article:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+Oldest - Newest
+Newest - Oldest
+
+
+
+
+New Comment
+You must sign in or register as a ScientificAmerican.com member to submit a comment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More from Scientific American
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADVERTISEMENT
+
+
+
+
+
+
+
+Latest News
+
+
+Most Read
+
+
+
+
+
+
+What's Behind Recent Flurry of Hurricane Activity?
+
+
+
+
+
+
+How Did a Dallas Nurse Catch Ebola?
+
+
+
+
+
+
+EPA Approves Dow's Enlist Herbicide for GMOs
+
+
+
+
+
+
+What’s Your Favorite Vintage Gadget?
+
+
+
+
+
+
+Cancer: Winning the War? [Video] - The 64th Annual Lindau Meeting
+
+
+
+
+
+
+
+
+Strange but True: Drinking Too Much Water Can Kill - Scientific American
+
+
+
+
+
+
+
+The Truth about Genetically Modified Food - Scientific American
+
+
+
+
+
+
+
+Why does lactic acid build up in muscles? And why does it cause soreness? - Scientific American
+
+
+
+
+
+
+
+How Has Stephen Hawking Lived to 70 with ALS? - Scientific American
+
+
+
+
+
+
+
+What Are the 10 Greatest Inventions of Our Time? - Scientific American
+
+
+
+
+
+
+
+
+
+Follow Us:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See what we're tweeting about
+Scientific American Contributors
+
+
+
+ sciamblogs A Wild Idea: Save Tasmanian Devils While Controlling Killer Cats http://t.co/FQ3xngwrL1
+4 minutes ago · reply · retweet · favorite
+
+
+ jfischman RT @RichMonastersky: One university's grand experiment in altering the research paradigm. @jfischman investigates #ASU for @NatureNews...
+4 minutes ago · reply · retweet · favorite
+
+
+ jfischman @debbieponchner De nada.
+5 minutes ago · reply · retweet · favorite
+
+More »
+
+
+
+
+Solve Innovation Challenges
+
+
+Pseudoephedrine #3:  Outsmarting Methamphetamine Producers
+
+
+Deadline: Nov 20 2014 
+Reward: $100,000 USD
+
+ The Seeker desires a method for formulating pseudoephedrine products in such a way that it will be extremely difficult for clandestine c
+
+
+NIH Single Cell Analysis Challenge: Follow That Cell
+
+
+Deadline: Dec 15 2014 
+Reward: $100,000 USD
+
+ Many biological experiments are performed under the assumption that all cells of a particular “type” are identical. However, recent data
+
+
+More Challenges »
+Powered By: 
+
+ADVERTISEMENT
+ 
+
+
+Latest from SA Blog Network
+
+
+Middle Schoolers Develop App to Help Visually Impaired
+
+Voices|1 hour ago
+
+
+
+Wordless Wednesday: #madwriting all the live long day
+
+The Urban Scientist|3 hours ago
+
+
+
+Scientific American Online Now Speaks Spanish
+
+STAFF
+@ScientificAmerican|6 hours ago
+
+
+
+CDC Launches Ebola Response Team
+
+STAFF
+Observations|20 hours ago
+
+
+
+Quest for Intelligence Genes Churns Out More Dubious Results
+
+Cross-Check|23 hours ago
+
+
+
+
+
+News From Our Partners
+
+
+
+EPA Approves Dow's Enlist Herbicide for GMOs
+
+
+
+Cancer: Winning the War? [Video] - The 64th Annual Lindau Meeting
+
+
+
+Red Planet Spacecraft Prepare For Rare Comet Encounter
+
+
+
+Better Logging Could Slow Global Warming
+
+
+
+
+ADVERTISEMENT
+
+
+ADVERTISEMENT
+
+
+
+Science Jobs of the Week
+
+
+Postdoc in Cell Signaling in Hematopoetic Stem Cells
+Cincinnati Children's Hospital Medical Center
+
+
+
+Assistant, Associate or Full Professor
+University of Michigan
+
+
+
+Certified Genetic Counselor
+Oregon Health & Science University (OHSU)
+
+
+
+More jobs from Naturejobs.com »
+
+
+
+
+
+
+
+
+YES! Send me a free issue of Scientific American with no obligation to continue the subscription. If I like it, I will be billed for the one-year subscription.
+
+Subscribe Now
+
+
+
+Scientific American is a trademark of Scientific American, Inc., used with permission
+
+© 2014 Scientific American, a Division of Nature America, Inc.
+
+View Mobile Site
+All Rights Reserved.
+
+
+
+Advertise
+Special Ad Sections
+SA Custom Media and Partnerships
+Science Jobs
+Partner Network
+International Editions
+Travel
+
+
+About Scientific American
+Press Room
+Site Map
+Terms of Use 
+Privacy Policy
+Use of Cookies
+
+
+Subscribe
+Renew Your Print Subscription
+Print Subscriber Customer Service
+Buy Back Issues
+FAQs
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+Back to School Sale!
+
+
+12 Digital Issues + 4 Years of Archive Access just $19.99
+
+
+Order Now > 
+
+X
+
+
+
+
+Email this Article
+
+
+
+
+
+
+
+Your Name
+
+
+
+Your Email Address
+
+
+
+Recipient's Email Address (separate multiple addresses with a comma)
+
+
+
+Comment (optional)
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

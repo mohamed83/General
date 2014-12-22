@@ -1,0 +1,393 @@
+Ebola: Bringing mHealth to bear | mHealthNewsEbola: Bringing mHealth to bear | mHealthNews
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Skip to main content
+Skip to navigation
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search this site: 
+
+
+
+
+
+
+
+
+
+
+
+
+News
+Blog
+White Papers
+Webinars
+Events
+Media
+ 
+
+
+
+Policy
+Security
+Global
+Innovation
+Clinical
+Consumer 
+ 
+
+
+ 
+
+ 
+
+Ebola: Bringing mHealth to bear 
+
+August 19, 2014 | Eric Wicklund - Editor, mHealthNews
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Ebola epidemic in West Africa has so far affected more then 2,200 people and killed more than 1,200, and shows no signs of abating. The virus is contagious (through contact with bodily secretions) and can take days to show itself, making it difficult to contain.Can mHealth be brought to bear on this epidemic?From IBM's $100 million project to use the Watson supercomputer to tackle some of Africa's problems to local healthcare workers using smartphones to communicate and share diagnostics, mobile healthcare tools are making their presence known on what can no longer really be called the Dark Continent. But the Ebola epidemic is pushing that technology to the forefront.An online database called HealthMap, created by Harvard Medical School and Boston Children's Hospital, is being credited as one of the first to identify the outbreak this past March in Guinea. Upon its launch in 2006, this tool – drawing data from a wide variety of online sources – was envisioned as a means for epidemiologists and health workers to track infectious diseases.But while HealthMap draws upon news reports, social networking and public health conversations to flesh out its map, providers want a more accurate accounting of the epidemic's reach. And they're taking a look at point-of-care mobile diagnostics.[Q&A: How IBM and Apple expect hospitals to use their mobile platform.]Four Sierra Leone-based doctors, writing in The Lancet this past July, said access to new diagnostic and data-sharing technologies will help healthcare workers battle the epidemic on the ground, where both they and their resources are thin but smartphones are plentiful."Our laboratory and others in the region have shown that routine syndromic surveillance systems can be designed to rely on mobile phones which have become ubiquitous in West Africa," the doctors wrote. "Open-source software programs that receive and send bulk SMS messages can be used for communication with populations and peripheral health centers. Digitalized maps can be created with available satellite images, and distinctions between residential and unoccupied buildings can be added to an open-source geographic information system (GIS) to improve the accuracy of case mapping."Existing and emerging technologies can help with early warning systems, response to outbreaks, communication back-and-forth between doctors, as well as wildlife and veterinary professionals and enable that manner of communication among local officials on the scene and international health authorities, according to the doctors Rashid Ansumana, Jesse Bonwitt, David A. Stenger and Kathryn H. Jacobsen (A U.S.–based specialist) who wrote the Lancet article."The ongoing West African Ebola outbreak serves as a call to ensure access to needed diagnostic technologies and healthcare resources, to accelerate the implementation of smartphone-based health applications in developing countries, and to improve regional and global surveillance and health communication," they concluded.Previous12NextSingle Page 
+Topics: Global, Innovation, Clinical 
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+View the discussion thread.
+Events & Conferences
+
+IBM Health and Social Programs Summit | Oct. 20-21 | Washington, DCBig Data & Healthcare Analytics, Boston, Nov. 20-21mHealth Summit: December 7-10Venture+ Forum: December 7 
+ 
+
+BLOGS
+
+
+
+
+
+
+ mHealth and the disruptive shift to systems of engagement 
+
+By Jeff Rowe
+
+		After decades of creating systems of record, the healthcare industry is amid a transformation to an... More 
+
+ 
+
+
+
+ Dissecting the mHealth storage dilemma: Cloud or on-site? 
+
+By Lindy Benton
+
+		The headlines are endless and ever growing: Healthcare data is at risk. More 
+
+ 
+
+
+
+ mHealth and the evolving priorities of the healthcare provider 
+
+By John Senall
+
+		In the expanding world of mobile-integrated patient and provider communications, organizations are... More 
+
+ 
+
+
+
+View All Blogs
+
+
+ 
+ 
+
+White Papers and Webinars
+
+Clinical Mobility: Increasing the ROI of EHRs and Empowering PatientsEnhance Usability to Improve EHR Return on InvestmentLeveraging Mobile Technology to Reduce Hospital ReadmissionsCisco Well, Issue 2 – Improving the Patient Experience 
+ 
+
+
+
+
+
+
+Video
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Michael Boyd on BYOD, security and compliance
+Michael Boyd, CISO at Providence Health & Services, discusses the BYOD movement and the impact on security and compliance.
+WATCH: 2014 Privacy & Security Forum San Diego Video Highlights
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+MOST POPULAR
+
+
+
+
+
+News
+Blogs
+Resources
+Events
+Media
+
+
+
+Infographic: How GoogleFit, HealthKit and Sami all stack upStanford launches research center for wearablesMaking patient engagement meaningful (to the doctor)BlackBerry courting healthcare with Passport phoneApple's HealthKit is (finally) hereDoctors, insurers could fuel wearable useApple's HealthKit is apparently ready for trialsWill Apple's new health app bridge the gap between consumer engagement and mobile health?Ebola: How cloud, mHealth and ICD-10 could helpTelemedicine also may cut costs and improve outcomes in acute care managementPredictions: What mHealth might achieve by 2020Apple Watch is going to measure heart rate. So what?Developing a Safety Culture in the Healthcare WorkplaceLeveraging Mobile Technology to Reduce Hospital ReadmissionsClinical Mobility: Increasing the ROI of EHRs and Empowering PatientsCisco Well, Issue 2 – Improving the Patient ExperienceEnhance Usability to Improve EHR Return on InvestmentCoordinating Care Across The Healthcare Continuum: The Value and Importance of a Connected Healthcare PlatformBody Computing 8.02014 Medical Informatics World Conference10 mobile apps for evidence-based medicineRick Krohn on the mHealth revolutionMichael Boyd on BYOD, security and compliancePatrick Soon-Shiong on NantHealthMartha Wofford of Aetna at mHealth Summit 2013Michael Fergusson of Ayogo at mHealth Summit 2013 
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+CONNECT WITH mHIMSS
+
+
+  
+
+
+ 
+
+
+
+
+
+
+Picking up the tab for #telemedicine http://t.co/T3lFfi6jMA << Find out why more #payers are doing so 
+
+8 weeks 6 days ago-reply-retweet-favorite
+
+ 
+
+
+
+Just how far in usage and savings can #telemedicine take U.S. #healthcare? http://t.co/D6io4YSk1C 
+
+8 weeks 6 days ago-reply-retweet-favorite
+
+ 
+
+
+
+Hollywood meets #healthtech in #wearables for Parkinson's http://t.co/k9ycU1sNoH << @MichaelJFoxOrg & @intel team up 
+
+8 weeks 6 days ago-reply-retweet-favorite
+
+ 
+
+
+
+Apple hints more about HealthKit and #hospitals http://t.co/YrzKf1BEZa #mHealth 
+
+8 weeks 6 days ago-reply-retweet-favorite
+
+ 
+
+
+
+.@googleglass "on steroids" http://t.co/HuaTANBUWc << Enabling touch-less commands & navigation important for #healthcare use 
+
+9 weeks 7 min ago-reply-retweet-favorite
+
+ 
+
+Follow @mHealth_News on Twitter
+
+
+ follow @mHIMSS on LinkedIn
+
+ 
+
+
+
+
+
+
+ 
+
+Press Releases
+
+Study shows Leaf Healthcare wearable sensor dramatically improves compliance with pressure-ulcer prevention effortsPlushCare, the virtual health concierge, connects patients with medical care from their smartphoneIngenious Med mobile developers win Mobility Live Hack-Back InvitationalMobile Heartbeat and AirStrip Form technology partnershipStat Doctors develops physician app to enhance eHealth delivery, coordinated careWireless Health 2014 conference to air advances in mobile health
+View all Press Releases
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+			About
+
+Contact Us Advertising Information Editorial Masthead Privacy Policy Reprints & Permission
+
+
+
+			Affiliate Sites
+
+HIMSS Healthcare IT News HIMSS JobMine Healthcare Finance News
+
+Healthcare Payer News Medical Practice Insider Government Health IT HIMSS Insights
+
+HIEWatch ICD-10 Watch ICD-10 Playbook
+
+
+
+			Topics
+
+Policy Privacy & Security Global
+
+Innovation ClinicalConsumer
+
+
+
+			©   mHealth News is a publication of HIMSS Media.
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+Advertisement. Closing in 15 seconds.
+
+
+
+
+
+

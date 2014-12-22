@@ -1,0 +1,241 @@
+Estimating the fatality of the 2014 West African Ebola Outbreak | HealthMapEstimating the fatality of the 2014 West African Ebola Outbreak | HealthMap
+
+Skip to main content
+
+
+
+
+
+
+
+The Disease Daily
+About
+Authors
+DD on Take Part
+
+
+
+
+
+
+ Commentary
+
+
+
+Commentary: Thoughtful insight on the infectious disease scene.
+
+
+
+
+Epidemics MOOC: Expanding Free Access to Education
+September 24, 2014
+MOOCs (Massive Open Online Courses) have been heralded as the future of learning. The New York...
+ 
+
+
+Polio: What Happens to a Vaccine-Preventable Disease When Vaccination Is Prevented?
+July 18, 2014
+Polio is a highly infectious disease that mainly affects children under age five and leads to...
+ 
+
+ 
+
+
+ Series
+
+
+
+Series: In depth looks at infectious disease topics.
+
+
+
+
+VacciNerds Explain: 5 things you probably didn't know about vaccines
+September 9, 2014
+You might have noticed, but we changed our name. We could tell you that we wanted to find something...
+ 
+
+
+Just the Vax, Please: Is everyone skipping vaccines?
+August 25, 2014
+August is National Immunization Awareness Month. To celebrate, we are going to tackle a myth about...
+ 
+
+ 
+
+
+ Research & Policy
+
+
+
+Research & Policy: Intelligible summaries of current infectious disease research and health policies.
+
+
+
+
+Estimating the fatality of the 2014 West African Ebola Outbreak
+September 10, 2014
+Estimating the fatality of the 2014 West African Ebola Outbreak
+"Case fatality rate" - or CFR - is...
+ 
+
+
+World Hepatitis Day 2014
+July 28, 2014
+Monday, July 28 marks World Hepatitis Day, a global public health campaign led by the WHO to raise...
+ 
+
+ 
+
+
+ Outbreak
+
+
+
+Outbreak: Daily coverage on breaking infectious disease news from all over the world.
+
+
+
+
+Enterovirus D68 and Paralysis
+October 3, 2014
+An increasing number of reports have surfaced regarding ‘polio-like’ symptoms in children, leading...
+ 
+
+
+Ebola Case Counts: Who knows? WHO knows.
+October 2, 2014
+ 
+There has been significant frustration over the availability and accuracy of Ebola case count...
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Estimating the fatality of the 2014 West African Ebola Outbreak
+
+Sep 10, 2014 | Maia Majumder |             Outbreak News Research & Policy 
+
+
+
+Flickr - NIAID
+by
+    
+
+Maia Majumder
+
+    
+
+Estimating the fatality of the 2014 West African Ebola Outbreak
+"Case fatality rate" - or CFR - is a term that's been tossed around a lot lately in the context of the 2014 West African Ebola outbreak… But what does it really mean?
+The CFR – which is calculated by dividing the number of deaths that have occurred due to a certain condition by the total number of cases – is actually a measure of risk. For infectious disease, CFR is a very important epidemiological measure to estimate because it tells us the probability of dying after infection. If estimated properly in the middle of an outbreak, it can even help us examine the efficacy of interventions as they take place.
+Because different outbreaks of the same disease can demonstrate different CFRs, there’s usually a range of possible CFRs for a given disease. In the past, outbreaks caused by Zaire ebolavirus have demonstrated a mean end-of-outbreak CFR of 80% [1]... But based off of the WHO's most recent report, it seems that only about 53% of reported Ebola cases thus far have ended in death since the 2014 outbreak began.
+However, if we want to be particular, that 53% isn't really a CFR; it's actually the proportion of fatal cases - or PFC. This is a critical distinction. Because the outbreak in West Africa is still ongoing, we can't calculate end-of-outbreak CFR yet. We don’t know how many people will die from Ebola in the weeks ahead or how many total cases will ultimately accumulate by the end of the outbreak. So, for the time being, we have to make do with the PFC, which is essentially the number of deaths thus far divided by the number of cases to date.
+When the WHO releases a report on the current situation in West Africa, it tells us two things: the number of people who've died and the number of reported cases at some specified point in time. For instance, in the most recent report, the WHO cited 4293 total cases and 2296 deaths as of September 8th. Dividing 2296 by 4293 gives us our previously stated PFC of 53%.
+At first glance, it might seem then that only 53% of Ebola cases have been dying during this outbreak - a good deal less than the 80% we've seen prior... But what it really means is that only 53% of Ebola cases have died as of September 8th. We have no way of knowing whether all the people who were still hospitalized as of September 8th will survive the disease. Because of this, mid-outbreak PFC - as we've defined it thus far - doesn't tell us much about the likelihood of dying [2].
+Despite Ebola’s frightening reputation, not all Ebola fatalities happen quickly. Without a little fine-tuning, PFC doesn't account for the lag between when a case is reported and when a case dies - approximately 16 days for this outbreak [3]. What this means is that the 2296 deaths reported as of September 8th were all likely reported as cases by August 23rd. Adjusting PFC for this lag-time gives us a much better approximation of CFR well before the outbreak ends [4].
+Below is a chart that shows both unadjusted and lag-adjusted PFC over time for Ebola in West Africa [5]. The lag-adjusted PFC - about 80-85% - is significantly higher than the unadjusted PFC but is consistent with recent fatality estimates by Médecins Sans Frontières [6]. This finding reiterates the magnitude of this outbreak – not only in terms of scale, but also lethality. In light of this new estimate, a stronger global effort is all the more imperative.
+
+Notes:
+[1] Range: [47%, 90%]; Min: DRC 2008-2009 (N = 32); Max = Congo 2002-2003 (N = 143)
+[2] As an outbreak reaches its end, PFC approaches CFR.
+[3] Assessed using a novel variance optimization method that will be further elaborated elsewhere.
+[4] Generally, lag-adjusted PFC approximates CFR when assuming limited variance in fatality over the course of the outbreak.
+[5] Unadjusted PFC: Mean = 61%, SD = 6%, CV = .093; Lag-Adjusted PFC: Mean = 81%, SD = 7%, CV = .086
+[6] Both unadjusted and lag-adjusted PFC estimates are specific to the population of cases that are reported to the WHO. They do not take into account unreported cases and deaths, nor differential post-mortem lab-confirmation practices among hospitals.
+
+Post a Comment guidelines 
+
+The Disease Daily encourages comments on posts and hopes to foster and maintain respectful, informative and insightful conversation. Editors at The Disease Daily have created general guidelines for commenting. All comments are read by members of the editorial team before they are published. Editors reserve the right to hold or delete comments that do not abide by these guidelines. If you have posted a comment that has not appeared within one week, and you are sure that it does not violate the guidelines, please contact The Disease Daily.
+Guidelines
+
+Comments using language that discriminates based on race, religion, gender, sexual orientation or ethnicity will not be published and will be promptly deleted from the queue.
+Comments that attack writers and other users will be deleted.
+Comments are to be published for noncommercial purposes. Comments that solicit or promote businesses will be deleted.
+Please limit the use of links in your comments. Comments with certain links will appear to be spam and will be held from publishing and/or deleted.
+Comments are the opinions of the commenter and do not imply endorsement by the Disease Daily.
+
+
+
+Your name 
+
+
+
+Comment *
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+Ebola Update: DR Congo Confirms New Outbreak
+The fight against the Ebola outbreak in Western Africa has become an increasingly uphill battle as...    
+
+Ebola: To Quarantine or Not to Quarantine
+Throughout the current Ebola outbreak in West Africa, there have been reports of voluntary and...    
+
+Ebola 2014: A Rapid Threat Assessment
+Since it was identified in 1976 during simultaneous outbreaks in Sudan and the Democratic Republic...    
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+Total Views 30,009 Views Today 450
+ Ebola ,  West Africa  
+
+ 
+
+
+
+
+
+
+
+
+
+About
+Projects
+Mobile
+Disease Daily
+
+
+
+
+
+
+
+
+
+ 
+
+
+

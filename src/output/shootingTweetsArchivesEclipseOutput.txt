@@ -1,0 +1,287 @@
+select text from twapperkeeper_2.z_40 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+46780
+cleaned
+35159
+Unique URLs dic created
+21102
+2194
+570
+urls expanded
+570
+317
+select text from twapperkeeper_2.z_41 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+136906
+cleaned
+26483
+Unique URLs dic created
+18225
+1866
+300
+urls expanded
+300
+224
+select text from twapperkeeper_2.z_42 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+80171
+cleaned
+10008
+Unique URLs dic created
+6336
+639
+507
+urls expanded
+507
+304
+select text from twapperkeeper_2.z_43 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+5060
+cleaned
+2280
+Unique URLs dic created
+1644
+220
+199
+urls expanded
+199
+159
+select text from twapperkeeper_2.z_44 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+18498
+cleaned
+11960
+Unique URLs dic created
+8154
+835
+789
+urls expanded
+789
+590
+select text from twapperkeeper_2.z_45 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+23462
+cleaned
+21191
+Unique URLs dic created
+12709
+1442
+163
+urls expanded
+163
+94
+select text from twapperkeeper_2.z_55 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+4626
+cleaned
+4568
+Unique URLs dic created
+3267
+314
+284
+urls expanded
+284
+190
+select text from twapperkeeper_2.z_72 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+445
+cleaned
+437
+Unique URLs dic created
+327
+20
+16
+urls expanded
+16
+12
+select text from twapperkeeper_2.z_78 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+3585
+cleaned
+3550
+Unique URLs dic created
+2281
+399
+358
+urls expanded
+358
+70
+select text from twapperkeeper_2.z_89 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+22945
+cleaned
+22557
+Unique URLs dic created
+14390
+1748
+337
+urls expanded
+337
+246
+select text from twapperkeeper_2.z_121 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+4618
+cleaned
+4249
+Unique URLs dic created
+3164
+238
+216
+urls expanded
+216
+135
+select text from twapperkeeper_2.z_122 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+10051
+cleaned
+9177
+Unique URLs dic created
+6442
+577
+528
+urls expanded
+528
+278
+select text from twapperkeeper_2.z_128 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+24078
+cleaned
+21530
+Unique URLs dic created
+13368
+1631
+247
+urls expanded
+247
+139
+select text from twapperkeeper_2.z_140 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+150835
+cleaned
+137000
+Unique URLs dic created
+86327
+10168
+9
+urls expanded
+9
+9
+select text from twapperkeeper_2.z_145 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+15657
+cleaned
+15223
+Unique URLs dic created
+10075
+756
+678
+urls expanded
+678
+394
+select text from twapperkeeper_2.z_146 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+37850
+cleaned
+35624
+Unique URLs dic created
+24185
+2268
+10
+urls expanded
+10
+10
+select text from twapperkeeper_2.z_157 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+9435
+cleaned
+8877
+Unique URLs dic created
+6939
+431
+393
+urls expanded
+393
+256
+select text from twapperkeeper_2.z_159 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+4569
+cleaned
+4165
+Unique URLs dic created
+2602
+215
+198
+urls expanded
+198
+153
+select text from twapperkeeper_2.z_186 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+48998
+cleaned
+45415
+Unique URLs dic created
+27746
+2822
+169
+urls expanded
+169
+140
+select text from twapperkeeper_2.z_241 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+328080
+cleaned
+258374
+Unique URLs dic created
+79994
+24890
+2
+urls expanded
+2
+2
+select text from twapperkeeper_2.z_242 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+204652
+cleaned
+153241
+Unique URLs dic created
+42224
+11842
+0
+urls expanded
+0
+0
+select text from twapperkeeper_2.z_286 where iso_language_code like 'en'
+tweets read from DB
+short Urls extracted
+2496
+cleaned
+2238
+Unique URLs dic created
+1499
+139
+134
+urls expanded
+134
+64
+

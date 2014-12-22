@@ -1,0 +1,118 @@
+div#details,table.file-table {
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* encloses the whole item-specific details area */
+div#details {
+  width: auto;
+  margin: 0px 2em;
+}
+/* encloses the main details area */
+div#main {
+  margin-left: 188px;
+  background-color: white;
+
+  /* try to keep the main column at least as big as the XSPF audio player! */
+  min-width:500px;
+}
+
+/* encloses the main details area */
+div#mainMiddle {
+  margin-left: 188px;
+  background-color: white;
+  margin-right: 188px;
+}
+/* encloses the side bar on the left side */
+div#sidebar {
+  width: 180px;
+  float: left;
+  font-size: 90%;
+}
+
+div#rightside {
+  width: 180px;
+  float: right;
+  font-size: 90%;
+}
+
+/* encloses a section of the sidebar */
+div.section {
+  margin-bottom: 12px;
+  background-color: white;
+  /* this clips long urls in mozilla */
+  overflow: hidden;
+  /* this wraps long urls in IE */
+  word-wrap: break-word;
+}
+/* used to style section header bars */
+h1,h2,h3 {
+  padding: 2px 6px;
+  font-size: 120%;
+  font-weight: bold;
+  margin: 0px;
+}
+h3 { font-size: 100%; }
+/* used to wrap content and space it away from its container */
+p.content {
+  margin: 0;
+  padding: 0.5em;
+}
+/* used to emphasize content and space it away from its container */
+p.content div {
+  font-size: 120%;
+  font-weight: bold;
+}
+/* used to box a key-value list */
+p.boxed {
+  border:1px solid silver;
+  background-color:#fcfcfc;
+  margin: 0.25em;
+  padding: 0.5em;
+}
+/* used to style key-value pairs */
+span.key { font-weight: bold; }
+span.value { }
+/* used to align text to the right side of a header, always place this span 
+   before what's on the left */
+span.rightmost {
+  /* this should be a percentage, 
+      but Mozilla interprets it as % of parent width and IE as % of
+      document width */
+  width:15em;
+  float:right;
+  text-align:right;
+}
+#relations {
+  width: 100%;
+  clear: right;
+  float: right;
+}
+
+#relations p.content{
+  width: 100%;
+  clear: both;
+}
+
+#subjects {
+  margin-top: 5px;
+  width: 100%;
+  float: right;
+}
+
+
+h1 { color: white; }
+h3 { color: white; }
+.lightFore { color: white; }
+.blackFore { color: black; }
+
+/* could go down this path instead of constants.xml and "dynamic" CSS output */
+/******************************** COLORS ******************************
+body.Movies .lightBorder{ border: 2px solid #339933; }
+body.Movies .darkBorder { border: 2px solid #115500; }
+body.Movies .darkFore   { color: #115500; }
+body.Movies .grayBack   { background-color: #D8DEDE; }
+body.Movies .lightBack  { background-color: #339933; }
+body.Movies .darkBack   { background-color: #115500; }
+body.Movies h1          { background-color: #115500; }
+body.Movies h2          { background-color: #D8DEDE; color: #115500; }
+body.Movies h3          { background-color: #339933; }
+********************************* COLORS *******************************/
