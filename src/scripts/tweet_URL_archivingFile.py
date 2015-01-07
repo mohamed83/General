@@ -14,8 +14,8 @@ def visible(element):
 		return False
 	return True
 
-thresh = 1
-archiveID = "z_474_en"
+thresh = 10
+archiveID = "z_534"
 #solr_instance = solr.Solr(solr_url)
 
 #tweetFile = sys.argv[1]
@@ -114,13 +114,16 @@ print "urls expanded: ", i
 print "bad Urls: ",e
 
 print "Orig Url dic len: ", len(expanded_url_dict)
+fo = open('seedsURLs_'+archiveID+'.txt','w')
 fs = open("short_origURLsMapping_" + archiveID +".txt","w")
 for ourl,surls in expanded_url_dict.items():
 	fs.write(ourl +":--"+",".join(surls)+"\n")
+	fo.write(ourl+'\n')
 fs.close()
+fo.close()
 
 # sort expanded_url_dict in descending order of the url count
-sorted_list = sorted(expanded_url_dict.iteritems(), key=lambda x: len(x[1]), reverse=True)
+#sorted_list = sorted(expanded_url_dict.iteritems(), key=lambda x: len(x[1]), reverse=True)
 #print "sorted"
 '''
 fs = open("origURLs.txt","w")
