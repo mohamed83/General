@@ -8,7 +8,8 @@ Created on Feb 18, 2014
 
 @author: mohamed
 '''
-import sys    
+import sys
+from eventUtils import getIntersection
 def getDomain(url):
     #stat = {}
     #url = ""
@@ -31,16 +32,19 @@ def getDomain(url):
 #                 stat[domain].append(url)
 #     return stat
 
-def getDataset(filename):
+def getDataset(filename,outFile="domains.txt"):
     stat = {}
     f = open(filename,"r")
-    fw = open("domains.txt","w")
+    fw = open(outFile,"w")
     
     for line in f:
         #print line
         line = line.strip()
         if line.endswith("\n"):
             line = line[:-1]
+        if line.find(',') !=-1:
+            line = line.split(",")[0]
+        
 #         
         domain = getDomain(line)
         if domain not in stat:
@@ -52,7 +56,7 @@ def getDataset(filename):
         #print k + " " + str(len(v))
         #fw.write(k + " " + str(len(v)) + "\n")
     for k,v in sortedList:
-        print k + " " + str(len(v))
+        #print k + " " + str(len(v))
         fw.write(k + " " + str(len(v)) + "\n")
     
     #fw.write(training)
@@ -307,7 +311,40 @@ def shootingSourcesImportance(filename):
         for i in range(len(colls)):
             sourceOrderByCollection[i][src] = freqs[i]
     print sourceOrderByCollection
-             
+     
+
+def compareDomains(files):
+    domains = []
+    for bf in files:
+        doms = {}
+        f = open(bf)
+        #ls = f.readlines()
+        #ls = [l.strip() for l in ls]
+        for l in f:
+            l = l.strip()
+            p = l.split(" ")
+            if int(p[1]) > 1:
+                doms[p[0]] = int(p[1])
+            '''
+            if p[0] in doms:
+                doms[p[0]]+= int(p[1])
+            else:
+                doms[p[0]] = int(p[1])
+            '''
+        domains.append(doms)
+        f.close()
+    comps = []
+    sets = []
+    for d in domains:
+        s = set(d.keys())
+        sets.append(s)
+    for i in range(len(sets)):
+        for j in range(i+1,len(sets)):
+            comps.append(len(getIntersection(sets[i],sets[j])))
+    print comps
+    ks = [len(s) for s in sets]
+    print ks 
+    return comps       
         
 def getGlobalImportantWebsitesList(f):
     wlist = []
@@ -353,4 +390,27 @@ if __name__ == "__main__":
     #f = "sources.csv"
     #shootingSourcesImportance(f)
     
-    getGlobalImportantWebsitesList("news website Alexa rank.txt")
+    #getGlobalImportantWebsitesList("news website Alexa rank.txt")
+    '''
+    n = ['/base-','/event-']
+    for j in range(2):
+        for i in range(3):
+        #i=0
+            for t in n:
+                outFile = '/Users/mmagdy/fc results/'+str(j) + t +str(i)+'/domains.txt'
+                urlsFile = '/Users/mmagdy/fc results/'+str(j) + t +str(i)+t+'Output-URLs.txt'#t+'webpages/'
+                getDataset(urlsFile,outFile)
+    '''
+    
+    bfiles = ['b0-domains.txt','b1-domains.txt','b2-domains.txt']
+    compareDomains(bfiles)
+    efiles = ['e0-domains.txt','e1-domains.txt','e2-domains.txt']
+    compareDomains(efiles)
+    
+    fs = ['b0-domains.txt','e0-domains.txt']
+    compareDomains(fs)
+    fs = ['b1-domains.txt','e1-domains.txt']
+    compareDomains(fs)
+    fs = ['b2-domains.txt','e2-domains.txt']
+    compareDomains(fs)
+    

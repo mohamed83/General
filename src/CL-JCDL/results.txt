@@ -1,0 +1,36 @@
+lda tucson_shooting 7 142
+0.0492957746479
+ner tucson_shooting 15 142
+0.105633802817
+summary tucson_shooting 5 142
+0.0352112676056
+lda pakistan_flood 6 46
+0.130434782609
+ner pakistan_flood 1 46
+0.0217391304348
+summary pakistan_flood 13 46
+0.282608695652
+lda brazil_fire 5 45
+0.111111111111
+ner brazil_fire 2 45
+0.0444444444444
+summary brazil_fire 9 45
+0.2
+lda virginia_earthquake 2 68
+0.0294117647059
+ner virginia_earthquake 3 68
+0.0441176470588
+summary virginia_earthquake 12 68
+0.176470588235
+lda ebola 4 165
+0.0242424242424
+ner ebola 10 165
+0.0606060606061
+summary ebola 25 165
+0.151515151515
+lda sandy 4 168
+0.0238095238095
+ner sandy 0 168
+0.0
+summary sandy 13 168
+0.077380952381

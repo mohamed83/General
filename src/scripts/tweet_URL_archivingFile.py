@@ -14,8 +14,8 @@ def visible(element):
 		return False
 	return True
 
-thresh = 10
-archiveID = "z_534"
+thresh = 5
+archiveID = "z_543"
 #solr_instance = solr.Solr(solr_url)
 
 #tweetFile = sys.argv[1]
@@ -52,8 +52,7 @@ for line in tweets:
 	url_li = re.findall(regExp, line)  # find all short urls in a single tweet
 	while (len(url_li) > 0): 
 		shortURLsList.append(url_li.pop())
-print "short Urls extracted"
-print len(shortURLsList)
+print "short Urls extracted: ", len(shortURLsList)
 surls = []
 for url in shortURLsList:
 	i = url.rfind("/")
@@ -65,15 +64,14 @@ for url in shortURLsList:
 	while url.endswith("."):
 		url = url[:-1]
 	surls.append(url)
-print "cleaned"
-print len(surls)
+print "cleaned short URLs: ", len(surls)
 surlsDic ={}
 for url in surls:
 	if url in surlsDic:
 		surlsDic[url] = surlsDic[url] + 1
 	else:
 		surlsDic[url] = 1
-print "Unique URLs dic created: ", len(surlsDic)
+print "Unique short URLs: ", len(surlsDic)
 sorted_list = sorted(surlsDic.iteritems(), key=itemgetter(1), reverse=True)
 #print "sorted"
 #print len(sorted_list)
@@ -82,7 +80,7 @@ freqShortURLs =[]
 for surl,v in sorted_list:
 	if v > thresh:
 		freqShortURLs.append(surl)
-print "Freq URLs: ",len(freqShortURLs)
+print "Freq short URLs (>"+str(thresh)+"): ",len(freqShortURLs)
 
 fs = open("shortURLs_" + archiveID +".txt","w")
 for surl,v in sorted_list:
@@ -110,10 +108,10 @@ for url in freqShortURLs:
 	except :
 		print sys.exc_info()[0]
 		e = e +1
-print "urls expanded: ", i
-print "bad Urls: ",e
+print "URLs expanded: ", i
+print "Bad URLs: ",e
 
-print "Orig Url dic len: ", len(expanded_url_dict)
+print "Unique Orig URLs: ", len(expanded_url_dict)
 fo = open('seedsURLs_'+archiveID+'.txt','w')
 fs = open("short_origURLsMapping_" + archiveID +".txt","w")
 for ourl,surls in expanded_url_dict.items():

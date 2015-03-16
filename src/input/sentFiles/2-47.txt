@@ -1,1 +1,0 @@
-NWS WFO-scale satellite images (western US)

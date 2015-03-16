@@ -5,7 +5,7 @@ Created on Dec 11, 2014
 '''
 import random
 def convertMappingToSeeds():
-    fileName = 'short_origURLsMapping_z_474_en.txt'
+    fileName = 'short_origURLsMapping_z_534.txt'
     seedFileName = 'seeds_'+fileName.split("_")[-1]
     seedURLs = []
     with open(fileName,"r") as f:
@@ -21,12 +21,12 @@ def convertMappingToSeeds():
  
 def createRandomSeedFiles():
     #colls = ['459','460','474','475','477','478']
-    colls = ['474_en']
+    colls = ['540']
     nb = 3
     for c in colls:
         urls ={}
         #for i in range(3):
-        fn = 'seeds_'+c
+        fn = 'seedsURLs_z_'+c
         with open(fn+'.txt','r') as f:
             seeds = f.readlines()
         
