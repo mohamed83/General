@@ -7,8 +7,53 @@ import re
 #import pymysql
 from operator import itemgetter
 from contextlib import closing
+import scripts.eventUtils as eu
 
-
+sources = []
+lines = []
+with open('/Users/mmagdy/Dropbox/z_40_Sources.txt','r') as f:
+    lines = f.readlines()
+    
+for l in lines:
+    l = l.strip()
+    p,s,v = l.split(",")
+    sources.append((p,int(s),v))
+sources = eu.getSorted(sources, 1)
+s = sum([f for _,f,_ in sources ])
+print s
+'''
+with open('/Users/mmagdy/Dropbox/z_40_Sources2.txt','w') as f:
+    lines = "\n".join([p +","+str(s)+","+ v for p,s,v in sources])
+    f.write(lines)
+'''
+print sources
+'''
+urls = []
+f = open('/Users/mmagdy/Dropbox/shortURLs.txt','r')
+urls = f.readlines()
+f.close()
+urls = [u.strip() for u in urls]
+expanded_url_dict = {}
+i = 0
+e=0
+for url in urls:
+    with closing(requests.get(url,timeout=10, stream=True, verify=False)) as r:
+                #page = r.text or r.content
+        if r.status_code == requests.codes.ok:
+            
+            ori_url =r.url
+                # add the expanded original urls to a python dictionary with their count
+            if ori_url in expanded_url_dict:
+                expanded_url_dict[ori_url].append(url)
+            else:
+                expanded_url_dict[ori_url] = [url]
+                i+=1
+            
+        else:
+            e = e+1
+        print r.status_code
+'''
+'''
 def visible(element):
     if element.parent.name in ['style', 'script', '[document]', 'head']:
         return False
@@ -150,7 +195,7 @@ for wp in webpages:
     i+=1
 
 print "Webpages text saved"
-'''
+
 #Retrieve Original URLs
 #-------------------------
 # sort expanded_url_dict in descending order of the url count

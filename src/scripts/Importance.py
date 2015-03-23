@@ -3,12 +3,13 @@ Created on May 8, 2014
 
 @author: dlrl
 '''
+from scripts import eventUtils
 '''
 Created on Feb 18, 2014
 
 @author: mohamed
 '''
-import sys
+import pickle
 from eventUtils import getIntersection
 def getDomain(url):
     #stat = {}
@@ -346,6 +347,66 @@ def compareDomains(files):
     print ks 
     return comps       
         
+def computeGlobalSourcesImportance(folderLoc, ids):
+    total = 0
+    try:
+        gsi = pickle.load( open( "gsi.p", "rb" ) )
+        total = gsi['totalFreqs']
+    except:
+        gsi = {}
+    
+    #gsi = {}
+    #total = 0
+    for cid in ids:
+        fileLoc = folderLoc + "z_" + str(cid) + "_Sources.txt"
+        f = open(fileLoc,'r')
+        lines = f.readlines()
+        f.close()
+        for l in lines:
+            p = l.split(",")
+            d = p[0]
+            f = int(p[1])
+            if d in gsi:
+                gsi[d] += f
+            else:
+                gsi[d] = f
+            total+= f
+    gsi['totalFreqs'] = total
+    pickle.dump( gsi, open( "gsi.p", "wb" ) )
+    print total
+    return gsi
+
+def computeCategoricalSourcesImportance(folderLoc,category, ids):
+    total = 0
+    try:
+        csi = pickle.load( open( "csi.p", "rb" ) )
+    except:
+        csi = {}
+    
+    if category in csi:
+        total = csi[category]['totalFreqs']
+    else:
+        csi[category] = {}
+    
+    for cid in ids:
+        fileLoc = folderLoc + "z_" + str(cid) + "_Sources.txt"
+        f = open(fileLoc,'r')
+        lines = f.readlines()
+        f.close()
+        for l in lines:
+            p = l.split(",")
+            d = p[0]
+            f = int(p[1])
+            if d in csi[category]:
+                csi[category][d] += f
+            else:
+                csi[category][d] = f
+            total+= f
+    csi[category]['totalFreqs'] = total
+    pickle.dump( csi, open( "csi.p", "wb" ) )
+    print total
+    return csi
+
 def getGlobalImportantWebsitesList(f):
     wlist = []
     fl = open(f)
@@ -401,7 +462,7 @@ if __name__ == "__main__":
                 urlsFile = '/Users/mmagdy/fc results/'+str(j) + t +str(i)+t+'Output-URLs.txt'#t+'webpages/'
                 getDataset(urlsFile,outFile)
     '''
-    
+    '''
     bfiles = ['b0-domains.txt','b1-domains.txt','b2-domains.txt']
     compareDomains(bfiles)
     efiles = ['e0-domains.txt','e1-domains.txt','e2-domains.txt']
@@ -413,4 +474,20 @@ if __name__ == "__main__":
     compareDomains(fs)
     fs = ['b2-domains.txt','e2-domains.txt']
     compareDomains(fs)
+    '''
+    folderLoc = '/Users/mmagdy/Dropbox/'
+    #ids = [40,596,536,524,461,570,474,214]
+    #gsi = computeGlobalSourcesImportance(folderLoc,ids)
+    #gsi_sorted = eventUtils.getSorted(gsi.items(), 1)
+    #print gsi_sorted
     
+    categories_ids = {'shooting':[40,570],'weather':[596,474],'plane_crash':[536,214], 'disease_outbreak':[524],'community':[461]}
+    for c in categories_ids:
+        csi = computeCategoricalSourcesImportance(folderLoc,c, categories_ids[c])
+    print csi
+    '''
+    f = open('/Users/mmagdy/Dropbox/gsi.txt','w')
+    for k,v in gsi_sorted:
+        f.write(k + "," + str(v)+"\n")
+    f.close()
+    '''
