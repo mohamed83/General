@@ -52,33 +52,48 @@ def getShortURLsFreqDic(shortURLs):
     return shortURLsFreqDic
 
 def getTopFreqShortURLs(shortURLsTuples,fthresh):
-    freqShortURLs =[]
-        
+    freqShortURLs =[(s,v) for s,v in shortURLsTuples if v> fthresh]
+    
+    '''    
     for surl,v in shortURLsTuples:
         if v > fthresh:
             freqShortURLs.append(surl)
+    '''
     return freqShortURLs
 
 def getOrigLongURLs(shortURLs):
-    expandedURLs = []
+    expandedURLs = {}
         #freqShortURLs = freqShortURLs[:2000]
     i=0
     e=0
     
-    for surl in shortURLs:
+    for surl,v in shortURLs:
         try:
             with closing(requests.get(surl,timeout=10, stream=True, verify=False)) as r:
+                #print r.status_code
                 if r.status_code == requests.codes.ok:
+                    #print surl
                     ori_url =r.url
-                    expandedURLs.append(ori_url)
+                    if ori_url in expandedURLs:
+                        expandedURLs[ori_url].append((surl,v))
+                    else:
+                        expandedURLs[ori_url] = [(surl,v)]
+                    #expandedURLs.append(ori_url)
+                    i  =i+1
+                elif r.url != surl or r.request.url != surl:
+                    ori_url =r.url
+                    if ori_url in expandedURLs:
+                        expandedURLs[ori_url].append((surl,v))
+                    else:
+                        expandedURLs[ori_url] = [(surl,v)]
                     i  =i+1
                 else:
                     e = e+1    
-                    print r.status_code , surl
-                    expandedURLs.append("")
+                    print r.status_code , surl, r.url, r.request.url
+                    #expandedURLs.append("")
         except :
             print sys.exc_info()[0], surl
-            expandedURLs.append("")
+            #expandedURLs.append("")
             e = e +1
     print "urls expanded: ", i
     print "bad Urls: ",e
@@ -95,12 +110,13 @@ def getOrigLongURLsFreqDic(shortLongURLsTuples):
 
 def getSourceFreqDic(origLongURLsFreqDic):
     sourcesFreqDic = {}
-    for k,v in origLongURLsFreqDic:
+    for k,v in origLongURLsFreqDic.items():
+        su = sum([l for s,l in v])
         dom = eventUtils.getDomain(k)
         if dom in sourcesFreqDic:
-            sourcesFreqDic[dom].append(v)
+            sourcesFreqDic[dom].append(su)
         else:
-            sourcesFreqDic[dom] = [v]
+            sourcesFreqDic[dom] = [su]
             
     return sourcesFreqDic
             
@@ -118,35 +134,74 @@ def createShortLongURLsTuples(shortURLsDic,freqShortURLs,origLongURLs):
     return slURLsTuples
 
 def saveSourcesFreqDic(sourcesFreqDic,filename):
+    t = [(k, len(v),sum(v)) for k,v in sourcesFreqDic.items()]
+    st = eventUtils.getSorted(t, 1)
     f= open(filename,'w')
-    for k,v in sourcesFreqDic:
-        f.write(k +"," + str(len(v))+"," + str(sum(v))+"\n")
+    #for k,v in sourcesFreqDic.items():
+    for k,l,s in st:
+        #f.write(k +"," + str(len(v))+"," + str(sum(v))+"\n")
+        f.write(k +"," + str(l)+"," + str(s)+"\n")
     f.close()
 
-def processEventTweets(tweetsSource,thres,sourcesFilename):
+def extractShortURLsFreqDic(tweetsText):
+    shortURLsDic = {}
+    regExp = "(?P<url>https?://[a-zA-Z0-9\./-]+)"
+    for t in tweetsText:
+        t = t[0]
+        url_li = re.findall(regExp, t)  # find all short urls in a single tweet
+        while (len(url_li) > 0): 
+            surl = url_li.pop()
+            i = surl.rfind("/")
+            if i+1 >= len(surl):
+                continue
+            p = surl[i+1:]
+            if len(p) < 10:
+                continue
+            while surl.endswith("."):
+                surl = surl[:-1]
+            if surl in shortURLsDic:
+                shortURLsDic[surl] += 1
+            else:
+                shortURLsDic[surl]=1
+            #shortURLsList.append()
+    return shortURLsDic#shortURLsList
+
+def processEventTweets(tweetsSource,thres,sourcesFilename,archiveID):
     #for t in tweetsSource:
     #t = t[0]
+    '''
     shURLs = extractShortURLs(tweetsSource)
     print "short Urls extracted: ", len(shURLs)
+    
     vsURLs = getValidShortURLs(shURLs)
     print "cleaned: ", len(vsURLs)
+    
     sURLsFreq = getShortURLsFreqDic(vsURLs)
     print "Unique URLs dic created: ", len(sURLsFreq)
+    '''
+    sURLsFreq = extractShortURLsFreqDic(tweetsSource)
+    print "Unique URLs dic created: ", len(sURLsFreq)
+    
     freqShortURLs = getTopFreqShortURLs(sURLsFreq.items(), thres)
     print "Freq URLs (>"+str(thres)+"): ",len(freqShortURLs)
+    f = open('shortURLs_'+archiveID+'.txt','w')
+    f.write('\n'.join([s for s,v in freqShortURLs]))
+    f.close()
     origURLs = getOrigLongURLs(freqShortURLs)
     print "Orig Url dic len: ", len(origURLs)
-    slURLsTuples = createShortLongURLsTuples(sURLsFreq,freqShortURLs, origURLs)
-    origURLsFreq = getOrigLongURLsFreqDic(slURLsTuples)
-    sourcesFreq = getSourceFreqDic(origURLsFreq)
+    f = open('origURLs_'+archiveID+'.txt','w')
+    f.write('\n'.join(origURLs.keys()))
+    f.close()
+    #slURLsTuples = createShortLongURLsTuples(sURLsFreq,freqShortURLs, origURLs)
+    #origURLsFreq = getOrigLongURLsFreqDic(slURLsTuples)
+    sourcesFreq = getSourceFreqDic(origURLs)
     saveSourcesFreqDic(sourcesFreq, sourcesFilename)
     return sourcesFreq
 
 def batchProcessing():
     thresh = 1
-    #archiveList = [40,41,42,43,44,45,55,72,78,89,121,122,128,140,145,146,157,159,186,241,242,286,416,419,435,436,437,438,
-    #439,441,443,444,445,459,473,502,504,522,530,540,542,543,544,568,569,570,581,582,592]
-    archiveList = [40]
+    #archiveList = [40,41,42,43,44,45,55,72,78,89,121,122,128,140,145,146,157,159,186,241,242,286,416,419,435,436,437,438,439,441,443,444,445,459,473,502,504,522,530,540,542,543,544,568,569,570,581,582,592]
+    archiveList = [440]
     for aid in archiveList:
         
         archiveID = "z_"+str(aid)
@@ -163,7 +218,7 @@ def batchProcessing():
         print "tweets read from DB"
         
         tweets = cursor.fetchall()
-        processEventTweets(tweets, thresh, archiveID+'_Sources.txt')
+        processEventTweets(tweets, thresh, archiveID+'_Sources.txt', archiveID)
         # Extract short URLs from Tweets
         #-------------------------------
         #shortURLsList =[]
