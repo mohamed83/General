@@ -14,11 +14,11 @@ import codecs
 CONST_TABLE  = "z_403"
 CONST_ADDITIONAL = 'no'
 
-host='lancelot.dlib.vt.edu'
-username='mmagdy'
-password='pw4mmagdy'
+host='hadoop.dlib.vt.edu'
+username='ideal'
+password='pw4ideal'
 dbase='twitter'
-
+port=3307
 #def csv_unireader(f, encoding="utf-8"):
 #    for row in csv.reader(codecs.iterencode(codecs.iterdecode(f, encoding), "utf-8")):
 #        yield [e.decode("utf-8") for e in row]

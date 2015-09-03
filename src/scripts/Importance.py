@@ -477,13 +477,13 @@ if __name__ == "__main__":
     '''
     folderLoc = '/Users/mmagdy/Dropbox/'
     #ids = [40,596,536,524,461,570,474,214]
-    ids = [402]
+    ids = [402,440]
     gsi = computeGlobalSourcesImportance(folderLoc,ids)
     gsi_sorted = eventUtils.getSorted(gsi.items(), 1)
     print gsi_sorted
     
     #categories_ids = {'shooting':[40,570],'weather':[596,474],'plane_crash':[536,214], 'disease_outbreak':[524],'community':[461]}
-    categories_ids = {'disease_outbreak':[402]}
+    categories_ids = {'disease_outbreak':[402],'community':[440]}
     for c in categories_ids:
         csi = computeCategoricalSourcesImportance(folderLoc,c, categories_ids[c])
     print csi

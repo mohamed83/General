@@ -1,3 +1,4 @@
+'''
 def getDomain(url):
 	#stat = {}
 	#url = ""
@@ -63,4 +64,20 @@ wait_for(h, name, 'launch')
 h.launch_job(name)
 wait_for(h, name, 'unpause')
 h.unpause_job(name)
+'''	
+import eventUtils as eu
+
+urlsFile = 'bangkokBombingNeg.txt'
+f = open(urlsFile,'r')
+urls = f.readlines()
+f.close()
+
+#webpages = []
+#for u in urls:
+webpagesText = eu.getWebpageText_NoURLs(urls)
+fldr = 'negWebpages/'
+for i,wbt in enumerate(webpagesText):
+	f = open(fldr+str(i) + '.txt','w')
+	f.write(wbt['text'].encode('utf8'))
+	f.close()
 	
